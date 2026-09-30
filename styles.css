@@ -731,4 +731,12 @@ body:has(.packaging-page) .topbar{display:none}
  .pack-jump-select select{min-width:150px}
 }
 
+/* Complete per-flavor DTC artwork, displayed with each retail pack. */
+.pack-panel-heading{align-items:center}
+.pack-ai-download{min-height:48px;white-space:nowrap;border-color:#103e2c;color:#103e2c;background:#e3e9dc}
+.pack-ai-download:hover{background:#103e2c;color:#fff}
+.pack-panel-note{font-size:12px;color:#61705f;margin:24px 0 0}
+.pack-panel-system{scroll-margin-top:120px}
+@media(max-width:700px){.pack-panel-heading{align-items:flex-start}.pack-ai-download{white-space:normal}.pack-panel-system{scroll-margin-top:110px}}
+
 .public-source-preview{display:block}
