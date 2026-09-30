@@ -739,4 +739,24 @@ body:has(.packaging-page) .topbar{display:none}
 .pack-panel-system{scroll-margin-top:120px}
 @media(max-width:700px){.pack-panel-heading{align-items:flex-start}.pack-ai-download{white-space:normal}.pack-panel-system{scroll-margin-top:110px}}
 
+/* Artwork belongs to its product; formats are sibling views of that artwork. */
+.pack-panel-system>h3{font-size:23px;font-weight:500;letter-spacing:-.02em;margin:0 0 22px}
+.pack-format-tabs{display:flex;gap:28px;border-bottom:1px solid #b8c4b5}
+.pack-format-tabs button{font-size:15px;min-height:48px;padding:10px 0;border-bottom:3px solid transparent;margin-bottom:-1px;color:#61705f}
+.pack-format-tabs button[aria-selected=true]{color:#103e2c;border-bottom-color:#103e2c;font-weight:700}
+.pack-artwork-toolbar{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:22px 0 28px}
+.pack-artwork-toolbar p{font-size:14px;line-height:1.5;color:#61705f;max-width:510px;margin:0}
+.pack-ai-download{font-size:13px}
+.pack-panel-system [hidden]{display:none!important}
+.pack-frozen-fronts{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:26px;max-width:100%}
+.pack-frozen-fronts>figure:only-child{max-width:850px;width:100%;justify-self:center}
+.pack-back-options{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+.pack-frozen-sides{display:grid;gap:25px;max-width:850px;margin-inline:auto}
+.pack-panel-system figure{margin:0;min-width:0}
+.pack-panel-system figure img{display:block;width:100%;height:auto}
+.pack-panel-system figure button{position:relative;display:block;width:100%;padding:0;cursor:zoom-in}
+.pack-panel-system figcaption{font-size:12px;font-weight:500;color:#526453;margin:0 0 10px}
+.pack-options-title{font-size:17px;font-weight:500;margin:34px 0 18px}
+@media(max-width:700px){.pack-panel-system>h3{font-size:21px}.pack-artwork-toolbar{align-items:flex-start;flex-direction:column;gap:16px;padding:20px 0 25px}.pack-artwork-toolbar p{font-size:13px}.pack-format-tabs{gap:26px}.pack-back-options{grid-template-columns:1fr;gap:25px}.pack-frozen-fronts{grid-template-columns:1fr}.pack-options-title{margin-top:28px}}
+
 .public-source-preview{display:block}
