@@ -6,12 +6,7 @@ const LOGO = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"952.482\" height
 let logoCount=0;
 const logo=()=>LOGO.replace(/clip_1/g,'d2-logo-'+(++logoCount));
 const arrow='<svg class="arrow" viewBox="0 0 32 24" aria-hidden="true"><path d="M1 12h28M19 2l10 10-10 10"/></svg>';
-const BASE_DISHES=[
- {id:'rasta',name:'Jamaican Rasta Chicken Pasta',image:'../assets/rasta-food.png',color:'#103E2C',description:'Tender chicken with a warming kick of Jamaican spice, tossed in a creamy pasta with sweet peppers.'},
- {id:'blackened',name:'Creamy Blackened Chicken Pasta',image:'../assets/blackened-food.png',color:'#742D27',description:'Smoky blackened chicken, sweet peppers and tomatoes stirred through creamy pasta with just the right hit of spice.'},
- {id:'orzo',name:'Lemon Chicken Orzo',image:'../assets/orzo-food.png',color:'#253D61',description:'Juicy chicken in a bright citrus sauce blended with tender orzo and finished with tangy sun-dried tomatoes.'},
- {id:'chipotle',name:'Chipotle Chicken with Corn',image:'../assets/chipotle-food.png',color:'#38281F',description:'Smoky chipotle chicken with sweet corn, hearty black beans and seasoned rice, finished with smoky depth.'}
-];
+const BASE_DISHES=window.COOKT_PRODUCTS.map(p=>({id:p.id,name:p.name,image:'../assets/'+p.id+'-food.png',color:p.color,description:p.summary}));
 // Parent integration may supply asset overrides before this script, keyed by dish id.
 const DISHES=BASE_DISHES.map(d=>({...d,...(window.COOKT_D2_ASSETS?.[d.id]||{})}));
 const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -53,6 +48,7 @@ app.innerHTML=`<a class="skip-link" href="#meals">Skip to meals</a>
    </div>
    <div class="menu-baseline"><p class="brand-line">A fresh take on frozen</p><a href="#our-food">The COOKT way ${arrow}</a></div>
   </section>
+  <figure class="story-photo"><img src="../assets/photo-shared.webp" alt="Hands reaching for meals across a shared table in daylight"></figure>
   <section class="cookt-way" id="our-food" aria-labelledby="way-heading"><div class="way-content"><span class="way-label">The COOKT way</span><h2 id="way-heading">Tastes like someone cooked it.<br>Because someone did.</h2><p>We make frozen food that tastes how the dish is supposed to taste. Real ingredients. The right cooking techniques. Every flavor and texture arrives at your table the way it left our kitchen.</p><a href="#meals">View meals ${arrow}</a></div></section>
  </main>
  <footer class="site-footer"><a class="logo" href="#top" aria-label="COOKT home">${logo()}</a><p>A fresh take on frozen</p><a href="#top">Back to top ${arrow}</a></footer>
