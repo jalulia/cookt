@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.20.0",
+  "version": "0.21.0",
   "audience": "public",
   "edition": "rendered-only",
   "entry": "index.html",
-  "deploymentEntry": "hub.html",
+  "deploymentEntry": "index.html",
   "routes": [
     "#/",
     "#/brand",
@@ -163,7 +163,7 @@
       "sourceSha256": "7577b4c05c8593d2ab3ffda1513e68c518f489f8c81ca015328a891ed21cf447"
     }
   ],
-  "clientDataSha256": "856efb32b34d0b73482c33531502e90f544f859de53c4341de5161bcec8a680f",
+  "clientDataSha256": "80fccccc3d561a24937f0f9977276228f1097291e1322c866861bb8578abd38e",
   "files": [
     {
       "path": ".nojekyll",
@@ -172,8 +172,8 @@
     },
     {
       "path": "app.js",
-      "bytes": 59895,
-      "sha256": "dfe2807adced8ea5e4251f149f13ecfc8d2883603ca9f20f25ff591c95351e1c"
+      "bytes": 58646,
+      "sha256": "b5f3eb3d6856f8e2e76bc0618af2af760364a1af12e0e6355d7aa9e331d1dd7a"
     },
     {
       "path": "assets/barbacoa-catalog-v001.webp",
@@ -991,9 +991,19 @@
       "sha256": "d30bc5950deea67ae5ba8e4da1113e6327f075977acf88f14939a7a1e3d6e385"
     },
     {
+      "path": "brand-overview.css",
+      "bytes": 11407,
+      "sha256": "6c915bf8325f1cf8ceffdb0cbc70ee49c12305185b7feeed1697ffc115ca07f3"
+    },
+    {
+      "path": "brand-overview.js",
+      "bytes": 7035,
+      "sha256": "0aa19c23691437fe18bb7289d0f7a2bd7d59b37297535ed1377a77ebd845778b"
+    },
+    {
       "path": "data.js",
-      "bytes": 85528,
-      "sha256": "1c834f1ec00466434e29b4c98fbf76454e34e21e8ae47237141a47d453a565a1"
+      "bytes": 85975,
+      "sha256": "492e5522bd0e21cca240629b5c8847dc0232807b09f7308b6b0915dd1df19cdb"
     },
     {
       "path": "garnish-v003/art.js",
@@ -1012,8 +1022,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 3610,
-      "sha256": "6684dfb028b663c915cb8eb4af06c135e0302dbc3c5d827ab940f233a1abeb85"
+      "bytes": 3718,
+      "sha256": "0d23027b5cad8d3dbda45fe74b6a419d91a28de1debedd57d941fda5c34c2be1"
     },
     {
       "path": "photography-guide.html",
@@ -1056,5 +1066,5 @@
       "sha256": "a3e25e3d664e15199bb302b9e4f41cfb81bb25c9e31be02f2fca003b01d7767f"
     }
   ],
-  "bytes": 308512157
+  "bytes": 308529905
 }
