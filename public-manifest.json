@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.19.0",
+  "version": "0.20.0",
   "audience": "public",
   "edition": "rendered-only",
   "entry": "index.html",
@@ -95,8 +95,8 @@
     "#/library/assets"
   ],
   "panelCounts": {
-    "retail": 39,
-    "dtc": 41
+    "retail": 33,
+    "dtc": 20
   },
   "plateCount": 12,
   "excluded": [
@@ -163,7 +163,7 @@
       "sourceSha256": "7577b4c05c8593d2ab3ffda1513e68c518f489f8c81ca015328a891ed21cf447"
     }
   ],
-  "clientDataSha256": "fdbe763bf4ca54dfaee9b2ebdb070aa0fce5cd5d5f0f02bced71a0c7db5c0e7c",
+  "clientDataSha256": "9dbefdc107f6cf5985f00fa8687534bd2dc0f27da8b728bf99e1385c3ef32aa7",
   "files": [
     {
       "path": ".nojekyll",
@@ -172,13 +172,18 @@
     },
     {
       "path": "app.js",
-      "bytes": 59640,
-      "sha256": "80e45f1965ddb14355f0c1fa600b9fe2a8d3fa033995a2c33b9d2812dc72550b"
+      "bytes": 59895,
+      "sha256": "dfe2807adced8ea5e4251f149f13ecfc8d2883603ca9f20f25ff591c95351e1c"
     },
     {
       "path": "assets/barbacoa-catalog-v001.webp",
       "bytes": 330654,
       "sha256": "3c738faa0dbf3949f64ce60c350bcc3f792cfc1a4f1758bf701cd5805586a722"
+    },
+    {
+      "path": "assets/blackened-white-carton-v014.webp",
+      "bytes": 285524,
+      "sha256": "e146b53d4383d21db24515fdac3405b2eed9514e559dccbe8db22a5cc1032289"
     },
     {
       "path": "assets/burnt-ends-catalog-v001.webp",
@@ -191,6 +196,21 @@
       "sha256": "7d1ee576cdf529e2612667a21e07b92d99891c5770dea5a7bc5c19a1414022ab"
     },
     {
+      "path": "assets/chipotle-white-carton-v014.webp",
+      "bytes": 319388,
+      "sha256": "23d4a7ccc2bd42e682d36513afcef2a9a3378e4fec1e6283d7f20314b4b478a1"
+    },
+    {
+      "path": "assets/cookt-blackened-back-v001.png",
+      "bytes": 1463582,
+      "sha256": "c1d4b7669834ede27b6cd919fcd2f93d18484b629327f9d473edc23fdd5c877e"
+    },
+    {
+      "path": "assets/cookt-blackened-back-v001.webp",
+      "bytes": 219430,
+      "sha256": "92448aa2351f5263944a6671c6a6a4c8784c50b1f858c129ff7203dc29ca97b0"
+    },
+    {
       "path": "assets/cookt-blackened-green-rafiz-v001-4096.png",
       "bytes": 11755894,
       "sha256": "8430f7fd5d109d8e3a418135ffde509fc18b4662fb28a31f6773197f650edd8c"
@@ -199,6 +219,16 @@
       "path": "assets/cookt-blackened-green-rafiz-v001.webp",
       "bytes": 360220,
       "sha256": "15175303c09cbdf8b5686e04ffc5f5a93404a920024b6b67c12d692fa598116b"
+    },
+    {
+      "path": "assets/cookt-blackened-right-side-v001.png",
+      "bytes": 998476,
+      "sha256": "d16806a13d5ce60a909edad8b62edc9dc163ddd1b31929daf845744c0a55114f"
+    },
+    {
+      "path": "assets/cookt-blackened-right-side-v001.webp",
+      "bytes": 38772,
+      "sha256": "bc50924f563c5ba6023ce61c172a6e76e927843f4a1500f2f28252a1104ab908"
     },
     {
       "path": "assets/cookt-blackened-rust-proposed-v001-4096.png",
@@ -214,6 +244,16 @@
       "path": "assets/cookt-blackened-tablescape-web-v002.webp",
       "bytes": 282878,
       "sha256": "badbbb1cff6af8292fb373ba29c3f080b3c2280474a7a51c564548ccfbd8e933"
+    },
+    {
+      "path": "assets/cookt-blackened-top-v001.png",
+      "bytes": 71110,
+      "sha256": "e270b195483d31e49550325ffda9f882235942ca51354687273637f95b751b49"
+    },
+    {
+      "path": "assets/cookt-blackened-top-v001.webp",
+      "bytes": 23848,
+      "sha256": "ca6742efa4a26c0fd70efaaf1ff7927e4b97eefc186d403c023051c2c39fce14"
     },
     {
       "path": "assets/cookt-blackened-yellow-rafiz-v001-4096.png",
@@ -236,6 +276,16 @@
       "sha256": "826e65f2c04b167ca714746cdee1dc4f44c285c3deca44b331630009717d3728"
     },
     {
+      "path": "assets/cookt-chipotle-back-v001.png",
+      "bytes": 1623408,
+      "sha256": "e4897e39f9a99271913911add512e9a9e59866077e9c1a543fb41a5bf9397b05"
+    },
+    {
+      "path": "assets/cookt-chipotle-back-v001.webp",
+      "bytes": 215938,
+      "sha256": "5430e428a12a925a7af02590f717cb48a27a3ce4d67393fc8fa4007b89f2b349"
+    },
+    {
       "path": "assets/cookt-chipotle-dark-brown-proposed-v001-4096.png",
       "bytes": 10361250,
       "sha256": "60fbbff5c9ae2953b41a1cc2aff24f4f053c6425b4a76d4cba7738e91c569683"
@@ -256,9 +306,49 @@
       "sha256": "54a1b0219cabcbf4e1da69fc242c67665eb2b21d2b3d78e71f64587d4af6cb49"
     },
     {
+      "path": "assets/cookt-chipotle-right-side-v001.png",
+      "bytes": 463914,
+      "sha256": "1d83cf5ad4f40be2acd325a3ae6a8a6c03855d2406c4a48b1c817113b8d7e04e"
+    },
+    {
+      "path": "assets/cookt-chipotle-right-side-v001.webp",
+      "bytes": 70288,
+      "sha256": "0b887cfd0ab5dc1899e0079fb2bf6bb2e28613d9d0f45374fd03d42cd8e39c58"
+    },
+    {
       "path": "assets/cookt-chipotle-tablescape-web-v002.webp",
       "bytes": 325940,
       "sha256": "3ec11416417237be4b538deea4ff17b4cd2078c36b472fee2b1eed0ab2e6c705"
+    },
+    {
+      "path": "assets/cookt-chipotle-top-v001.png",
+      "bytes": 67482,
+      "sha256": "76732a70277d2efbe1ba6b56f6aa22e376ea9864afccc8c87ae1ce506e61168d"
+    },
+    {
+      "path": "assets/cookt-chipotle-top-v001.webp",
+      "bytes": 18266,
+      "sha256": "1ca4df48d6c10ada4f1424e0f7af06bccfa2e1d3b821bd173ba3d20b690ef75a"
+    },
+    {
+      "path": "assets/cookt-dieline-jamaican-rasta-chicken-pasta-v001.png",
+      "bytes": 3778598,
+      "sha256": "31c9ba57b7d045dc3cf79997ff90e383b9fcf37e41bf93f993f9deb9023304f2"
+    },
+    {
+      "path": "assets/cookt-dieline-jamaican-rasta-chicken-pasta-v001.webp",
+      "bytes": 177996,
+      "sha256": "ec3bbde496634d07aca9691d66fc8386fdbca2f7eebbcc76c98e0d074df74f65"
+    },
+    {
+      "path": "assets/cookt-dieline-lemon-chicken-orzo-v001.png",
+      "bytes": 3874470,
+      "sha256": "5391b6a860babf4087c18d5c92fbde8add3642a2e08fc686f20b6e0f0c14abf5"
+    },
+    {
+      "path": "assets/cookt-dieline-lemon-chicken-orzo-v001.webp",
+      "bytes": 172864,
+      "sha256": "20985f05aa004d5304b2fd3cd87c237fb55c5095b0747e2cce9c5ac89fdd94f0"
     },
     {
       "path": "assets/cookt-dtc-box-builder-v001.webp",
@@ -271,14 +361,34 @@
       "sha256": "ddb73736c555cafda864b378bcfdd085eb681817c0e3ae35cd010a95ba79d734"
     },
     {
-      "path": "assets/cookt-dtc-photo-range-v006.webp",
-      "bytes": 468050,
-      "sha256": "bbe607670737dbd352fc1eb5c3957ff2752ddd8d5b67fb51c24aef72a15c8096"
+      "path": "assets/cookt-dtc-photo-range-v014.webp",
+      "bytes": 402128,
+      "sha256": "561001b49e4e876cfaf151db941dd2d511c8ad9201885a2cf4b7b18b536c8668"
     },
     {
-      "path": "assets/cookt-dtc-type-range-v006.webp",
-      "bytes": 293102,
-      "sha256": "2613c68553b49ba0acfb34579d5c2cf0a48ef3352506919e10d11e0907c94af8"
+      "path": "assets/cookt-dtc-type-range-v014.webp",
+      "bytes": 154964,
+      "sha256": "a1113f978bd0cd799873bc1fdfe4c467e079f38b876cf2aec4ff696557d587ba"
+    },
+    {
+      "path": "assets/cookt-front-chipotle-chicken-with-corn-v014.png",
+      "bytes": 3109478,
+      "sha256": "b75790d7ca7be0904fd8903ba27dedb74018b1920b81e3d2fe98aa4ce3faba1a"
+    },
+    {
+      "path": "assets/cookt-front-creamy-blackened-chicken-pasta-v014.png",
+      "bytes": 8313624,
+      "sha256": "40c684c4b975ffb9e0d00c1d848c8c653e43b3972be595a3e5219193d2a9794f"
+    },
+    {
+      "path": "assets/cookt-front-jamaican-rasta-chicken-pasta-v014.png",
+      "bytes": 8264721,
+      "sha256": "3537fc2a6086666c5daaf91ac677a87accd0b7023c2c670e258da653036e27f2"
+    },
+    {
+      "path": "assets/cookt-front-lemon-chicken-orzo-v014.png",
+      "bytes": 8594792,
+      "sha256": "477ebcfa4c085d10f317c18d20f93529ced72c35619d5cfb41d980c3dd093123"
     },
     {
       "path": "assets/cookt-garnishes-atlas-v003.webp",
@@ -304,6 +414,16 @@
       "path": "assets/cookt-original-vertical-v001.png",
       "bytes": 60621,
       "sha256": "88b80f5c28ea3c0178c455cfa754b1a3d174fb7a192f25c55af8f9cebdcf0414"
+    },
+    {
+      "path": "assets/cookt-orzo-back-v001.png",
+      "bytes": 1505925,
+      "sha256": "348857a7d77e33352c8c8f71c770ef4c85e0fd8eee501a2b2bde41c9cbfd36a4"
+    },
+    {
+      "path": "assets/cookt-orzo-back-v001.webp",
+      "bytes": 227040,
+      "sha256": "752e58687880493782076524acaf68fe1960b8dc38eb074977c393796eb67a96"
     },
     {
       "path": "assets/cookt-orzo-blue-glaze-proposed-v001-4096.png",
@@ -336,9 +456,29 @@
       "sha256": "ea5de32504a61ec982864a493f8d8722ecea1b71704239c71199bdb6f19b5b24"
     },
     {
+      "path": "assets/cookt-orzo-right-side-v001.png",
+      "bytes": 1177755,
+      "sha256": "e9179b91f72085a992a2f9dad42cd5fb50c90c11db8d12b866e0aef855fb17c7"
+    },
+    {
+      "path": "assets/cookt-orzo-right-side-v001.webp",
+      "bytes": 50680,
+      "sha256": "dbf46a31140ba80dd16b7b8e5332ca6817517a28b371780e12a9f97ce23c8017"
+    },
+    {
       "path": "assets/cookt-orzo-tablescape-web-v002.webp",
       "bytes": 349832,
       "sha256": "4f87bd19f0c4322cedb2fd410db0417c7af9d7a9b13e4a891a18d95cb927bbb2"
+    },
+    {
+      "path": "assets/cookt-orzo-top-v001.png",
+      "bytes": 63604,
+      "sha256": "689185adb08d6b02edbc3f8fa56d9fe3b455f24b593420f6b6dfead11f1d36a1"
+    },
+    {
+      "path": "assets/cookt-orzo-top-v001.webp",
+      "bytes": 21054,
+      "sha256": "2a7f8fda1796c443ef5d860a04b41aa7a75ba136613c489192f2bbebc453a030"
     },
     {
       "path": "assets/cookt-peri-peri-concept-v002.webp",
@@ -376,6 +516,16 @@
       "sha256": "022f23a1d78832ef4b38d85accafa0855f1b01333a40e83596f2d1c02f709aab"
     },
     {
+      "path": "assets/cookt-rasta-back-v001.png",
+      "bytes": 1498730,
+      "sha256": "7fef69c723f897738eb5e0566aec3856c70fad16a9f4f785d6364c4864a250c6"
+    },
+    {
+      "path": "assets/cookt-rasta-back-v001.webp",
+      "bytes": 222120,
+      "sha256": "928a1b0edb4b6af609d951a56fbc542773d561172e287a51430db48eefb18551"
+    },
+    {
       "path": "assets/cookt-rasta-ochre-proposed-v001-4096.png",
       "bytes": 8728670,
       "sha256": "899b45b9c705b9e0fe2df9fd048b240d4334a80147fdbc721c5d3811d8f0b710"
@@ -406,44 +556,64 @@
       "sha256": "1fd7e45bf75669ac19b00aa7f4e7ea7357c7f3382341cf4ab904e3e3da62e7a4"
     },
     {
+      "path": "assets/cookt-rasta-right-side-v001.png",
+      "bytes": 1268857,
+      "sha256": "6a524d926206683bb20c12270790b49f85d3c6583d0087f2f5f79db51e3876f8"
+    },
+    {
+      "path": "assets/cookt-rasta-right-side-v001.webp",
+      "bytes": 56472,
+      "sha256": "f2eae413a380c95a78c62253e648ad67ea31630dc58d392fd93bf61de8040bdd"
+    },
+    {
       "path": "assets/cookt-rasta-tablescape-web-v002.webp",
       "bytes": 541510,
       "sha256": "b96bd2147e378a5e2e3c115c4d8bfa987cf802b9b7a65db1c987d1fc271aa100"
     },
     {
-      "path": "assets/cookt-retail-range-v008.webp",
-      "bytes": 420242,
-      "sha256": "ce25ea5a577bbc72b7bb3fd4a2fd3b8d6e2b1c0dd3f1acc87a780940bfb4d8cf"
+      "path": "assets/cookt-rasta-top-v001.png",
+      "bytes": 64002,
+      "sha256": "819d68ce5d180c9b48fd2ba4c8b76cf1823112a505b26e1fbf32d29d7e6cc7e8"
     },
     {
-      "path": "assets/cookt-system-comparison-v001.png",
-      "bytes": 540610,
-      "sha256": "c1b69b689e86ca583036a44562b891c50b70e0513a87a75affc1fb0ddd7874d4"
+      "path": "assets/cookt-rasta-top-v001.webp",
+      "bytes": 25696,
+      "sha256": "abd8ee0bea30f7e909b21020f7e130d1f60e9da15bff9834fa257d0488b38d5c"
     },
     {
-      "path": "assets/cookt-system-comparison-v001.webp",
-      "bytes": 157098,
-      "sha256": "6582b26c39b5cc99b90bc66550f106800dc82e3293dd8e9a813d7874acc72835"
+      "path": "assets/cookt-retail-original-refined-v015.webp",
+      "bytes": 400774,
+      "sha256": "ad00a60dcd554f6b8657d45dcdac9419d61d8ad7ac3d10853bb2a20b771fa5ae"
     },
     {
-      "path": "assets/cookt-system-gestalt-v001.png",
-      "bytes": 2571514,
-      "sha256": "39189d2c8700c2e8478f2d7f8787e6757e21373cc0e6f31bf03971780b478940"
+      "path": "assets/cookt-system-comparison-v002.png",
+      "bytes": 315603,
+      "sha256": "cd5a66fce6ea595f256fa378e44790f2759d7ad5da487b8b2b4c8c71097265a5"
     },
     {
-      "path": "assets/cookt-system-gestalt-v001.webp",
-      "bytes": 186608,
-      "sha256": "aa387581c99f61766208b43333e882995813fa06309b21a35f69ff2d20e6ec63"
+      "path": "assets/cookt-system-comparison-v002.webp",
+      "bytes": 196230,
+      "sha256": "eb021670f5e04e450f31a009a569fc4e3f050d33da1bc50a5d12ae8faaa3e5ea"
     },
     {
-      "path": "assets/cookt-system-specimens-v001.png",
-      "bytes": 1940007,
-      "sha256": "84a11f139826fd9b8b815d2875684eeacb1fe964879c13a52da81f726e68b99c"
+      "path": "assets/cookt-system-gestalt-v002.png",
+      "bytes": 843002,
+      "sha256": "e15a4ead0e7a65239efef415389287c9c12ae5a8e05eec0871bacb36a7f8eab6"
     },
     {
-      "path": "assets/cookt-system-specimens-v001.webp",
-      "bytes": 195558,
-      "sha256": "33696e1d0c8fd6ced05e3b821b1ceee8cf488c9d25bb1d0ce8722fdb2811eb43"
+      "path": "assets/cookt-system-gestalt-v002.webp",
+      "bytes": 231060,
+      "sha256": "3384fb60c5c5bfbecf7576a91db5130373d276cafbd419dd4551f135104808e4"
+    },
+    {
+      "path": "assets/cookt-system-specimens-v002.png",
+      "bytes": 722951,
+      "sha256": "451fad6f315804d4ec56e767e187fce1bc4169f261423a1218fb29f9e2a4a103"
+    },
+    {
+      "path": "assets/cookt-system-specimens-v002.webp",
+      "bytes": 243298,
+      "sha256": "cd61476ecaa27bee6322206435bda73a445ab1ceba492bb75c3853b04e21ae00"
     },
     {
       "path": "assets/cookt-version-1-horizontal-v001.png",
@@ -471,429 +641,129 @@
       "sha256": "5f3f9d89914ec438ab972533b233ea9f75bfa62cfe69869283f68e268cadec9a"
     },
     {
-      "path": "assets/dtc-blackened-back-kitchen-bullets-v013.webp",
-      "bytes": 138380,
-      "sha256": "ae640e96cdf9cebd21800149318a8ec4614b00c906b52dc8da502336f71b7e3f"
+      "path": "assets/dtc-blackened-no-bowl-v001.png",
+      "bytes": 219576,
+      "sha256": "2b958810a43c5844f2f495cb3d4ec42860d5e0631d75e091d9654ac4cb0e9611"
     },
     {
-      "path": "assets/dtc-blackened-back-kitchen-v013.webp",
-      "bytes": 143522,
-      "sha256": "c99bdc9f91f08f665e789c13ed0a3572af8bee78911417f4150f5c757d4ede77"
+      "path": "assets/dtc-blackened-no-bowl-v001.webp",
+      "bytes": 49924,
+      "sha256": "1683bba35614b74f45828c60ac211b942e7feb354ccc208b63346b5a0d152443"
     },
     {
-      "path": "assets/dtc-blackened-back-story-v013.webp",
-      "bytes": 151546,
-      "sha256": "965cadee6272c52eeddd00b6442c45a378c63977be04d1391fef51afc5f99fc3"
+      "path": "assets/dtc-blackened-type-lexend-title-v001.png",
+      "bytes": 219892,
+      "sha256": "cf37d19c57043c41e85f4ac238cd4bccec43bd500cc7e6d6d6e497867e653cb6"
     },
     {
-      "path": "assets/dtc-blackened-photo-base-v013.webp",
-      "bytes": 295634,
-      "sha256": "9188fd3d3c9c4b74cd3402ce0cb9944538e952e6347944b3b5c94749ab8ff432"
+      "path": "assets/dtc-blackened-type-lexend-title-v001.webp",
+      "bytes": 50132,
+      "sha256": "77083a5d312198006114e04389599be140edfe006e085eb88d0071f3b582f030"
     },
     {
-      "path": "assets/dtc-blackened-photo-regular-title-v013.webp",
-      "bytes": 296170,
-      "sha256": "d5e1030b31d70eae4756810b020c10afe69b3ce51ca970d42ff55bf4cc8cc0dc"
+      "path": "assets/dtc-chipotle-no-bowl-v001.png",
+      "bytes": 211748,
+      "sha256": "a0dc53a860b163a1d3f22ad060c7920a1f8f99bf1520218493a158c89125e5d1"
     },
     {
-      "path": "assets/dtc-blackened-photo-yellow-rim-bowl-v013.webp",
-      "bytes": 295584,
-      "sha256": "2398286509dbb00d4ec62d398742bcd879713f39973081ed544acfd30ce76eef"
+      "path": "assets/dtc-chipotle-no-bowl-v001.webp",
+      "bytes": 42264,
+      "sha256": "362272d899556293e68c3ca49a0ae7d962d6b688af67f846460657f63b2dc729"
     },
     {
-      "path": "assets/dtc-blackened-side-food-wrap-v013.webp",
-      "bytes": 114714,
-      "sha256": "f79cded45314a8acb956ec44264756b2f92ef6cf7067420a0f2d0618a3053ac4"
+      "path": "assets/dtc-chipotle-type-lexend-title-v001.png",
+      "bytes": 211129,
+      "sha256": "678b76901dc8b17512339a398a9ddd427deead8601851374e3f68c93ad68c174"
     },
     {
-      "path": "assets/dtc-blackened-side-quiet-v013.webp",
-      "bytes": 24356,
-      "sha256": "48958128c998e4e522bb3fb2ba0577cb9a67aa6b52a0df7c1c2927bcdc6de7d9"
+      "path": "assets/dtc-chipotle-type-lexend-title-v001.webp",
+      "bytes": 42748,
+      "sha256": "2cd20e6e62c071f51d698b7ab3375413e77650723557b6b971da5224677eee09"
     },
     {
-      "path": "assets/dtc-blackened-side-statement-v013.webp",
-      "bytes": 16864,
-      "sha256": "0fe80b53aec51d19795efe7de42b21017af07a05ef4b8b6d1caae23d08cfceb7"
+      "path": "assets/dtc-orzo-no-bowl-v001.png",
+      "bytes": 193448,
+      "sha256": "bad58f5eed247c59e1548a316bcbf377f796e091e2c818f3224e703c282962fc"
     },
     {
-      "path": "assets/dtc-blackened-type-base-v013.webp",
-      "bytes": 61072,
-      "sha256": "a1625d17c1569d2e3dca09b7ff81a49530c926fd64a6a02c9ca78d20f8bc5991"
+      "path": "assets/dtc-orzo-no-bowl-v001.webp",
+      "bytes": 43934,
+      "sha256": "695d15aede1c80f80dad266b598bef504e665121e5b546439777c634054f803f"
     },
     {
-      "path": "assets/dtc-blackened-type-regular-title-v013.webp",
-      "bytes": 61834,
-      "sha256": "1748b3a0cd42ca41d784a011ad83019b5a032d7b1aef3c6b763c04e184af6970"
+      "path": "assets/dtc-orzo-type-lexend-title-v001.png",
+      "bytes": 193943,
+      "sha256": "4362b76741aa3b6b0752b9c7ac627f4116b413dd33d5ce933ce1965c3b8d97ac"
     },
     {
-      "path": "assets/dtc-chipotle-back-kitchen-bullets-v013.webp",
-      "bytes": 135076,
-      "sha256": "b733557d972507698c205ff048011fd4989a1115cdbb9c0945d36dcdf4885705"
+      "path": "assets/dtc-orzo-type-lexend-title-v001.webp",
+      "bytes": 44650,
+      "sha256": "fbdf8cf2def04dfe01a0106cf490af88559e70ca8a8aafb6da7f2ed1832f2605"
     },
     {
-      "path": "assets/dtc-chipotle-back-kitchen-v013.webp",
-      "bytes": 141500,
-      "sha256": "98a7914dd8a6c53b35326a4e50dfd2f220add8b086cd2092e3f73e314e639bf0"
+      "path": "assets/dtc-rasta-no-bowl-v001.png",
+      "bytes": 202852,
+      "sha256": "95aba97b323cba52ec9fdd57dac841bff8e4c0d8909bb7477cff0df60e954228"
     },
     {
-      "path": "assets/dtc-chipotle-back-story-v013.webp",
-      "bytes": 149974,
-      "sha256": "d20444fd3744e3291f73236d165a509294c1005c2010551276089ee121728a15"
+      "path": "assets/dtc-rasta-no-bowl-v001.webp",
+      "bytes": 52804,
+      "sha256": "16dd1ae47af9012ef919a8820e6266a1353c66a8ff436a944279f65830b9d529"
     },
     {
-      "path": "assets/dtc-chipotle-photo-base-v013.webp",
-      "bytes": 365658,
-      "sha256": "3967b83d022d6fbee40865f447f216fe459f33da2011ba01dbb1e22243b4188b"
+      "path": "assets/dtc-rasta-type-lexend-title-v001.png",
+      "bytes": 203042,
+      "sha256": "0f81a473f02ec1ce7632bb82f855dec4af72230d99dce239e5b89331934867d4"
     },
     {
-      "path": "assets/dtc-chipotle-photo-regular-title-v013.webp",
-      "bytes": 366008,
-      "sha256": "9b16a9cb3b78faa781a834afc528730ab3125e6e829cd884f73c0351fa9d360a"
+      "path": "assets/dtc-rasta-type-lexend-title-v001.webp",
+      "bytes": 53146,
+      "sha256": "7b1947076b2f7e1c7f11afbe2cbe55b8a511064253f12addcc75772ac3872192"
     },
     {
-      "path": "assets/dtc-chipotle-side-food-wrap-v013.webp",
-      "bytes": 123946,
-      "sha256": "75a70e43262ed7649016406fcda5ac38580d7612284ce3636a7f179e516bea6c"
+      "path": "assets/email-d1-mobile-review09-v001.webp",
+      "bytes": 115070,
+      "sha256": "9526e7971c4aa0689995a9e5eb2462e957aa1b79b2d3feb8110a9ef4d50b5675"
     },
     {
-      "path": "assets/dtc-chipotle-side-quiet-v013.webp",
-      "bytes": 17840,
-      "sha256": "b0a0d77e3a11a07b5b1f1a26c6c6c99ee677de70c26f3dbe25bedac4c8209a3b"
+      "path": "assets/email-d1-review09-v001.webp",
+      "bytes": 855152,
+      "sha256": "ccca036b38558f22a5d3b9e84528ad2e2212a2d2bd2882278f7f87625df699ef"
     },
     {
-      "path": "assets/dtc-chipotle-side-statement-v013.webp",
-      "bytes": 13872,
-      "sha256": "2dc02eb953dd5d97837ed20de2f1dc8462167563dd6a5b2c2683ac65cbb544df"
+      "path": "assets/email-d2-mobile-review09-v001.webp",
+      "bytes": 69724,
+      "sha256": "adcf1e691bb85992e8abc4c6365feb72f3f880b3e6262f9fa1af3b8c77079af5"
     },
     {
-      "path": "assets/dtc-chipotle-type-base-v013.webp",
-      "bytes": 48110,
-      "sha256": "68130b685ecfb074bdba9541502a00d95843e27cf6909f8f415d9a339d598007"
+      "path": "assets/email-d2-review09-v001.webp",
+      "bytes": 386428,
+      "sha256": "4a68825c7a56d6eb1eb8354d57f2e8c4ca78c27eb4f1e7377e7d56c386a2697f"
     },
     {
-      "path": "assets/dtc-chipotle-type-regular-title-v013.webp",
-      "bytes": 48444,
-      "sha256": "9d96d8d31f936aeff22fa45a1b3c03c42003bba15774a6185865826092e65959"
+      "path": "assets/exact-base-blackened-v014.webp",
+      "bytes": 244854,
+      "sha256": "a77127229a6f62931ba54001d4bab174b30162cce575e51fff4dfe61653b45a3"
     },
     {
-      "path": "assets/dtc-orzo-back-kitchen-bullets-v013.webp",
-      "bytes": 134522,
-      "sha256": "1ac65f9525c929dd480812ac22a2ff63c1af09859dc05b0fcd1751ad8fb5bb48"
+      "path": "assets/exact-base-chipotle-v014.webp",
+      "bytes": 290670,
+      "sha256": "82e2df75c4554b8b3a7330fc500a5b553fe3af9248de54ec93dc9feacb9b1057"
     },
     {
-      "path": "assets/dtc-orzo-back-kitchen-v013.webp",
-      "bytes": 139564,
-      "sha256": "5191b636062e975852526d2cc451c53d18b669e805240d3db06705d60d6b67a0"
+      "path": "assets/exact-base-orzo-v014.webp",
+      "bytes": 241754,
+      "sha256": "77181e7aa8587dc82a0acd7f457c1a3566f628607b1e4486483fa29dda091062"
     },
     {
-      "path": "assets/dtc-orzo-back-story-v013.webp",
-      "bytes": 148838,
-      "sha256": "4c75d36ade4f3e0c00f58604b1d9d092025b7c35df2380d194334f4db9ca804c"
-    },
-    {
-      "path": "assets/dtc-orzo-photo-base-v013.webp",
-      "bytes": 296644,
-      "sha256": "d01ee154746cd5828491dbecad17f9faff0637c37520bfdbaf0a5c8b98457236"
-    },
-    {
-      "path": "assets/dtc-orzo-photo-regular-title-v013.webp",
-      "bytes": 300688,
-      "sha256": "6fc9718d83e8f7ff492db40a536bf139a7d0bf37db28fa494112d311a94b5dd4"
-    },
-    {
-      "path": "assets/dtc-orzo-side-food-wrap-v013.webp",
-      "bytes": 100854,
-      "sha256": "1546d559c14051345bc2e53b00b70db0beacf6d00fa04cbeed62cfeed1a3e3a3"
-    },
-    {
-      "path": "assets/dtc-orzo-side-quiet-v013.webp",
-      "bytes": 20012,
-      "sha256": "7730fdbf1e3d3c54d8c614fe542374176000559064b3a1a8e98171297a670da8"
-    },
-    {
-      "path": "assets/dtc-orzo-side-statement-v013.webp",
-      "bytes": 17946,
-      "sha256": "2f4de27acc9f867abf21512e5a1337a840f60e3dcbfb211db7a2aed841f3756a"
-    },
-    {
-      "path": "assets/dtc-orzo-type-base-v013.webp",
-      "bytes": 52248,
-      "sha256": "9d99718741d7a1ac5c6f03441117bb45e279e7364c5c981733bdf4fd024a7f31"
-    },
-    {
-      "path": "assets/dtc-orzo-type-regular-title-v013.webp",
-      "bytes": 52774,
-      "sha256": "7748610a25339cfbee654c9dfde3b0224a731a63aeefd294ba4328096209a712"
-    },
-    {
-      "path": "assets/dtc-rasta-back-kitchen-bullets-v013.webp",
-      "bytes": 132472,
-      "sha256": "8aa936b7c11059d0e393157ece0906eec16d4eda7d00bb7827c94963fa6a0008"
-    },
-    {
-      "path": "assets/dtc-rasta-back-kitchen-v013.webp",
-      "bytes": 137900,
-      "sha256": "4b4df4fdf12517084e7928ecf25de4b2ce4067c87a81cc3da4feca8802be26b1"
-    },
-    {
-      "path": "assets/dtc-rasta-back-story-v013.webp",
-      "bytes": 147400,
-      "sha256": "378e0a229dbba9cba10f6e7362f18134073301d05da7a26c12574aaccf2240fd"
-    },
-    {
-      "path": "assets/dtc-rasta-photo-base-v013.webp",
-      "bytes": 324472,
-      "sha256": "0df8605b2b898287c61abc6ff07b037f3a54292d6341a6d00576bfc7787a8ee1"
-    },
-    {
-      "path": "assets/dtc-rasta-photo-regular-title-v013.webp",
-      "bytes": 324860,
-      "sha256": "d311707fbf991e661bf52a61afbdeb013db920416dd5ec3d0dd1110069386d16"
-    },
-    {
-      "path": "assets/dtc-rasta-side-food-wrap-v013.webp",
-      "bytes": 108424,
-      "sha256": "bda2199077680b83def49536a4a90d1b6e185bfadd5d674d3926c24660e08c74"
-    },
-    {
-      "path": "assets/dtc-rasta-side-quiet-v013.webp",
-      "bytes": 25800,
-      "sha256": "e0239325b4d63e331f31b8b903ba121702b69e27ec04707171bdcadee3a839bc"
-    },
-    {
-      "path": "assets/dtc-rasta-side-statement-v013.webp",
-      "bytes": 19150,
-      "sha256": "ab989cfdcffe4df06427e8faf26e71ba582f4e18645e53822f150aee365e47c0"
-    },
-    {
-      "path": "assets/dtc-rasta-type-base-v013.webp",
-      "bytes": 65878,
-      "sha256": "85cd86e72d9479379f636d4fa3336a1727ee3232d21ebb4f350e0bb32462f664"
-    },
-    {
-      "path": "assets/dtc-rasta-type-regular-title-v013.webp",
-      "bytes": 66590,
-      "sha256": "a148ff1b294ad32a7e7e72888b59115f5511f59a7704cb069a2fcd6a76d067b4"
-    },
-    {
-      "path": "assets/email-d1-mobile-review08-v001.webp",
-      "bytes": 286372,
-      "sha256": "bddafadc352f34df9c0ae08c0a2dd2e4ae65df4cba8852e4bcbf98f9e0298af1"
-    },
-    {
-      "path": "assets/email-d1-review08-v001.webp",
-      "bytes": 325362,
-      "sha256": "ba9799688057689afaff6e4b86caa6d96d198c293848efeb0d6c96b1bbfd0658"
-    },
-    {
-      "path": "assets/email-d2-mobile-review08-v001.webp",
-      "bytes": 193554,
-      "sha256": "b6181c36715ef6685e702178def9b0e2c17d28fcccff90f612f667ec83638bda"
-    },
-    {
-      "path": "assets/email-d2-review08-v001.webp",
-      "bytes": 117062,
-      "sha256": "830b0c6c5cc850292231581a5f3d310805798e9d45116e1a018ce30b6c47dedd"
+      "path": "assets/exact-base-rasta-v014.webp",
+      "bytes": 254840,
+      "sha256": "8b4ca2fc827c8b12ee7e12a89bb89c433a314d25aa631e15d4d5568513f2857b"
     },
     {
       "path": "assets/fiery-catalog-v001.webp",
       "bytes": 402288,
       "sha256": "30c2db41bb34f5eec90d447fefc36d4ad76e142352b8e70f25e3a6a61dd367c7"
-    },
-    {
-      "path": "assets/frozen-blackened-back-kitchen-bullets-v012.webp",
-      "bytes": 75916,
-      "sha256": "9c23cd2f5a067a79a3e3dfcb3de7a736d17623ecad87871f468d669fe5c4da5f"
-    },
-    {
-      "path": "assets/frozen-blackened-back-kitchen-v012.webp",
-      "bytes": 78996,
-      "sha256": "149bb98d838c0f63ff99ff5a8d6ad96524427fe70625a50e3502c36012e7afbd"
-    },
-    {
-      "path": "assets/frozen-blackened-back-story-v012.webp",
-      "bytes": 83874,
-      "sha256": "fb3f6b7e8695363e19f7f872dd9301de06c248382c13aa1b7855e2cd0b9e12f8"
-    },
-    {
-      "path": "assets/frozen-blackened-front-base-v012.webp",
-      "bytes": 137030,
-      "sha256": "97dc864aa24e6d37b4c18b968ca75fe7403897775d1bf7e95b6c3b73fdbb21a1"
-    },
-    {
-      "path": "assets/frozen-blackened-front-earlier-field-v012.webp",
-      "bytes": 137246,
-      "sha256": "45eaf0a91190b3d6b052494e8aa90d6966b6e894a93da64d1ae7188da393ae23"
-    },
-    {
-      "path": "assets/frozen-blackened-front-regular-title-v012.webp",
-      "bytes": 137122,
-      "sha256": "1ea42e35ebd5e3c480ed879efe97b0f24a1bb4857fd1eb3e48293bfc7e14cbf0"
-    },
-    {
-      "path": "assets/frozen-blackened-front-yellow-rim-bowl-v012.webp",
-      "bytes": 138142,
-      "sha256": "d6585bdf6a8fa0afd0b040a848c4cf3fbbe70c6605af0b4c13e0c7eaf0b2c20a"
-    },
-    {
-      "path": "assets/frozen-blackened-side-food-wrap-v012.webp",
-      "bytes": 48864,
-      "sha256": "6c0eecc6a2cd3476460b2133bed048328114e06878c4e369afc33ae84a691cc2"
-    },
-    {
-      "path": "assets/frozen-blackened-side-quiet-v012.webp",
-      "bytes": 13282,
-      "sha256": "b6fd5561c0be3d7ba42a7839e7a13fad9a96fe58e00c87ab0f2087729ce5933b"
-    },
-    {
-      "path": "assets/frozen-blackened-side-statement-v012.webp",
-      "bytes": 11364,
-      "sha256": "ca95adbbb379d2099112dbe3d61bf5ed054645e492279a2762e51781532bb8bf"
-    },
-    {
-      "path": "assets/frozen-chipotle-back-kitchen-bullets-v012.webp",
-      "bytes": 74566,
-      "sha256": "4de683a27010211bf80c0b8d9910292b4df3f4ece4d095d90475769994073a5c"
-    },
-    {
-      "path": "assets/frozen-chipotle-back-kitchen-v012.webp",
-      "bytes": 78094,
-      "sha256": "13b8099377b58a18882dcb2f0b95f7afceccf942f0250e72b6f1aa413a8c7a26"
-    },
-    {
-      "path": "assets/frozen-chipotle-back-story-v012.webp",
-      "bytes": 81860,
-      "sha256": "b1515fd5dd00f4bb7c705419df47654f0c97ca63a196d0b2dbeb8bb430dc4512"
-    },
-    {
-      "path": "assets/frozen-chipotle-front-base-v012.webp",
-      "bytes": 178856,
-      "sha256": "168f6d07aaa67e6bc8f6c0daeeb67137ba549b552f19510015a62d3ba951f4b5"
-    },
-    {
-      "path": "assets/frozen-chipotle-front-earlier-field-v012.webp",
-      "bytes": 179060,
-      "sha256": "93d11f25dafab8ffa89a4072015e8526901be4c3481ab1fc36324d86983542af"
-    },
-    {
-      "path": "assets/frozen-chipotle-front-regular-title-v012.webp",
-      "bytes": 179014,
-      "sha256": "e4f0ba94f05289db56b9e4f0c6908f0a6b8eb0b7161c94e4e215a714ca38a1ff"
-    },
-    {
-      "path": "assets/frozen-chipotle-side-food-wrap-v012.webp",
-      "bytes": 51972,
-      "sha256": "7167401a1b6eb11868f6bd9412501da09a8fbea0a66ccc6c1459e7996a700c53"
-    },
-    {
-      "path": "assets/frozen-chipotle-side-quiet-v012.webp",
-      "bytes": 10378,
-      "sha256": "c2fda503dd224e8c277f3ec8a3b51866e71838c92702408d85247d6b019a882d"
-    },
-    {
-      "path": "assets/frozen-chipotle-side-statement-v012.webp",
-      "bytes": 9048,
-      "sha256": "c68305e0ead5f93f5783729314760287785df912dc40d195c4c29d93db399a71"
-    },
-    {
-      "path": "assets/frozen-orzo-back-kitchen-bullets-v012.webp",
-      "bytes": 72740,
-      "sha256": "b58dc2905d142f889b3c2a4af2af5f96b7b41ad1a96f7a7bff6f7cd9082fd27e"
-    },
-    {
-      "path": "assets/frozen-orzo-back-kitchen-v012.webp",
-      "bytes": 76748,
-      "sha256": "c10678b3ab4facca0ad84d480899d4f57ad76a68971799c267cef7936b74010a"
-    },
-    {
-      "path": "assets/frozen-orzo-back-story-v012.webp",
-      "bytes": 81118,
-      "sha256": "0066f674fbd74c984190d522885bd2e7d5258c4c4fe7bc2b3a4fc1669c48f0f3"
-    },
-    {
-      "path": "assets/frozen-orzo-front-base-v012.webp",
-      "bytes": 133558,
-      "sha256": "edae81147868b643ed166a06313d320fbe5435167ac811ffb3eff6e366d0c11c"
-    },
-    {
-      "path": "assets/frozen-orzo-front-earlier-field-v012.webp",
-      "bytes": 132594,
-      "sha256": "a93ad862b0ff0429c42e667f0dd9701e952a5bd5fd8bc44824c44619a0fd32f3"
-    },
-    {
-      "path": "assets/frozen-orzo-front-regular-title-v012.webp",
-      "bytes": 133748,
-      "sha256": "55819f2f647147232af6ecea5af8f31c34677746c707932c9a1de8e3d08a55fa"
-    },
-    {
-      "path": "assets/frozen-orzo-side-food-wrap-v012.webp",
-      "bytes": 44556,
-      "sha256": "fd76228aecdd8c3b3b759a5d161e951c898b65afef93f0443f846628f4015a21"
-    },
-    {
-      "path": "assets/frozen-orzo-side-quiet-v012.webp",
-      "bytes": 11114,
-      "sha256": "f9ff368c958eea670f4a06e025ff4ce501d5603330143b743b4470eac078f443"
-    },
-    {
-      "path": "assets/frozen-orzo-side-statement-v012.webp",
-      "bytes": 11836,
-      "sha256": "3f50e5446f799519edcd49675e0264cadc496b28ff613a15bdd27a6d6b370e81"
-    },
-    {
-      "path": "assets/frozen-rasta-back-kitchen-bullets-v012.webp",
-      "bytes": 72674,
-      "sha256": "947f0a57be344d9bac5a26e57cfff09e6c42358bfeef3849993d2e45e37adb70"
-    },
-    {
-      "path": "assets/frozen-rasta-back-kitchen-v012.webp",
-      "bytes": 75912,
-      "sha256": "16ac37ff255e99f5f0480bde3238f27ed0dcd7dc0b8b6aaa58e8c9d55f2d31e1"
-    },
-    {
-      "path": "assets/frozen-rasta-back-story-v012.webp",
-      "bytes": 81512,
-      "sha256": "38eb20f3b43595e7c30bc9d2feba4f768bd37b39f84d875ed8ea74437ce51705"
-    },
-    {
-      "path": "assets/frozen-rasta-front-base-v012.webp",
-      "bytes": 143350,
-      "sha256": "9d9f9b0588f04472f7336d0b28c78aece78e798d1cdef9744f4c2145e412cfb6"
-    },
-    {
-      "path": "assets/frozen-rasta-front-cream-type-v012.webp",
-      "bytes": 138784,
-      "sha256": "b92c89716845bd024bb7ba3d0e6cf055300a7776b14b34368f4f3acfc8667478"
-    },
-    {
-      "path": "assets/frozen-rasta-front-earlier-field-v012.webp",
-      "bytes": 143260,
-      "sha256": "2915c369265f9f02f91f16ff290d978745611787b69bcc7efef1ee8780ce99c8"
-    },
-    {
-      "path": "assets/frozen-rasta-front-light-green-type-v012.webp",
-      "bytes": 137172,
-      "sha256": "0002b513b18c877bb97151beb49f6623aac36597d6ee3bc8073b2309632d277c"
-    },
-    {
-      "path": "assets/frozen-rasta-front-regular-title-v012.webp",
-      "bytes": 143502,
-      "sha256": "833294c50a6d5baad790ce47cfc4cf56c192e68df571e62a1261a5ed9bfe6664"
-    },
-    {
-      "path": "assets/frozen-rasta-side-food-wrap-v012.webp",
-      "bytes": 47088,
-      "sha256": "ceedfb3d2fb5b584b0a5606339690f45dc17bec94d055b2e180a1b79f438c51f"
-    },
-    {
-      "path": "assets/frozen-rasta-side-quiet-v012.webp",
-      "bytes": 14004,
-      "sha256": "6823ee601bc8298c1940acf92b56d9775bf484bb40f32d1570d50ec4f4e6211f"
-    },
-    {
-      "path": "assets/frozen-rasta-side-statement-v012.webp",
-      "bytes": 12692,
-      "sha256": "b27d2570ea3c89b8145689b93e97744ae6a8be44240631457b8c026f75401761"
     },
     {
       "path": "assets/international-specimen.png",
@@ -926,9 +796,19 @@
       "sha256": "d0ac20d9031db8618985717e65a6219c278bd4775be41e40f33c1d69f456fc51"
     },
     {
+      "path": "assets/orzo-white-carton-v014.webp",
+      "bytes": 281646,
+      "sha256": "8174cde1844a925070b4fc310c1fc56543e77e14b3ee8e58476eda54bee37635"
+    },
+    {
       "path": "assets/r2-packaging-hero.webp",
       "bytes": 97906,
       "sha256": "fba9f3f682a0a2cfb945668634c0d54159d9f2e2956b14e5226bd4983a586535"
+    },
+    {
+      "path": "assets/rasta-white-carton-v014.webp",
+      "bytes": 287320,
+      "sha256": "18e17c5cd0bc7dde3271af1ae3afc7bca58a56c974aeb9ac8cc5a2735a403205"
     },
     {
       "path": "assets/rebrand-r2-cover.webp",
@@ -936,34 +816,184 @@
       "sha256": "220d876bd227d38b9fd37d82628a4bdae5061dbc0b464479aed09858f5190903"
     },
     {
+      "path": "assets/retail-blackened-earlier-field-v001.png",
+      "bytes": 8323377,
+      "sha256": "8b780e7443a28587339ef8f4ddb3b79a39d3cf740b3d2f14443cef5fa813e923"
+    },
+    {
+      "path": "assets/retail-blackened-earlier-field-v001.webp",
+      "bytes": 245432,
+      "sha256": "7a126384271172b21dd14946bd203219573a083cd94d9420452f6ad23dfc7918"
+    },
+    {
+      "path": "assets/retail-blackened-lexend-title-v001.png",
+      "bytes": 8322236,
+      "sha256": "a2e0907ca818f22f9cfe1579946d1a44e4ff4b14269bcc629ee34806d3b6dc2c"
+    },
+    {
+      "path": "assets/retail-blackened-lexend-title-v001.webp",
+      "bytes": 245326,
+      "sha256": "7050029508d021e281358dce09cced3cfe2ec3ecd6964248401676f5cfe30fbc"
+    },
+    {
+      "path": "assets/retail-blackened-regular-title-v001.png",
+      "bytes": 8325147,
+      "sha256": "94f770fc00e394d72bfaf39b01400fcdbbd3fd215394f71162dd13f04a571b12"
+    },
+    {
+      "path": "assets/retail-blackened-regular-title-v001.webp",
+      "bytes": 245342,
+      "sha256": "9df76667099746675d968b7c88c268185c92251112f4a28364521b76d3edc936"
+    },
+    {
+      "path": "assets/retail-blackened-yellow-rim-bowl-v001.png",
+      "bytes": 8361361,
+      "sha256": "4761f3bc39446420cbf1b044c5bf4884a215f3c68840224ee065fde763178583"
+    },
+    {
+      "path": "assets/retail-blackened-yellow-rim-bowl-v001.webp",
+      "bytes": 246384,
+      "sha256": "254927edf7b4b931ffc390f56e783c87a9ec7510cf896d4224517f9695b2a722"
+    },
+    {
+      "path": "assets/retail-chipotle-earlier-field-v001.png",
+      "bytes": 3113034,
+      "sha256": "e21c14d7d772783febe127df720440bbba5308c9b3fbf07447b6325d82bcecbf"
+    },
+    {
+      "path": "assets/retail-chipotle-earlier-field-v001.webp",
+      "bytes": 290978,
+      "sha256": "37389eb0c97c6f123f6c55e04a6658e268108740ea47a109737482f650f77341"
+    },
+    {
+      "path": "assets/retail-chipotle-lexend-title-v001.png",
+      "bytes": 3108826,
+      "sha256": "5cb7abb0a9f4eaf596b49c9eb3eb277eb8ba7642d2cba18accf7e205b3a0c6a2"
+    },
+    {
+      "path": "assets/retail-chipotle-lexend-title-v001.webp",
+      "bytes": 291288,
+      "sha256": "8ac58e49ac7c3020e326c9e7136ea4b11ed44f45033d808296e53af74e707d3f"
+    },
+    {
+      "path": "assets/retail-chipotle-regular-title-v001.png",
+      "bytes": 3110768,
+      "sha256": "3722c3c314d457d235251fe25058ebf0a0b0a8fda93742196cd5217ef4030fd8"
+    },
+    {
+      "path": "assets/retail-chipotle-regular-title-v001.webp",
+      "bytes": 291034,
+      "sha256": "c037dafb5af59251da8dcc283a5e6e6dfe1c19f84084eb0165895adc91b37d6c"
+    },
+    {
+      "path": "assets/retail-orzo-earlier-field-v001.png",
+      "bytes": 8583435,
+      "sha256": "9bdffb1ecd2e5e9da2001e4b01f196ec70993101a84b1168fc93860acf6dcdcc"
+    },
+    {
+      "path": "assets/retail-orzo-earlier-field-v001.webp",
+      "bytes": 241474,
+      "sha256": "f902ac3b963e5087ecbe06b3592c7916a2e986e8ec2d567130ba495d106797bd"
+    },
+    {
+      "path": "assets/retail-orzo-lexend-title-v001.png",
+      "bytes": 8598385,
+      "sha256": "0ca2b955e0ceb2226b104d93725ed5351c27e8f0c95b40b0cd980eb7ea814fbb"
+    },
+    {
+      "path": "assets/retail-orzo-lexend-title-v001.webp",
+      "bytes": 246304,
+      "sha256": "efb0051934b1b7c398e123d69617096edd8b44e18f4f0b44e0298868d3268ce0"
+    },
+    {
+      "path": "assets/retail-orzo-regular-title-v001.png",
+      "bytes": 8599833,
+      "sha256": "fbd1840306bc87d38014134b29071e78929dd5aac3726b131016921be5266208"
+    },
+    {
+      "path": "assets/retail-orzo-regular-title-v001.webp",
+      "bytes": 245978,
+      "sha256": "cb3f223253c423845ba68a27bb3e4bbfcd154cdb7729120c50040d7746b794f5"
+    },
+    {
+      "path": "assets/retail-rasta-cream-type-v001.png",
+      "bytes": 8280773,
+      "sha256": "97acaa3edeb5c1b2de1a4933cfb95d2e49cb50e65547c0eeb8447243cf8df5f9"
+    },
+    {
+      "path": "assets/retail-rasta-cream-type-v001.webp",
+      "bytes": 249912,
+      "sha256": "5808068edf73d250179460eaa7651d5b8cf47b1f1d5fd052f4a1c1edf5825691"
+    },
+    {
+      "path": "assets/retail-rasta-earlier-field-v001.png",
+      "bytes": 8281394,
+      "sha256": "f33cd7b58ee140433ce98f33a87bee71359ef28c00eb5805dd2e6442eda40728"
+    },
+    {
+      "path": "assets/retail-rasta-earlier-field-v001.webp",
+      "bytes": 255082,
+      "sha256": "462ccac131f493d6686b0b00146a03cb9efa2b626accf61b776a4d860e234262"
+    },
+    {
+      "path": "assets/retail-rasta-lexend-title-v001.png",
+      "bytes": 8268583,
+      "sha256": "0fc3b9dc9f6fd342f76ba1fad6c7a3a205da81f229198b5ef98c36a23baded77"
+    },
+    {
+      "path": "assets/retail-rasta-lexend-title-v001.webp",
+      "bytes": 254980,
+      "sha256": "26f93eb3c8815e5ba61c6ee6d328641cfb2f7b7b51f446c962956c0e614ac87b"
+    },
+    {
+      "path": "assets/retail-rasta-light-green-type-v001.png",
+      "bytes": 8277528,
+      "sha256": "b779c0c00c98e836b52b419df74a23363b7406f1a4a9bb76d683f8b71b16187f"
+    },
+    {
+      "path": "assets/retail-rasta-light-green-type-v001.webp",
+      "bytes": 247234,
+      "sha256": "6cbc322d312921b0249c3c992709ca19e893a08d99f9e3b342e8002de8ddf941"
+    },
+    {
+      "path": "assets/retail-rasta-regular-title-v001.png",
+      "bytes": 8270790,
+      "sha256": "f06d99873d73f0bb6c4de9e44d90c166105640ddf3a3acadfc0b33a9bc6ee40d"
+    },
+    {
+      "path": "assets/retail-rasta-regular-title-v001.webp",
+      "bytes": 255162,
+      "sha256": "6049ca396bbfc25b3f092acc93a3b4dfe04352f79904b9f8236d4c23f30404ed"
+    },
+    {
       "path": "assets/shrimp-catalog-v001.webp",
       "bytes": 341108,
       "sha256": "117ab80ffea6c53d0b81fe8c62f8cda22b12ec02ed8f7f3fa10cb06f37ece5f9"
     },
     {
-      "path": "assets/website-d1-mobile-review08-v001.webp",
-      "bytes": 492102,
-      "sha256": "1154de05325f7c42fe01c9293bde71f8f3903e669bc4171c58e0ce92fa3eaa44"
+      "path": "assets/website-d1-mobile-review09-v001.webp",
+      "bytes": 183594,
+      "sha256": "576012174ab960ffd5de9794ab30da8de1fe077e4098456d03f23a2aaa50e729"
     },
     {
-      "path": "assets/website-d1-review08-v001.webp",
-      "bytes": 163540,
-      "sha256": "9e96db8b73abcb4c0d50f19ffa3fc737a73c869d6134095d4d82d1721b64d707"
+      "path": "assets/website-d1-review09-v001.webp",
+      "bytes": 460128,
+      "sha256": "f145aae3fe0f8fbf8f1d8f43c3c4c0f40a6f9e2631f39d43b641ecad3494bfe5"
     },
     {
-      "path": "assets/website-d2-mobile-review08-v001.webp",
-      "bytes": 353280,
-      "sha256": "4109d7972d9666c1b223718d31524a1886984ba0445deddb0b8efc34fc76f844"
+      "path": "assets/website-d2-mobile-review09-v001.webp",
+      "bytes": 140178,
+      "sha256": "3ecdf9e7a37249393373e525bf3d87784d5e34b6b41b2419207a4c12dd988b95"
     },
     {
-      "path": "assets/website-d2-review08-v001.webp",
-      "bytes": 89006,
-      "sha256": "e66401191cdee3fc4d1cb19010ce40b79eb6d269c6429f0401bb790148fa19bd"
+      "path": "assets/website-d2-review09-v001.webp",
+      "bytes": 268262,
+      "sha256": "d2ec4b4c73cc5a496a0dc64d14b9e1fa4f86643033a302bbc1b0de2b40913e12"
     },
     {
       "path": "data.js",
-      "bytes": 85324,
-      "sha256": "341cef43dc2fd5e4421168ac02c73ab5d5e7786fe9d7c09682bc77a5107743c9"
+      "bytes": 85531,
+      "sha256": "124e136029918d34998c5f98a15f7597f5789c6e5c7a053e4df715aa29aaaacc"
     },
     {
       "path": "garnish-v003/art.js",
@@ -983,7 +1013,7 @@
     {
       "path": "index.html",
       "bytes": 3610,
-      "sha256": "5057d9f811c2c69be331c12d6af681723676d741d143740a2e9a407c01739d92"
+      "sha256": "6684dfb028b663c915cb8eb4af06c135e0302dbc3c5d827ab940f233a1abeb85"
     },
     {
       "path": "photography-guide.html",
@@ -1007,13 +1037,13 @@
     },
     {
       "path": "plate-library.js",
-      "bytes": 5686,
-      "sha256": "4b9d07c95d58bb7efac2f7be75831a595786e4ad576d720c2eed97da3c779062"
+      "bytes": 5679,
+      "sha256": "43a6d0a99cf9019a9e4028dfc24d7f74648b7a2eb273cc61a4d24bc4459c0435"
     },
     {
       "path": "styles.css",
-      "bytes": 151142,
-      "sha256": "29b0ba4a38c702a791788eb0a31bcbd229b687f08a8eab13d0bfafe36d2ed7f0"
+      "bytes": 151332,
+      "sha256": "6611cb44d21fb572022296728c35ccac6b97541c296c78bb4e91fe0fc0c6dada"
     },
     {
       "path": "system-studies.css",
@@ -1026,5 +1056,5 @@
       "sha256": "a3e25e3d664e15199bb302b9e4f41cfb81bb25c9e31be02f2fca003b01d7767f"
     }
   ],
-  "bytes": 155140924
+  "bytes": 308958862
 }

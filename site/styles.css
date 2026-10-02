@@ -790,4 +790,6 @@ body:has(.packaging-page) .topbar{display:none}
 /* Application review prioritizes photographed objects and styled digital mockups. */
 .application-review{margin-top:22px;padding-top:0;border-top:0}.application-retail-beauty{display:block}.application-retail-beauty img{aspect-ratio:auto;max-height:850px;object-fit:cover}.app-review-heading>a{font-size:13px;border-bottom:1px solid currentColor;padding-bottom:3px}.app-review-sleeves .pack-scene-grid img{aspect-ratio:auto}.app-review-grid figure{align-self:start}@media(max-width:600px){.app-review-heading{align-items:start;flex-direction:column;gap:10px}}
 
+.artwork-sheet.is-side .artwork-enlarge img{max-height:650px;width:auto;max-width:100%;margin:auto}.artwork-sheet figcaption .text-link{margin-right:20px}.artwork-part-tabs{flex-wrap:wrap}
+
 .public-source-preview{display:block}
