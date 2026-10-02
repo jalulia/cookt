@@ -1,11 +1,11 @@
 {
   "version": "v003",
-  "release": "0.24.0",
-  "siteVersion": "0.24.0",
+  "release": "0.24.1",
+  "siteVersion": "0.24.1",
   "entry": "index.html",
   "status": "In review",
-  "builtFromRecordVersion": "0.24.0",
-  "recordSha256": "21baa6d5b82f9704eefc946ac800e26ccfdf4920c1e15cecc7d63d3f724bd9dd",
+  "builtFromRecordVersion": "0.24.1",
+  "recordSha256": "7bcabe7e717e29f59131971cb7efbe04e05107558826d5a1ff579767b04d1244",
   "routes": [
     "range",
     "pack",
@@ -802,7 +802,7 @@
     {
       "path": "cookt-studio-data-v003.js",
       "bytes": 32463,
-      "sha256": "cb9537cccfe3d33c5c3a65b8be178b950639c6cbda94073744fbab9e98873356"
+      "sha256": "0062d3e2a06c09fac942abcee6b57a3056d2dad583484f3e792daca6f420e778"
     },
     {
       "path": "cookt-studio-v003.css",

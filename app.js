@@ -210,7 +210,7 @@ function render(options={}){
  const sectionChange=changed&&['brand','library'].includes(route)&&previous?.split('/')[1]===route;
  const anchor=options.anchor||(sectionChange?'.subnav':null),oldAnchor=anchor?$(anchor):null;
  const anchorTop=oldAnchor?.getBoundingClientRect().top;
- if(route==='brand'&&part==='photography')state.photoView=['pov','choose','food','lifestyle','color','framing','shoot','plates','plate-library','strip','styling','all'].includes(section)?section:'pov';
+ if(route==='brand'&&part==='photography')state.photoView=['pov','choose','food','lifestyle','color','framing','shoot','plates','plate-library','curated','strip','styling','all'].includes(section)?section:'pov';
  if(product?.channel==='launch'&&['artwork','photography'].includes(section))state.gallery[product.id]=section==='artwork'?'front':'plate';
  const routes={brand:()=>brand(part||'platform'),packaging,applications,library:()=>library(part||'sources'),operations};
  const validPack=!part||['system','sleeves','palette','production','last-round','plates','dtc'].includes(part)||product;
