@@ -4,3 +4,5 @@
 
 /* Desktop assets already include their presentation framing. */
 .desktop-board{background:transparent;overflow:hidden}.desktop-board img{width:100%;height:auto}.desktop-board.email-board{max-height:800px;overflow:auto;scrollbar-width:thin}.mockups .phone-frame{margin-top:40px}@media(max-width:700px){.desktop-board.email-board{max-height:650px}.mockups .phone-frame{margin-top:0}}
+
+.ceramic-top{flex-wrap:wrap}.select-label{display:flex;align-items:center;gap:10px;font-size:12px}.select-label select{font:inherit;color:inherit;background:transparent;border:1px solid currentColor;padding:8px}.photo-menu{max-height:70vh;overflow:auto}@media(max-width:700px){.photo-menu{max-height:none}.select-label{width:100%}}

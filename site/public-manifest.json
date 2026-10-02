@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.23.0",
+  "version": "0.24.0",
   "audience": "public",
   "edition": "rendered-only",
   "entry": "index.html",
@@ -14,6 +14,7 @@
     "#/brand/photography",
     "#/brand/photography/plates",
     "#/brand/photography/plate-library",
+    "#/brand/photography/curated",
     "#/brand/photography/strip",
     "#/brand/photography/styling",
     "#/brand/photography/choose",
@@ -105,7 +106,7 @@
     "retail": 33,
     "dtc": 20
   },
-  "plateCount": 12,
+  "plateCount": 24,
   "excluded": [
     "Editable artwork",
     "SVG source files",
@@ -170,7 +171,7 @@
       "sourceSha256": "7577b4c05c8593d2ab3ffda1513e68c518f489f8c81ca015328a891ed21cf447"
     }
   ],
-  "clientDataSha256": "1182c54b5f2726b69f74a37d9c7bf1865786b63585913cc3006ebb7f962a741e",
+  "clientDataSha256": "60396a8f2f38c472dead7bcbbb214d0069146649c5f121f92dc82fbf11e5065e",
   "files": [
     {
       "path": ".nojekyll",
@@ -218,9 +219,29 @@
       "sha256": "92448aa2351f5263944a6671c6a6a4c8784c50b1f858c129ff7203dc29ca97b0"
     },
     {
+      "path": "assets/cookt-blackened-green-overhead-v001-4096.png",
+      "bytes": 14341597,
+      "sha256": "8763c19d469b470ac95f4642a0426e5c7ddff925485efa7658596965bd3cc0ba"
+    },
+    {
+      "path": "assets/cookt-blackened-green-overhead-v001.png",
+      "bytes": 2319175,
+      "sha256": "8133c3b71742e3a4c9153fcf0dd0cff7cc52b4b5fa691d811894b6d0f04ce542"
+    },
+    {
+      "path": "assets/cookt-blackened-green-overhead-v001.webp",
+      "bytes": 498206,
+      "sha256": "79400d925d22de874ad0b04ac87816583c1b8467f65f856318ca8ed6aa917e12"
+    },
+    {
       "path": "assets/cookt-blackened-green-rafiz-v001-4096.png",
       "bytes": 11755894,
       "sha256": "8430f7fd5d109d8e3a418135ffde509fc18b4662fb28a31f6773197f650edd8c"
+    },
+    {
+      "path": "assets/cookt-blackened-green-rafiz-v001.png",
+      "bytes": 5972839,
+      "sha256": "f485942c1770b96dc2c4d48b7497bf9ee360980832152fd97bed9989d89ee893"
     },
     {
       "path": "assets/cookt-blackened-green-rafiz-v001.webp",
@@ -238,9 +259,29 @@
       "sha256": "bc50924f563c5ba6023ce61c172a6e76e927843f4a1500f2f28252a1104ab908"
     },
     {
+      "path": "assets/cookt-blackened-rust-overhead-v001-4096.png",
+      "bytes": 13929370,
+      "sha256": "e73c1f1ceb1cae5fe0eaa9a9353e1c1a90c965a472963db603694f0cc587ae59"
+    },
+    {
+      "path": "assets/cookt-blackened-rust-overhead-v001.png",
+      "bytes": 2281816,
+      "sha256": "14cc9e30e30cd5e2b534d690f57244db3a1154a8b2c542e7b5ccab18019c429c"
+    },
+    {
+      "path": "assets/cookt-blackened-rust-overhead-v001.webp",
+      "bytes": 512494,
+      "sha256": "20a5a554b245296c0f060782239eb5f3cd4cf1f680833504024f8a5143661a95"
+    },
+    {
       "path": "assets/cookt-blackened-rust-proposed-v001-4096.png",
       "bytes": 9100546,
       "sha256": "42b3822aaeca7706dcf371595983ae86083502833f7cb3702d73d0809c4eb2cd"
+    },
+    {
+      "path": "assets/cookt-blackened-rust-proposed-v001.png",
+      "bytes": 1925954,
+      "sha256": "8dc3c775d6185d6deaf8a5340ecb32ffdf9d176fa08667ed511df488dfdb34ec"
     },
     {
       "path": "assets/cookt-blackened-rust-proposed-v001.webp",
@@ -263,9 +304,29 @@
       "sha256": "ca6742efa4a26c0fd70efaaf1ff7927e4b97eefc186d403c023051c2c39fce14"
     },
     {
+      "path": "assets/cookt-blackened-yellow-overhead-v001-4096.png",
+      "bytes": 14648710,
+      "sha256": "250492e753100b0cde8748299d882dce6dca4017a5fc5bf1d18e10aeded8fb8c"
+    },
+    {
+      "path": "assets/cookt-blackened-yellow-overhead-v001.png",
+      "bytes": 2350447,
+      "sha256": "fce738061f1750485f60442719cd8e5c786ec11a78926e69144c4453c4e14dbc"
+    },
+    {
+      "path": "assets/cookt-blackened-yellow-overhead-v001.webp",
+      "bytes": 548488,
+      "sha256": "3f7e234c43e56a1d0472a9bf1c118c9a5b767b7a94241df3ec2c5ad60d564ea6"
+    },
+    {
       "path": "assets/cookt-blackened-yellow-rafiz-v001-4096.png",
       "bytes": 11829376,
       "sha256": "8d298538925f8dbd6e4db1f325251c245b030c08a83912c47720ffd72f8b64b9"
+    },
+    {
+      "path": "assets/cookt-blackened-yellow-rafiz-v001.png",
+      "bytes": 5972090,
+      "sha256": "db82f4c111781a06532afdeae19a87f843d1dcb40c6a74c41b21ea5bbac1cd32"
     },
     {
       "path": "assets/cookt-blackened-yellow-rafiz-v001.webp",
@@ -273,9 +334,29 @@
       "sha256": "3e689cd9d4c1e4828edf44f1acf3e4dc04acf218da06353907aacde3e40e50f7"
     },
     {
+      "path": "assets/cookt-chipotle-amber-overhead-v001-4096.png",
+      "bytes": 16788518,
+      "sha256": "7b23cc66aac22afabe2379f2d7e031f64000d76c973cb5ddd34e5bbd103bc126"
+    },
+    {
+      "path": "assets/cookt-chipotle-amber-overhead-v001.png",
+      "bytes": 2636246,
+      "sha256": "079e90ab6a0786c552df7e94f6e23e0948c747b7485da76b83e5381a0bf4f484"
+    },
+    {
+      "path": "assets/cookt-chipotle-amber-overhead-v001.webp",
+      "bytes": 662836,
+      "sha256": "aa570a4335582e72a34e7eb182684fafc8985af4f30d119140a52d09e775d16e"
+    },
+    {
       "path": "assets/cookt-chipotle-amber-proposed-v001-4096.png",
       "bytes": 10886651,
       "sha256": "3acc529b588ff075dfd80adf9b7c6b0020ad5575d44ba2e46a33b5a78dde207f"
+    },
+    {
+      "path": "assets/cookt-chipotle-amber-proposed-v001.png",
+      "bytes": 2794085,
+      "sha256": "28fb23ba6dcfe52c667aabfbd420484e4d0dc2629827510582037379a0936886"
     },
     {
       "path": "assets/cookt-chipotle-amber-proposed-v001.webp",
@@ -293,9 +374,29 @@
       "sha256": "5430e428a12a925a7af02590f717cb48a27a3ce4d67393fc8fa4007b89f2b349"
     },
     {
+      "path": "assets/cookt-chipotle-dark-brown-overhead-v001-4096.png",
+      "bytes": 18456434,
+      "sha256": "4c246e6525713d687aeaebc4e1fc9e4be412a6f66c462d13ebc660064d8e822d"
+    },
+    {
+      "path": "assets/cookt-chipotle-dark-brown-overhead-v001.png",
+      "bytes": 2813743,
+      "sha256": "96af9f19ba0664a8406d4fd421dcb25e9133d9bc481df1b69b6b8a0fbd28ff98"
+    },
+    {
+      "path": "assets/cookt-chipotle-dark-brown-overhead-v001.webp",
+      "bytes": 699894,
+      "sha256": "a3fab6baf06439574517460c058c98db301a4b2abf646cda9629458aea24a138"
+    },
+    {
       "path": "assets/cookt-chipotle-dark-brown-proposed-v001-4096.png",
       "bytes": 10361250,
       "sha256": "60fbbff5c9ae2953b41a1cc2aff24f4f053c6425b4a76d4cba7738e91c569683"
+    },
+    {
+      "path": "assets/cookt-chipotle-dark-brown-proposed-v001.png",
+      "bytes": 2658001,
+      "sha256": "948adf62c6c47ab64580380f1c8f82aa9a19f754e56437b82317605ddc93d7dd"
     },
     {
       "path": "assets/cookt-chipotle-dark-brown-proposed-v001.webp",
@@ -303,9 +404,29 @@
       "sha256": "4970546137eed6168d1b7eb3abd881d9f69f805ab6964e174ae6fc0a5b0ace44"
     },
     {
+      "path": "assets/cookt-chipotle-overhead-v001-4096.png",
+      "bytes": 17907636,
+      "sha256": "314baf36f4f8adfb1cb7d1b9d02fd89dcedcfcbabb99e55d5fa598dbea8345de"
+    },
+    {
+      "path": "assets/cookt-chipotle-overhead-v001.png",
+      "bytes": 2798773,
+      "sha256": "6fef49e5aee3fd5f1e452d4cdb56ec87169b72c14719ef1741643cbde9a75a2e"
+    },
+    {
+      "path": "assets/cookt-chipotle-overhead-v001.webp",
+      "bytes": 703084,
+      "sha256": "c8479204fa4457ff61523b7502c47550487397af62d2d7c9c7cfcd85944cb04f"
+    },
+    {
       "path": "assets/cookt-chipotle-rafiz-v001-4096.png",
       "bytes": 12411039,
       "sha256": "f3ea4bd335bb944f2d29d076bc42d1653d238e9885f604af5680d629f69e6e33"
+    },
+    {
+      "path": "assets/cookt-chipotle-rafiz-v001.png",
+      "bytes": 2786900,
+      "sha256": "21d225b89910e3c7ff6f060992b9f1cca68dc225434a1c4f031a85356844b007"
     },
     {
       "path": "assets/cookt-chipotle-rafiz-v001.webp",
@@ -443,9 +564,29 @@
       "sha256": "752e58687880493782076524acaf68fe1960b8dc38eb074977c393796eb67a96"
     },
     {
+      "path": "assets/cookt-orzo-blue-glaze-overhead-v001-4096.png",
+      "bytes": 14710940,
+      "sha256": "b04f7bbfd22bf7476fc7362a79f050e0fdcc392241b03160db0150424a423be5"
+    },
+    {
+      "path": "assets/cookt-orzo-blue-glaze-overhead-v001.png",
+      "bytes": 2352757,
+      "sha256": "72b2dba6c581e86e6b74f66406ba1572bb4aa534ba5ff9b4f4663ccf45af7843"
+    },
+    {
+      "path": "assets/cookt-orzo-blue-glaze-overhead-v001.webp",
+      "bytes": 516422,
+      "sha256": "7c0e33574f2dba2be49a0f0a719a31947a1e5b070f447f205d1f92c8ee6d9735"
+    },
+    {
       "path": "assets/cookt-orzo-blue-glaze-proposed-v001-4096.png",
       "bytes": 8035824,
       "sha256": "af94390c9dd1c3548663321e6bfe9e48eb6f6a7090390958b901fb49ed34fd31"
+    },
+    {
+      "path": "assets/cookt-orzo-blue-glaze-proposed-v001.png",
+      "bytes": 1757931,
+      "sha256": "0857c762b3045e6de99d0d09a5a418a20348a115a5f3ff85a31be7ea4faba19a"
     },
     {
       "path": "assets/cookt-orzo-blue-glaze-proposed-v001.webp",
@@ -453,9 +594,29 @@
       "sha256": "2af48bfae0470abf77b2fc8567ee4d3b38f6ba0bafde740e189f00ca0ad2ef77"
     },
     {
+      "path": "assets/cookt-orzo-ivory-cobalt-overhead-v001-4096.png",
+      "bytes": 9204089,
+      "sha256": "9155d4572f615e2336925df25d3bd57861233ac853b0db461a45eb8e8b86a203"
+    },
+    {
+      "path": "assets/cookt-orzo-ivory-cobalt-overhead-v001.png",
+      "bytes": 1807908,
+      "sha256": "81bf4c4db24a06786124699bf3a78a5d08e2344ccf23e82edd77559c1714cebd"
+    },
+    {
+      "path": "assets/cookt-orzo-ivory-cobalt-overhead-v001.webp",
+      "bytes": 320162,
+      "sha256": "be9d1b6087fb67ee73c368149b424d1c112d54c1e58edd8139cef64ad9b748e1"
+    },
+    {
       "path": "assets/cookt-orzo-ivory-cobalt-proposed-v001-4096.png",
       "bytes": 8345045,
       "sha256": "99c33d605e9045e4a25fb6a3d33d2a7e38f354517e8addaec007ecb9adfcf020"
+    },
+    {
+      "path": "assets/cookt-orzo-ivory-cobalt-proposed-v001.png",
+      "bytes": 1817684,
+      "sha256": "69a436700f71990ba2b7434e5979e1afa0e94f37c40eba4531e7be22c147fd1a"
     },
     {
       "path": "assets/cookt-orzo-ivory-cobalt-proposed-v001.webp",
@@ -463,9 +624,29 @@
       "sha256": "217299f1f44cb080e4b9000027a68cc22fcfe1459687a2ada1cb99231ee85c82"
     },
     {
+      "path": "assets/cookt-orzo-overhead-v001-4096.png",
+      "bytes": 16169073,
+      "sha256": "5e26f1dbc3d95fca1e80e5bf7809c91cc0d21df7b23de8adcd5711e93aca468a"
+    },
+    {
+      "path": "assets/cookt-orzo-overhead-v001.png",
+      "bytes": 2512321,
+      "sha256": "78a8725824a1ea5008ffc0d0e599cdbecfc3a48efcea8e4d2bda51ef03d13907"
+    },
+    {
+      "path": "assets/cookt-orzo-overhead-v001.webp",
+      "bytes": 599814,
+      "sha256": "e7b25ae22ba091def2e656aa50f8257197576b3689f9e9b86233766b7b68127f"
+    },
+    {
       "path": "assets/cookt-orzo-rafiz-v001-4096.png",
       "bytes": 12721721,
       "sha256": "c6f92d6f7f117de9039dc0ad699b993100df6b6b2a027af42ed53ebb3a6632da"
+    },
+    {
+      "path": "assets/cookt-orzo-rafiz-v001.png",
+      "bytes": 5859871,
+      "sha256": "01fb9fdaf3953836071ad3480304f2ad135e5170074954c94fd9037a4ac63c2b"
     },
     {
       "path": "assets/cookt-orzo-rafiz-v001.webp",
@@ -503,9 +684,59 @@
       "sha256": "67b35abdcd60e3e7068a4dc79888bf6d33d2f00e59231ce46abe61d8c5a1e155"
     },
     {
+      "path": "assets/cookt-photo-blackened-portrait-v001.png",
+      "bytes": 2739480,
+      "sha256": "264f5b5a1c24953931f4bab25d8a6417b5ff15508feabdf9bfe8a3b4c2be66f4"
+    },
+    {
+      "path": "assets/cookt-photo-blackened-portrait-v001.webp",
+      "bytes": 516766,
+      "sha256": "6e2791b85818ddef37f51bc56eb6a11b8188bb83d42280db4dcc89cda151bc35"
+    },
+    {
       "path": "assets/cookt-photo-blue-table-v002.webp",
       "bytes": 368230,
       "sha256": "5e17632bb4e997c19a9c8cf11dee78226e62a16b26fbc63334d08b1fdbfddc01"
+    },
+    {
+      "path": "assets/cookt-photo-bowl-blackened-v001.png",
+      "bytes": 1946054,
+      "sha256": "21082797b49b865f31ddbb4ed6a50329b2d5191f0eddd975a59290e42b488cf3"
+    },
+    {
+      "path": "assets/cookt-photo-bowl-blackened-v001.webp",
+      "bytes": 223334,
+      "sha256": "ebd6d8d529145652502080df7d360b99031d18e62f732a91c5647f9eee7d9541"
+    },
+    {
+      "path": "assets/cookt-photo-bowl-chipotle-v001.png",
+      "bytes": 2335425,
+      "sha256": "1d868c5d5ec2765c77df3b39d623a6c2478e1701be6624c87ad09d29d519bd2b"
+    },
+    {
+      "path": "assets/cookt-photo-bowl-chipotle-v001.webp",
+      "bytes": 379538,
+      "sha256": "ef0536fa04f56542d2ab772a3a2f6ca837a179603609f0214e9ab76c734d12fa"
+    },
+    {
+      "path": "assets/cookt-photo-bowl-orzo-v001.png",
+      "bytes": 1777070,
+      "sha256": "d7f9b66604e0664b5e1b1e28aa1305e63c2b63673b28cd2a23d16e234d47fc91"
+    },
+    {
+      "path": "assets/cookt-photo-bowl-orzo-v001.webp",
+      "bytes": 190092,
+      "sha256": "25b49197511623dc4006dd56c64113fca93895069ed3b130f9a0b14ecd492e24"
+    },
+    {
+      "path": "assets/cookt-photo-bowl-rasta-v001.png",
+      "bytes": 1873868,
+      "sha256": "10026712cb299df9990ba8012cb9033e5a2ca61b16c743f9ced9e8953c6705bd"
+    },
+    {
+      "path": "assets/cookt-photo-bowl-rasta-v001.webp",
+      "bytes": 196800,
+      "sha256": "f6ad04e0472e3e51d5d013c1b38358b59bea70d6294d291eb70250794b339701"
     },
     {
       "path": "assets/cookt-photo-detail-v001.webp",
@@ -513,9 +744,109 @@
       "sha256": "7657a82707d657d606272c4b8ba4f623a1746ddb62b25e5f849d62f5da6f95b4"
     },
     {
+      "path": "assets/cookt-photo-first-bite-v001.jpg",
+      "bytes": 697682,
+      "sha256": "62161ac7287ef0916fce7dc8481d48f0b31ca5725931c4a2c3aefd830fe64ceb"
+    },
+    {
+      "path": "assets/cookt-photo-first-bite-v001.webp",
+      "bytes": 386158,
+      "sha256": "3b022e55df48b033f7f3508c04d3d8cbcec199d82da04e8b1d1ec1fe0a2270e1"
+    },
+    {
+      "path": "assets/cookt-photo-linen-blackened-v001.png",
+      "bytes": 2801381,
+      "sha256": "c59666b14500b971e706ead1751e3a0a72f4222fed6188d27dd67ae874923998"
+    },
+    {
+      "path": "assets/cookt-photo-linen-blackened-v001.webp",
+      "bytes": 551846,
+      "sha256": "353c524c2c6e117e0649aaa96b99abeaf9d2a298eb9a811f7c874e663e1708bf"
+    },
+    {
+      "path": "assets/cookt-photo-linen-chipotle-v001.png",
+      "bytes": 3182862,
+      "sha256": "1818fd36a4dcd6461457b9a7dd1bd0934340268a0a322682565e63d199fa67e4"
+    },
+    {
+      "path": "assets/cookt-photo-linen-chipotle-v001.webp",
+      "bytes": 662794,
+      "sha256": "5f0a2b11d62f67db1871afc108fcf73e49c9d0c54cb903b48dad1fb7ff63c252"
+    },
+    {
+      "path": "assets/cookt-photo-linen-orzo-v001.png",
+      "bytes": 2888258,
+      "sha256": "5f8941822bac90f67674419a3244c85b6f9022b7b41eacacf54126ccddac1d5e"
+    },
+    {
+      "path": "assets/cookt-photo-linen-orzo-v001.webp",
+      "bytes": 541198,
+      "sha256": "d3165c5f3efc6254af43d8a8f47fc2b75b61639b66eacc0970c9c722a222b934"
+    },
+    {
+      "path": "assets/cookt-photo-linen-rasta-v001.png",
+      "bytes": 2986281,
+      "sha256": "ac2931dd7e2fa0426a5198e45a117c27692d73cfae915b126e111114b7e638cb"
+    },
+    {
+      "path": "assets/cookt-photo-linen-rasta-v001.webp",
+      "bytes": 608618,
+      "sha256": "5a95f95e77f296a58606354cec60827d1e8fd6f186e0cefbee0bee914e0fea1e"
+    },
+    {
+      "path": "assets/cookt-photo-passing-v001.jpg",
+      "bytes": 594410,
+      "sha256": "8d409780df07a34e4085d4387862f64822830db455138ea855e5c385578dae86"
+    },
+    {
+      "path": "assets/cookt-photo-passing-v001.webp",
+      "bytes": 317606,
+      "sha256": "cb68087f27209bdf1e87383108473d5fd4a614ba2a80a317bf2a7fab24f01297"
+    },
+    {
       "path": "assets/cookt-photo-place-setting-v003.webp",
       "bytes": 248694,
       "sha256": "3a01c8f96bbc0a60623a961152d048b3e2afa40083d857a7f04edc5f2d00d70c"
+    },
+    {
+      "path": "assets/cookt-photo-service-blackened-v001.png",
+      "bytes": 2183287,
+      "sha256": "47e370fc96eccda4be0c8dc79975def853d3abe59b6fbbb46e10c59e3ca682cd"
+    },
+    {
+      "path": "assets/cookt-photo-service-blackened-v001.webp",
+      "bytes": 294888,
+      "sha256": "7500ae70b76958a2e1bb0a4bfeb9225870303000aaa788c7b1bc9b9050167c3c"
+    },
+    {
+      "path": "assets/cookt-photo-service-chipotle-v001.png",
+      "bytes": 2328375,
+      "sha256": "e95d98c14ce5ac7e1d0acb5f070f417e90960ee5a39e0e56123231742d5ec7fd"
+    },
+    {
+      "path": "assets/cookt-photo-service-chipotle-v001.webp",
+      "bytes": 348406,
+      "sha256": "44554a45404f914e01c23e05d5c8d7f0477f3a498793bb18b119f1714dd0f1b7"
+    },
+    {
+      "path": "assets/cookt-photo-service-orzo-v001.png",
+      "bytes": 2100166,
+      "sha256": "ff3604a1fb06884a9525b3200a3ef86911a42da7d7db8f007ae24b2f0d354a6b"
+    },
+    {
+      "path": "assets/cookt-photo-service-orzo-v001.webp",
+      "bytes": 245704,
+      "sha256": "01a75e4ee03704e640410d6300c1a1d0d964e2a7eba2a9e8e14517bc1b62731a"
+    },
+    {
+      "path": "assets/cookt-photo-service-rasta-v001.png",
+      "bytes": 2021004,
+      "sha256": "ea9623675526481e4aa64c958391eb6f74353f077cb294119c05f8dcc21b5c0f"
+    },
+    {
+      "path": "assets/cookt-photo-service-rasta-v001.webp",
+      "bytes": 245814,
+      "sha256": "80471def48583147e129948b9621bc150ef395840f3c52462f5619122a372b57"
     },
     {
       "path": "assets/cookt-photo-shared-table-v002.webp",
@@ -543,9 +874,29 @@
       "sha256": "928a1b0edb4b6af609d951a56fbc542773d561172e287a51430db48eefb18551"
     },
     {
+      "path": "assets/cookt-rasta-ochre-overhead-v001-4096.png",
+      "bytes": 10184877,
+      "sha256": "e78b6ea4fc80f843e14131611800784fcc0c55b439486c6f0f679aa19ef153aa"
+    },
+    {
+      "path": "assets/cookt-rasta-ochre-overhead-v001.png",
+      "bytes": 1941658,
+      "sha256": "fa2dd9b955ae6b54f488e0f52c4ff32b7b25fb957b31fbe65b4cd8a48c31365d"
+    },
+    {
+      "path": "assets/cookt-rasta-ochre-overhead-v001.webp",
+      "bytes": 374258,
+      "sha256": "f9ac932ad22ff62a509bba47b28943d7223892a9d73d57ce39fd3227f08f2197"
+    },
+    {
       "path": "assets/cookt-rasta-ochre-proposed-v001-4096.png",
       "bytes": 8728670,
       "sha256": "899b45b9c705b9e0fe2df9fd048b240d4334a80147fdbc721c5d3811d8f0b710"
+    },
+    {
+      "path": "assets/cookt-rasta-ochre-proposed-v001.png",
+      "bytes": 1871466,
+      "sha256": "c70b23f7412452baca7f25c8f46d6139505c440c84b977c93d4d276cfe74054f"
     },
     {
       "path": "assets/cookt-rasta-ochre-proposed-v001.webp",
@@ -553,9 +904,29 @@
       "sha256": "5e0a38fd54fd846000179000fca621860232e64505e02e91f810a0976bb737dc"
     },
     {
+      "path": "assets/cookt-rasta-olive-overhead-v001-4096.png",
+      "bytes": 12721179,
+      "sha256": "bf85a80de62e80b3c78dd797341e9a7a19796da2a4ed4ebd52d85dfe42d76ef4"
+    },
+    {
+      "path": "assets/cookt-rasta-olive-overhead-v001.png",
+      "bytes": 2163663,
+      "sha256": "6afc2f15f616c4a5471177c63966e70bbc8c8c829cf191ea90ef7c39973061bc"
+    },
+    {
+      "path": "assets/cookt-rasta-olive-overhead-v001.webp",
+      "bytes": 441318,
+      "sha256": "7429951b4b2c8734d91d9ad12af3f656eb4903d690a5087789c8a969039f2c16"
+    },
+    {
       "path": "assets/cookt-rasta-olive-proposed-v001-4096.png",
       "bytes": 8243294,
       "sha256": "2694468a35d36190b12d5dd371e0b8050efb825aa9f3f5d150b88d5ef34ea5fa"
+    },
+    {
+      "path": "assets/cookt-rasta-olive-proposed-v001.png",
+      "bytes": 1789010,
+      "sha256": "c00a1720368bd78f78769348f005118417bef045c8e307c13af7bec2be63a1eb"
     },
     {
       "path": "assets/cookt-rasta-olive-proposed-v001.webp",
@@ -563,9 +934,29 @@
       "sha256": "80be60f3df5e17cfd5e3ac7661397646b931a84ff749f856e7d54c4ecc2295db"
     },
     {
+      "path": "assets/cookt-rasta-overhead-v001-4096.png",
+      "bytes": 14308263,
+      "sha256": "8078437f2043ca1976747ae4a4b6f04953e91ec305949ea8bc73c5c00942b012"
+    },
+    {
+      "path": "assets/cookt-rasta-overhead-v001.png",
+      "bytes": 2314171,
+      "sha256": "2cb130762d0c52f8124a2f04dc06f7c97f4edcdcc0e8bed611d08bfb3a8e6539"
+    },
+    {
+      "path": "assets/cookt-rasta-overhead-v001.webp",
+      "bytes": 497954,
+      "sha256": "a141ee0df8d815c73f6546eeb54ad817ff1104645c34af5bb619cd2d951af97e"
+    },
+    {
       "path": "assets/cookt-rasta-rafiz-v001-4096.png",
       "bytes": 12477357,
       "sha256": "a1078e1384d4891272aaac5daab33d793d61126fc3254f15fb0054dee38451d9"
+    },
+    {
+      "path": "assets/cookt-rasta-rafiz-v001.png",
+      "bytes": 6152307,
+      "sha256": "5b0d4783aa4832f056304ec39468b0f04ddc8eb90ca65007406efeb81174f1b9"
     },
     {
       "path": "assets/cookt-rasta-rafiz-v001.webp",
@@ -1019,8 +1410,8 @@
     },
     {
       "path": "data.js",
-      "bytes": 92456,
-      "sha256": "c89cc453c1d0005f8084c765291cbd71113957ed03ecb96da69c7caaba90b198"
+      "bytes": 104936,
+      "sha256": "7040144411cc5cb42fa6a5b061788995e4e78b26dac904b112c17a394e620c8a"
     },
     {
       "path": "garnish-v003/art.js",
@@ -1040,7 +1431,7 @@
     {
       "path": "index.html",
       "bytes": 3718,
-      "sha256": "711e4d19239214d35548c3a4df5f731fd6507738b0b2eb40cb13260d42101efa"
+      "sha256": "4189ca63a65527f8ea90b5ff9550540eb0480571eba0d43dc8f5a9aceab4acd7"
     },
     {
       "path": "photography-guide.html",
@@ -1054,18 +1445,18 @@
     },
     {
       "path": "photography.js",
-      "bytes": 12235,
-      "sha256": "5f42ffbf1e34b64e61378a09e56675b91421839fd69058d3f5165b5584ada961"
+      "bytes": 13402,
+      "sha256": "0ff95aaca28e12074130e12fc9bf145407e463c6015b75d38cd5518bd3623a99"
     },
     {
       "path": "plate-library.css",
-      "bytes": 5264,
-      "sha256": "c5fb754b716285aab4c99a90bf1d467ed4d0515cbada952c6182e48164fb4354"
+      "bytes": 5416,
+      "sha256": "6c6609c13012dea8200d56949d96d305fcfd588e3dfda8355d223977091d0cf8"
     },
     {
       "path": "plate-library.js",
-      "bytes": 5679,
-      "sha256": "43a6d0a99cf9019a9e4028dfc24d7f74648b7a2eb273cc61a4d24bc4459c0435"
+      "bytes": 6410,
+      "sha256": "fc8f7b56ac2b8e2e835d6d26793ec673ad34e622f61341b12c6805a26c649847"
     },
     {
       "path": "presentations/brand-system-v002/boards/p01.webp",
@@ -2199,18 +2590,18 @@
     },
     {
       "path": "studio/cookt-studio-data-v003.js",
-      "bytes": 20620,
-      "sha256": "ef1b578a67e37fc86d72d9dcc24ba2a4118ba8ac44929c8f12f972256094a386"
+      "bytes": 32463,
+      "sha256": "cb9537cccfe3d33c5c3a65b8be178b950639c6cbda94073744fbab9e98873356"
     },
     {
       "path": "studio/cookt-studio-v003.css",
-      "bytes": 16941,
-      "sha256": "111b66dec43984f541de21143508b0d1a6d182f49e4a63c248d74929d52bae66"
+      "bytes": 17274,
+      "sha256": "da08f96c4eaa660fab08c7df0ffd59b61884a62f978313bec6a370d58c65e122"
     },
     {
       "path": "studio/cookt-studio-v003.js",
-      "bytes": 19416,
-      "sha256": "9464cd8d1460b59cb3acc3db189e1237dba823851b33b043dcc50d8ef802e298"
+      "bytes": 20104,
+      "sha256": "3aef91dc3e810537d062faa6c25cc902996e9f9976ee233b0b9ebfa81df85e80"
     },
     {
       "path": "studio/index.html",
@@ -2219,8 +2610,8 @@
     },
     {
       "path": "studio/public-manifest.json",
-      "bytes": 28827,
-      "sha256": "d8d208ad63e7743b58cb9c2c1c73d640d1ff33a8da7458b1e426d6b5491ace43"
+      "bytes": 41024,
+      "sha256": "8161a111c60070a90cc874e929e931b93e4e8213a47bc730c69531dedc1155cb"
     },
     {
       "path": "styles.css",
@@ -2238,5 +2629,5 @@
       "sha256": "a3e25e3d664e15199bb302b9e4f41cfb81bb25c9e31be02f2fca003b01d7767f"
     }
   ],
-  "bytes": 693108687
+  "bytes": 980709875
 }

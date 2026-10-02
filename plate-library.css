@@ -3,3 +3,5 @@
 @media(max-width:600px){.pl-downloads{flex-wrap:wrap;gap:14px 20px;justify-content:flex-start;white-space:normal}.pl-downloads a{min-height:24px}}
 
 .photo-guide .plate-library{display:block}.photo-guide .plate-library .pl-heading{grid-template-columns:1.5fr 1fr}@media(max-width:600px){.photo-guide .plate-library .pl-heading{grid-template-columns:1fr}}
+
+.pl-controls{flex-wrap:wrap}.curated-photographs .pl-image{box-sizing:border-box}.curated-photographs small a{color:inherit;text-underline-offset:3px}

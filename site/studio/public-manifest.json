@@ -1,11 +1,11 @@
 {
   "version": "v003",
-  "release": "0.23.0",
-  "siteVersion": "0.23.0",
+  "release": "0.24.0",
+  "siteVersion": "0.24.0",
   "entry": "index.html",
   "status": "In review",
-  "builtFromRecordVersion": "0.23.0",
-  "recordSha256": "27cc9ab6028bca75af33841cf01ba6ea28481e26ada5f99287ba664f6f566cee",
+  "builtFromRecordVersion": "0.24.0",
+  "recordSha256": "21baa6d5b82f9704eefc946ac800e26ccfdf4920c1e15cecc7d63d3f724bd9dd",
   "routes": [
     "range",
     "pack",
@@ -20,14 +20,14 @@
   "counts": {
     "retailPanels": 33,
     "dtcPanels": 20,
-    "plates": 12,
-    "photographyStudies": 5,
+    "plates": 24,
+    "photographyStudies": 20,
     "applicationProofs": 8,
     "logoViews": 6,
     "systemBoards": 3,
     "rangeScenes": 3
   },
-  "policy": "Rendered images and UI only; no private documents, editable artwork or font binaries.",
+  "policy": "Rendered images and UI only; byte-identical allowlisted raster assets are shared with the parent Hub.",
   "files": [
     {
       "path": "assets/blackened-white-carton-v014.webp",
@@ -801,18 +801,18 @@
     },
     {
       "path": "cookt-studio-data-v003.js",
-      "bytes": 20620,
-      "sha256": "ef1b578a67e37fc86d72d9dcc24ba2a4118ba8ac44929c8f12f972256094a386"
+      "bytes": 32463,
+      "sha256": "cb9537cccfe3d33c5c3a65b8be178b950639c6cbda94073744fbab9e98873356"
     },
     {
       "path": "cookt-studio-v003.css",
-      "bytes": 16941,
-      "sha256": "111b66dec43984f541de21143508b0d1a6d182f49e4a63c248d74929d52bae66"
+      "bytes": 17274,
+      "sha256": "da08f96c4eaa660fab08c7df0ffd59b61884a62f978313bec6a370d58c65e122"
     },
     {
       "path": "cookt-studio-v003.js",
-      "bytes": 19416,
-      "sha256": "9464cd8d1460b59cb3acc3db189e1237dba823851b33b043dcc50d8ef802e298"
+      "bytes": 20104,
+      "sha256": "3aef91dc3e810537d062faa6c25cc902996e9f9976ee233b0b9ebfa81df85e80"
     },
     {
       "path": "index.html",
@@ -820,5 +820,337 @@
       "sha256": "c923d0c27474827f22b628204a45d8c7662d5b79320a623646cf23815f7aa289"
     }
   ],
-  "bytes": 365152959
+  "bytes": 365165823,
+  "sharedAssets": [
+    {
+      "path": "../assets/cookt-blackened-green-overhead-v001-4096.png",
+      "sha256": "8763c19d469b470ac95f4642a0426e5c7ddff925485efa7658596965bd3cc0ba",
+      "bytes": 14341597
+    },
+    {
+      "path": "../assets/cookt-blackened-green-overhead-v001.png",
+      "sha256": "8133c3b71742e3a4c9153fcf0dd0cff7cc52b4b5fa691d811894b6d0f04ce542",
+      "bytes": 2319175
+    },
+    {
+      "path": "../assets/cookt-blackened-green-overhead-v001.webp",
+      "sha256": "79400d925d22de874ad0b04ac87816583c1b8467f65f856318ca8ed6aa917e12",
+      "bytes": 498206
+    },
+    {
+      "path": "../assets/cookt-blackened-rust-overhead-v001-4096.png",
+      "sha256": "e73c1f1ceb1cae5fe0eaa9a9353e1c1a90c965a472963db603694f0cc587ae59",
+      "bytes": 13929370
+    },
+    {
+      "path": "../assets/cookt-blackened-rust-overhead-v001.png",
+      "sha256": "14cc9e30e30cd5e2b534d690f57244db3a1154a8b2c542e7b5ccab18019c429c",
+      "bytes": 2281816
+    },
+    {
+      "path": "../assets/cookt-blackened-rust-overhead-v001.webp",
+      "sha256": "20a5a554b245296c0f060782239eb5f3cd4cf1f680833504024f8a5143661a95",
+      "bytes": 512494
+    },
+    {
+      "path": "../assets/cookt-blackened-yellow-overhead-v001-4096.png",
+      "sha256": "250492e753100b0cde8748299d882dce6dca4017a5fc5bf1d18e10aeded8fb8c",
+      "bytes": 14648710
+    },
+    {
+      "path": "../assets/cookt-blackened-yellow-overhead-v001.png",
+      "sha256": "fce738061f1750485f60442719cd8e5c786ec11a78926e69144c4453c4e14dbc",
+      "bytes": 2350447
+    },
+    {
+      "path": "../assets/cookt-blackened-yellow-overhead-v001.webp",
+      "sha256": "3f7e234c43e56a1d0472a9bf1c118c9a5b767b7a94241df3ec2c5ad60d564ea6",
+      "bytes": 548488
+    },
+    {
+      "path": "../assets/cookt-chipotle-amber-overhead-v001-4096.png",
+      "sha256": "7b23cc66aac22afabe2379f2d7e031f64000d76c973cb5ddd34e5bbd103bc126",
+      "bytes": 16788518
+    },
+    {
+      "path": "../assets/cookt-chipotle-amber-overhead-v001.png",
+      "sha256": "079e90ab6a0786c552df7e94f6e23e0948c747b7485da76b83e5381a0bf4f484",
+      "bytes": 2636246
+    },
+    {
+      "path": "../assets/cookt-chipotle-amber-overhead-v001.webp",
+      "sha256": "aa570a4335582e72a34e7eb182684fafc8985af4f30d119140a52d09e775d16e",
+      "bytes": 662836
+    },
+    {
+      "path": "../assets/cookt-chipotle-dark-brown-overhead-v001-4096.png",
+      "sha256": "4c246e6525713d687aeaebc4e1fc9e4be412a6f66c462d13ebc660064d8e822d",
+      "bytes": 18456434
+    },
+    {
+      "path": "../assets/cookt-chipotle-dark-brown-overhead-v001.png",
+      "sha256": "96af9f19ba0664a8406d4fd421dcb25e9133d9bc481df1b69b6b8a0fbd28ff98",
+      "bytes": 2813743
+    },
+    {
+      "path": "../assets/cookt-chipotle-dark-brown-overhead-v001.webp",
+      "sha256": "a3fab6baf06439574517460c058c98db301a4b2abf646cda9629458aea24a138",
+      "bytes": 699894
+    },
+    {
+      "path": "../assets/cookt-chipotle-overhead-v001-4096.png",
+      "sha256": "314baf36f4f8adfb1cb7d1b9d02fd89dcedcfcbabb99e55d5fa598dbea8345de",
+      "bytes": 17907636
+    },
+    {
+      "path": "../assets/cookt-chipotle-overhead-v001.png",
+      "sha256": "6fef49e5aee3fd5f1e452d4cdb56ec87169b72c14719ef1741643cbde9a75a2e",
+      "bytes": 2798773
+    },
+    {
+      "path": "../assets/cookt-chipotle-overhead-v001.webp",
+      "sha256": "c8479204fa4457ff61523b7502c47550487397af62d2d7c9c7cfcd85944cb04f",
+      "bytes": 703084
+    },
+    {
+      "path": "../assets/cookt-orzo-blue-glaze-overhead-v001-4096.png",
+      "sha256": "b04f7bbfd22bf7476fc7362a79f050e0fdcc392241b03160db0150424a423be5",
+      "bytes": 14710940
+    },
+    {
+      "path": "../assets/cookt-orzo-blue-glaze-overhead-v001.png",
+      "sha256": "72b2dba6c581e86e6b74f66406ba1572bb4aa534ba5ff9b4f4663ccf45af7843",
+      "bytes": 2352757
+    },
+    {
+      "path": "../assets/cookt-orzo-blue-glaze-overhead-v001.webp",
+      "sha256": "7c0e33574f2dba2be49a0f0a719a31947a1e5b070f447f205d1f92c8ee6d9735",
+      "bytes": 516422
+    },
+    {
+      "path": "../assets/cookt-orzo-ivory-cobalt-overhead-v001-4096.png",
+      "sha256": "9155d4572f615e2336925df25d3bd57861233ac853b0db461a45eb8e8b86a203",
+      "bytes": 9204089
+    },
+    {
+      "path": "../assets/cookt-orzo-ivory-cobalt-overhead-v001.png",
+      "sha256": "81bf4c4db24a06786124699bf3a78a5d08e2344ccf23e82edd77559c1714cebd",
+      "bytes": 1807908
+    },
+    {
+      "path": "../assets/cookt-orzo-ivory-cobalt-overhead-v001.webp",
+      "sha256": "be9d1b6087fb67ee73c368149b424d1c112d54c1e58edd8139cef64ad9b748e1",
+      "bytes": 320162
+    },
+    {
+      "path": "../assets/cookt-orzo-overhead-v001-4096.png",
+      "sha256": "5e26f1dbc3d95fca1e80e5bf7809c91cc0d21df7b23de8adcd5711e93aca468a",
+      "bytes": 16169073
+    },
+    {
+      "path": "../assets/cookt-orzo-overhead-v001.png",
+      "sha256": "78a8725824a1ea5008ffc0d0e599cdbecfc3a48efcea8e4d2bda51ef03d13907",
+      "bytes": 2512321
+    },
+    {
+      "path": "../assets/cookt-orzo-overhead-v001.webp",
+      "sha256": "e7b25ae22ba091def2e656aa50f8257197576b3689f9e9b86233766b7b68127f",
+      "bytes": 599814
+    },
+    {
+      "path": "../assets/cookt-photo-blackened-portrait-v001.png",
+      "sha256": "264f5b5a1c24953931f4bab25d8a6417b5ff15508feabdf9bfe8a3b4c2be66f4",
+      "bytes": 2739480
+    },
+    {
+      "path": "../assets/cookt-photo-blackened-portrait-v001.webp",
+      "sha256": "6e2791b85818ddef37f51bc56eb6a11b8188bb83d42280db4dcc89cda151bc35",
+      "bytes": 516766
+    },
+    {
+      "path": "../assets/cookt-photo-bowl-blackened-v001.png",
+      "sha256": "21082797b49b865f31ddbb4ed6a50329b2d5191f0eddd975a59290e42b488cf3",
+      "bytes": 1946054
+    },
+    {
+      "path": "../assets/cookt-photo-bowl-blackened-v001.webp",
+      "sha256": "ebd6d8d529145652502080df7d360b99031d18e62f732a91c5647f9eee7d9541",
+      "bytes": 223334
+    },
+    {
+      "path": "../assets/cookt-photo-bowl-chipotle-v001.png",
+      "sha256": "1d868c5d5ec2765c77df3b39d623a6c2478e1701be6624c87ad09d29d519bd2b",
+      "bytes": 2335425
+    },
+    {
+      "path": "../assets/cookt-photo-bowl-chipotle-v001.webp",
+      "sha256": "ef0536fa04f56542d2ab772a3a2f6ca837a179603609f0214e9ab76c734d12fa",
+      "bytes": 379538
+    },
+    {
+      "path": "../assets/cookt-photo-bowl-orzo-v001.png",
+      "sha256": "d7f9b66604e0664b5e1b1e28aa1305e63c2b63673b28cd2a23d16e234d47fc91",
+      "bytes": 1777070
+    },
+    {
+      "path": "../assets/cookt-photo-bowl-orzo-v001.webp",
+      "sha256": "25b49197511623dc4006dd56c64113fca93895069ed3b130f9a0b14ecd492e24",
+      "bytes": 190092
+    },
+    {
+      "path": "../assets/cookt-photo-bowl-rasta-v001.png",
+      "sha256": "10026712cb299df9990ba8012cb9033e5a2ca61b16c743f9ced9e8953c6705bd",
+      "bytes": 1873868
+    },
+    {
+      "path": "../assets/cookt-photo-bowl-rasta-v001.webp",
+      "sha256": "f6ad04e0472e3e51d5d013c1b38358b59bea70d6294d291eb70250794b339701",
+      "bytes": 196800
+    },
+    {
+      "path": "../assets/cookt-photo-first-bite-v001.jpg",
+      "sha256": "62161ac7287ef0916fce7dc8481d48f0b31ca5725931c4a2c3aefd830fe64ceb",
+      "bytes": 697682
+    },
+    {
+      "path": "../assets/cookt-photo-first-bite-v001.webp",
+      "sha256": "3b022e55df48b033f7f3508c04d3d8cbcec199d82da04e8b1d1ec1fe0a2270e1",
+      "bytes": 386158
+    },
+    {
+      "path": "../assets/cookt-photo-linen-blackened-v001.png",
+      "sha256": "c59666b14500b971e706ead1751e3a0a72f4222fed6188d27dd67ae874923998",
+      "bytes": 2801381
+    },
+    {
+      "path": "../assets/cookt-photo-linen-blackened-v001.webp",
+      "sha256": "353c524c2c6e117e0649aaa96b99abeaf9d2a298eb9a811f7c874e663e1708bf",
+      "bytes": 551846
+    },
+    {
+      "path": "../assets/cookt-photo-linen-chipotle-v001.png",
+      "sha256": "1818fd36a4dcd6461457b9a7dd1bd0934340268a0a322682565e63d199fa67e4",
+      "bytes": 3182862
+    },
+    {
+      "path": "../assets/cookt-photo-linen-chipotle-v001.webp",
+      "sha256": "5f0a2b11d62f67db1871afc108fcf73e49c9d0c54cb903b48dad1fb7ff63c252",
+      "bytes": 662794
+    },
+    {
+      "path": "../assets/cookt-photo-linen-orzo-v001.png",
+      "sha256": "5f8941822bac90f67674419a3244c85b6f9022b7b41eacacf54126ccddac1d5e",
+      "bytes": 2888258
+    },
+    {
+      "path": "../assets/cookt-photo-linen-orzo-v001.webp",
+      "sha256": "d3165c5f3efc6254af43d8a8f47fc2b75b61639b66eacc0970c9c722a222b934",
+      "bytes": 541198
+    },
+    {
+      "path": "../assets/cookt-photo-linen-rasta-v001.png",
+      "sha256": "ac2931dd7e2fa0426a5198e45a117c27692d73cfae915b126e111114b7e638cb",
+      "bytes": 2986281
+    },
+    {
+      "path": "../assets/cookt-photo-linen-rasta-v001.webp",
+      "sha256": "5a95f95e77f296a58606354cec60827d1e8fd6f186e0cefbee0bee914e0fea1e",
+      "bytes": 608618
+    },
+    {
+      "path": "../assets/cookt-photo-passing-v001.jpg",
+      "sha256": "8d409780df07a34e4085d4387862f64822830db455138ea855e5c385578dae86",
+      "bytes": 594410
+    },
+    {
+      "path": "../assets/cookt-photo-passing-v001.webp",
+      "sha256": "cb68087f27209bdf1e87383108473d5fd4a614ba2a80a317bf2a7fab24f01297",
+      "bytes": 317606
+    },
+    {
+      "path": "../assets/cookt-photo-service-blackened-v001.png",
+      "sha256": "47e370fc96eccda4be0c8dc79975def853d3abe59b6fbbb46e10c59e3ca682cd",
+      "bytes": 2183287
+    },
+    {
+      "path": "../assets/cookt-photo-service-blackened-v001.webp",
+      "sha256": "7500ae70b76958a2e1bb0a4bfeb9225870303000aaa788c7b1bc9b9050167c3c",
+      "bytes": 294888
+    },
+    {
+      "path": "../assets/cookt-photo-service-chipotle-v001.png",
+      "sha256": "e95d98c14ce5ac7e1d0acb5f070f417e90960ee5a39e0e56123231742d5ec7fd",
+      "bytes": 2328375
+    },
+    {
+      "path": "../assets/cookt-photo-service-chipotle-v001.webp",
+      "sha256": "44554a45404f914e01c23e05d5c8d7f0477f3a498793bb18b119f1714dd0f1b7",
+      "bytes": 348406
+    },
+    {
+      "path": "../assets/cookt-photo-service-orzo-v001.png",
+      "sha256": "ff3604a1fb06884a9525b3200a3ef86911a42da7d7db8f007ae24b2f0d354a6b",
+      "bytes": 2100166
+    },
+    {
+      "path": "../assets/cookt-photo-service-orzo-v001.webp",
+      "sha256": "01a75e4ee03704e640410d6300c1a1d0d964e2a7eba2a9e8e14517bc1b62731a",
+      "bytes": 245704
+    },
+    {
+      "path": "../assets/cookt-photo-service-rasta-v001.png",
+      "sha256": "ea9623675526481e4aa64c958391eb6f74353f077cb294119c05f8dcc21b5c0f",
+      "bytes": 2021004
+    },
+    {
+      "path": "../assets/cookt-photo-service-rasta-v001.webp",
+      "sha256": "80471def48583147e129948b9621bc150ef395840f3c52462f5619122a372b57",
+      "bytes": 245814
+    },
+    {
+      "path": "../assets/cookt-rasta-ochre-overhead-v001-4096.png",
+      "sha256": "e78b6ea4fc80f843e14131611800784fcc0c55b439486c6f0f679aa19ef153aa",
+      "bytes": 10184877
+    },
+    {
+      "path": "../assets/cookt-rasta-ochre-overhead-v001.png",
+      "sha256": "fa2dd9b955ae6b54f488e0f52c4ff32b7b25fb957b31fbe65b4cd8a48c31365d",
+      "bytes": 1941658
+    },
+    {
+      "path": "../assets/cookt-rasta-ochre-overhead-v001.webp",
+      "sha256": "f9ac932ad22ff62a509bba47b28943d7223892a9d73d57ce39fd3227f08f2197",
+      "bytes": 374258
+    },
+    {
+      "path": "../assets/cookt-rasta-olive-overhead-v001-4096.png",
+      "sha256": "bf85a80de62e80b3c78dd797341e9a7a19796da2a4ed4ebd52d85dfe42d76ef4",
+      "bytes": 12721179
+    },
+    {
+      "path": "../assets/cookt-rasta-olive-overhead-v001.png",
+      "sha256": "6afc2f15f616c4a5471177c63966e70bbc8c8c829cf191ea90ef7c39973061bc",
+      "bytes": 2163663
+    },
+    {
+      "path": "../assets/cookt-rasta-olive-overhead-v001.webp",
+      "sha256": "7429951b4b2c8734d91d9ad12af3f656eb4903d690a5087789c8a969039f2c16",
+      "bytes": 441318
+    },
+    {
+      "path": "../assets/cookt-rasta-overhead-v001-4096.png",
+      "sha256": "8078437f2043ca1976747ae4a4b6f04953e91ec305949ea8bc73c5c00942b012",
+      "bytes": 14308263
+    },
+    {
+      "path": "../assets/cookt-rasta-overhead-v001.png",
+      "sha256": "2cb130762d0c52f8124a2f04dc06f7c97f4edcdcc0e8bed611d08bfb3a8e6539",
+      "bytes": 2314171
+    },
+    {
+      "path": "../assets/cookt-rasta-overhead-v001.webp",
+      "sha256": "a141ee0df8d815c73f6546eeb54ad817ff1104645c34af5bb619cd2d951af97e",
+      "bytes": 497954
+    }
+  ]
 }
