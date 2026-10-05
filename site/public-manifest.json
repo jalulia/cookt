@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "0.24.1",
+  "version": "0.29.0",
   "audience": "public",
   "edition": "rendered-only",
   "entry": "index.html",
   "deploymentEntry": "index.html",
   "routes": [
+    "#/next-steps",
     "#/",
     "#/brand",
     "#/brand/logo",
@@ -171,7 +172,7 @@
       "sourceSha256": "7577b4c05c8593d2ab3ffda1513e68c518f489f8c81ca015328a891ed21cf447"
     }
   ],
-  "clientDataSha256": "32376f1bae6ef336aad79012561c48a73d3f7c841f9db8d0e3eeea15f8befbd4",
+  "clientDataSha256": "d0a892c9152a84903bed29eac39c03c3c5351dfb3af506a56f7c62013a862982",
   "files": [
     {
       "path": ".nojekyll",
@@ -180,8 +181,8 @@
     },
     {
       "path": "app.js",
-      "bytes": 61840,
-      "sha256": "7a1735f95ba2003599f013fbf639d97b586bdcae486f532ff385acfd914c682a"
+      "bytes": 62461,
+      "sha256": "9c03f35eb04e0abefca194eff2b37db8fc5678459406b5bffb8e38cb21fea74e"
     },
     {
       "path": "assets/barbacoa-catalog-v001.webp",
@@ -544,6 +545,16 @@
       "sha256": "01e8bcce88c99d9d2dfc7eeee3a9fba92001fc8d3f5a4104ecd1c4c868d82965"
     },
     {
+      "path": "assets/cookt-matched-dish-palettes-v002.png",
+      "bytes": 634601,
+      "sha256": "2682e954a236eaba3161019405fcb4962588e1f1f69e7e67ae95d4dc3c61fe36"
+    },
+    {
+      "path": "assets/cookt-matched-lifestyle-palettes-v002.png",
+      "bytes": 632448,
+      "sha256": "cd81718d30bb10e48444f2ea88444ddf9a40d393f9ffcb2e11f3723494cc067c"
+    },
+    {
       "path": "assets/cookt-original-horizontal-v001.png",
       "bytes": 61215,
       "sha256": "c376cd24e94cef7414c28e847f7ea0fac1c4d5b466cbfded63a4267a9dde9a5c"
@@ -864,6 +875,16 @@
       "sha256": "022f23a1d78832ef4b38d85accafa0855f1b01333a40e83596f2d1c02f709aab"
     },
     {
+      "path": "assets/cookt-r3-chili-concept-v001.png",
+      "bytes": 945463,
+      "sha256": "9bf07b85a7857a25eb69c9ef3088ba55bbbd09cab617a00969925f727f03aa24"
+    },
+    {
+      "path": "assets/cookt-r3-mint-concept-v001.png",
+      "bytes": 1098845,
+      "sha256": "0b202938c2f851f8838b051be4a833eba86fd8e7708e592df342a96e1faead77"
+    },
+    {
       "path": "assets/cookt-rasta-back-v001.png",
       "bytes": 1498730,
       "sha256": "7fef69c723f897738eb5e0566aec3856c70fad16a9f4f785d6364c4864a250c6"
@@ -992,6 +1013,26 @@
       "path": "assets/cookt-retail-original-native-v018.webp",
       "bytes": 678786,
       "sha256": "25c28b871bbeb3dd0fe3e0a0fc00679cd2ee617c731fdd6d0bc654b1809095bc"
+    },
+    {
+      "path": "assets/cookt-review-flat-chipotle-chicken-with-corn-v001.png",
+      "bytes": 682199,
+      "sha256": "a52b0142a5e81a902e1d6743a968e6ce14286316ebfe7bfad7a6bdbe0c2f4622"
+    },
+    {
+      "path": "assets/cookt-review-flat-creamy-blackened-chicken-pasta-v001.png",
+      "bytes": 679307,
+      "sha256": "ce6a3e1173c1972dc532b3c9cd037e3de5ad0f4270dbf96dcbd9bbfe8b74a6eb"
+    },
+    {
+      "path": "assets/cookt-review-flat-jamaican-rasta-chicken-pasta-v001.png",
+      "bytes": 660276,
+      "sha256": "bcb1e230c1cd2b642ce7534988e922df7cb0a60d3e128e8ecef3754e0a8647dd"
+    },
+    {
+      "path": "assets/cookt-review-flat-lemon-chicken-orzo-v001.png",
+      "bytes": 690922,
+      "sha256": "64f4b709cc6c6a0d77da37fa89944f06f6c88284f6cc86077bfa51f539eee5fc"
     },
     {
       "path": "assets/cookt-system-comparison-v002.png",
@@ -1409,9 +1450,19 @@
       "sha256": "0aa19c23691437fe18bb7289d0f7a2bd7d59b37297535ed1377a77ebd845778b"
     },
     {
+      "path": "current-review.css",
+      "bytes": 2478,
+      "sha256": "77f80019b86d493e700a106b1cede94b9ac847df2d3d230f34eed9e017979f7a"
+    },
+    {
+      "path": "current-review.js",
+      "bytes": 2259,
+      "sha256": "68ae3e845535ac0a330d4961ffa1770f71c65a059e1867ad63ca63696ae6b837"
+    },
+    {
       "path": "data.js",
-      "bytes": 104936,
-      "sha256": "a49b693d341e81cdde8c8f5dfa065498abc813ed82dd3faba806b4563f0a47ab"
+      "bytes": 115612,
+      "sha256": "6fece3ed24bf3106ba68d982e9aa020ed1e5cd7810d17a03f1226badad2e7387"
     },
     {
       "path": "garnish-v003/art.js",
@@ -1430,8 +1481,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 3718,
-      "sha256": "1bcb2c175f755caa23fad2cdb13b23d09c3f7d504557ea53e49b261774189125"
+      "bytes": 3863,
+      "sha256": "f5b50b8daf584ff09a3363176d99df24967525862e7f9a7cd512d9a7e340c1ea"
+    },
+    {
+      "path": "next-steps.html",
+      "bytes": 825,
+      "sha256": "56fa2f37e24043f5d82f40c2d5227643f2ffc0f691d11af694f5f3fa74c4c950"
     },
     {
       "path": "photography-guide.html",
@@ -1595,8 +1651,8 @@
     },
     {
       "path": "presentations/brand-system-v002/index.html",
-      "bytes": 9323,
-      "sha256": "d63b5c886b65ced13ab681f9545781dad601ad86aadc8cabfa9262f286cc04ce"
+      "bytes": 9425,
+      "sha256": "669d96d17931133636df866f66ab83b05cd9516a7ff284d82253acf5faa4c351"
     },
     {
       "path": "presentations/clean-plate-club-v003/boards/cookt-clean-plate-club-v003-board-01.webp",
@@ -1695,8 +1751,8 @@
     },
     {
       "path": "presentations/clean-plate-club-v003/index.html",
-      "bytes": 8331,
-      "sha256": "58da00c4a54ca280639c1cbee58b9262989b86caffabbe0986851cc6bcdb1e62"
+      "bytes": 8377,
+      "sha256": "fe25f24c92dc9b18fc91d1e468d52792523539808704b8177b1a5dace9a31e7c"
     },
     {
       "path": "presentations/dtc-experience-v003/boards/cookt-dtc-experience-v003-board-01.webp",
@@ -1815,8 +1871,8 @@
     },
     {
       "path": "presentations/dtc-experience-v003/index.html",
-      "bytes": 9541,
-      "sha256": "921d30f726a680b0d82e484c85b3ec4df450672de0c1c5fe015349195deeee1d"
+      "bytes": 9587,
+      "sha256": "f615c8f7983d9c7cdfce231e403d1ffbc5945bcf8888bea9ae7baa9279c92ff9"
     },
     {
       "path": "studio/assets/blackened-white-carton-v014.webp",
@@ -2059,6 +2115,16 @@
       "sha256": "477ebcfa4c085d10f317c18d20f93529ced72c35619d5cfb41d980c3dd093123"
     },
     {
+      "path": "studio/assets/cookt-matched-dish-palettes-v002.png",
+      "bytes": 634601,
+      "sha256": "2682e954a236eaba3161019405fcb4962588e1f1f69e7e67ae95d4dc3c61fe36"
+    },
+    {
+      "path": "studio/assets/cookt-matched-lifestyle-palettes-v002.png",
+      "bytes": 632448,
+      "sha256": "cd81718d30bb10e48444f2ea88444ddf9a40d393f9ffcb2e11f3723494cc067c"
+    },
+    {
       "path": "studio/assets/cookt-original-horizontal-v001.png",
       "bytes": 87741,
       "sha256": "38c1ab71a662daed17f3a2ca02e574c2970e16012665cb2184fa932c8941be1f"
@@ -2169,6 +2235,16 @@
       "sha256": "45b065058f5905b38a8806aefac64e72d94d02948a0336e833ee2ab82a7fe5b6"
     },
     {
+      "path": "studio/assets/cookt-r3-chili-concept-v001.png",
+      "bytes": 945463,
+      "sha256": "9bf07b85a7857a25eb69c9ef3088ba55bbbd09cab617a00969925f727f03aa24"
+    },
+    {
+      "path": "studio/assets/cookt-r3-mint-concept-v001.png",
+      "bytes": 1098845,
+      "sha256": "0b202938c2f851f8838b051be4a833eba86fd8e7708e592df342a96e1faead77"
+    },
+    {
       "path": "studio/assets/cookt-rasta-back-v001.png",
       "bytes": 1498730,
       "sha256": "7fef69c723f897738eb5e0566aec3856c70fad16a9f4f785d6364c4864a250c6"
@@ -2252,6 +2328,26 @@
       "path": "studio/assets/cookt-retail-original-native-v018.webp",
       "bytes": 678786,
       "sha256": "25c28b871bbeb3dd0fe3e0a0fc00679cd2ee617c731fdd6d0bc654b1809095bc"
+    },
+    {
+      "path": "studio/assets/cookt-review-flat-chipotle-chicken-with-corn-v001.png",
+      "bytes": 682199,
+      "sha256": "a52b0142a5e81a902e1d6743a968e6ce14286316ebfe7bfad7a6bdbe0c2f4622"
+    },
+    {
+      "path": "studio/assets/cookt-review-flat-creamy-blackened-chicken-pasta-v001.png",
+      "bytes": 679307,
+      "sha256": "ce6a3e1173c1972dc532b3c9cd037e3de5ad0f4270dbf96dcbd9bbfe8b74a6eb"
+    },
+    {
+      "path": "studio/assets/cookt-review-flat-jamaican-rasta-chicken-pasta-v001.png",
+      "bytes": 660276,
+      "sha256": "bcb1e230c1cd2b642ce7534988e922df7cb0a60d3e128e8ecef3754e0a8647dd"
+    },
+    {
+      "path": "studio/assets/cookt-review-flat-lemon-chicken-orzo-v001.png",
+      "bytes": 690922,
+      "sha256": "64f4b709cc6c6a0d77da37fa89944f06f6c88284f6cc86077bfa51f539eee5fc"
     },
     {
       "path": "studio/assets/cookt-system-comparison-v002.png",
@@ -2590,28 +2686,28 @@
     },
     {
       "path": "studio/cookt-studio-data-v003.js",
-      "bytes": 32463,
-      "sha256": "0062d3e2a06c09fac942abcee6b57a3056d2dad583484f3e792daca6f420e778"
+      "bytes": 41206,
+      "sha256": "c75573032fbdfe8af42512075188775d5aeafbe408cd11bd4dc19a25701a7cf9"
     },
     {
       "path": "studio/cookt-studio-v003.css",
-      "bytes": 17274,
-      "sha256": "da08f96c4eaa660fab08c7df0ffd59b61884a62f978313bec6a370d58c65e122"
+      "bytes": 17573,
+      "sha256": "6176c668e156ad7db7cec01a09ca5660ca708d62ff081be2923b4757ebb31ef9"
     },
     {
       "path": "studio/cookt-studio-v003.js",
-      "bytes": 20104,
-      "sha256": "3aef91dc3e810537d062faa6c25cc902996e9f9976ee233b0b9ebfa81df85e80"
+      "bytes": 21093,
+      "sha256": "f76e6b89ae77ccbcf832fec5f4a716a7a8b59f1ed8eaf5867c257c3eedd4ba1b"
     },
     {
       "path": "studio/index.html",
-      "bytes": 1739,
-      "sha256": "c923d0c27474827f22b628204a45d8c7662d5b79320a623646cf23815f7aa289"
+      "bytes": 1766,
+      "sha256": "95e4fbf7a49359680e0045152f352a620e9f8ca24de4ae46feb1acc837c8fd95"
     },
     {
       "path": "studio/public-manifest.json",
-      "bytes": 41024,
-      "sha256": "7f35f6bc1d86f5cf4e6ce1365b104a009cf239a2f27a5e7656df78c67d99a0ef"
+      "bytes": 42525,
+      "sha256": "e6c3f8420b8f6f38b4c30ddc4ed80983529a08eb0bf720618c4a787b22d0067b"
     },
     {
       "path": "styles.css",
@@ -2629,5 +2725,5 @@
       "sha256": "a3e25e3d664e15199bb302b9e4f41cfb81bb25c9e31be02f2fca003b01d7767f"
     }
   ],
-  "bytes": 980709885
+  "bytes": 992786764
 }

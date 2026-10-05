@@ -1,11 +1,11 @@
 {
   "version": "v003",
-  "release": "0.24.1",
-  "siteVersion": "0.24.1",
+  "release": "0.29.0",
+  "siteVersion": "0.29.0",
   "entry": "index.html",
   "status": "In review",
-  "builtFromRecordVersion": "0.24.1",
-  "recordSha256": "7bcabe7e717e29f59131971cb7efbe04e05107558826d5a1ff579767b04d1244",
+  "builtFromRecordVersion": "0.29.0",
+  "recordSha256": "168186a9bd2a12a04ade1964f192fe8341ccf8310cedd45ca87c1daf8b962d65",
   "routes": [
     "range",
     "pack",
@@ -270,6 +270,16 @@
       "sha256": "477ebcfa4c085d10f317c18d20f93529ced72c35619d5cfb41d980c3dd093123"
     },
     {
+      "path": "assets/cookt-matched-dish-palettes-v002.png",
+      "bytes": 634601,
+      "sha256": "2682e954a236eaba3161019405fcb4962588e1f1f69e7e67ae95d4dc3c61fe36"
+    },
+    {
+      "path": "assets/cookt-matched-lifestyle-palettes-v002.png",
+      "bytes": 632448,
+      "sha256": "cd81718d30bb10e48444f2ea88444ddf9a40d393f9ffcb2e11f3723494cc067c"
+    },
+    {
       "path": "assets/cookt-original-horizontal-v001.png",
       "bytes": 87741,
       "sha256": "38c1ab71a662daed17f3a2ca02e574c2970e16012665cb2184fa932c8941be1f"
@@ -380,6 +390,16 @@
       "sha256": "45b065058f5905b38a8806aefac64e72d94d02948a0336e833ee2ab82a7fe5b6"
     },
     {
+      "path": "assets/cookt-r3-chili-concept-v001.png",
+      "bytes": 945463,
+      "sha256": "9bf07b85a7857a25eb69c9ef3088ba55bbbd09cab617a00969925f727f03aa24"
+    },
+    {
+      "path": "assets/cookt-r3-mint-concept-v001.png",
+      "bytes": 1098845,
+      "sha256": "0b202938c2f851f8838b051be4a833eba86fd8e7708e592df342a96e1faead77"
+    },
+    {
       "path": "assets/cookt-rasta-back-v001.png",
       "bytes": 1498730,
       "sha256": "7fef69c723f897738eb5e0566aec3856c70fad16a9f4f785d6364c4864a250c6"
@@ -463,6 +483,26 @@
       "path": "assets/cookt-retail-original-native-v018.webp",
       "bytes": 678786,
       "sha256": "25c28b871bbeb3dd0fe3e0a0fc00679cd2ee617c731fdd6d0bc654b1809095bc"
+    },
+    {
+      "path": "assets/cookt-review-flat-chipotle-chicken-with-corn-v001.png",
+      "bytes": 682199,
+      "sha256": "a52b0142a5e81a902e1d6743a968e6ce14286316ebfe7bfad7a6bdbe0c2f4622"
+    },
+    {
+      "path": "assets/cookt-review-flat-creamy-blackened-chicken-pasta-v001.png",
+      "bytes": 679307,
+      "sha256": "ce6a3e1173c1972dc532b3c9cd037e3de5ad0f4270dbf96dcbd9bbfe8b74a6eb"
+    },
+    {
+      "path": "assets/cookt-review-flat-jamaican-rasta-chicken-pasta-v001.png",
+      "bytes": 660276,
+      "sha256": "bcb1e230c1cd2b642ce7534988e922df7cb0a60d3e128e8ecef3754e0a8647dd"
+    },
+    {
+      "path": "assets/cookt-review-flat-lemon-chicken-orzo-v001.png",
+      "bytes": 690922,
+      "sha256": "64f4b709cc6c6a0d77da37fa89944f06f6c88284f6cc86077bfa51f539eee5fc"
     },
     {
       "path": "assets/cookt-system-comparison-v002.png",
@@ -801,26 +841,26 @@
     },
     {
       "path": "cookt-studio-data-v003.js",
-      "bytes": 32463,
-      "sha256": "0062d3e2a06c09fac942abcee6b57a3056d2dad583484f3e792daca6f420e778"
+      "bytes": 41206,
+      "sha256": "c75573032fbdfe8af42512075188775d5aeafbe408cd11bd4dc19a25701a7cf9"
     },
     {
       "path": "cookt-studio-v003.css",
-      "bytes": 17274,
-      "sha256": "da08f96c4eaa660fab08c7df0ffd59b61884a62f978313bec6a370d58c65e122"
+      "bytes": 17573,
+      "sha256": "6176c668e156ad7db7cec01a09ca5660ca708d62ff081be2923b4757ebb31ef9"
     },
     {
       "path": "cookt-studio-v003.js",
-      "bytes": 20104,
-      "sha256": "3aef91dc3e810537d062faa6c25cc902996e9f9976ee233b0b9ebfa81df85e80"
+      "bytes": 21093,
+      "sha256": "f76e6b89ae77ccbcf832fec5f4a716a7a8b59f1ed8eaf5867c257c3eedd4ba1b"
     },
     {
       "path": "index.html",
-      "bytes": 1739,
-      "sha256": "c923d0c27474827f22b628204a45d8c7662d5b79320a623646cf23815f7aa289"
+      "bytes": 1766,
+      "sha256": "95e4fbf7a49359680e0045152f352a620e9f8ca24de4ae46feb1acc837c8fd95"
     }
   ],
-  "bytes": 365165823,
+  "bytes": 371199942,
   "sharedAssets": [
     {
       "path": "../assets/cookt-blackened-green-overhead-v001-4096.png",
