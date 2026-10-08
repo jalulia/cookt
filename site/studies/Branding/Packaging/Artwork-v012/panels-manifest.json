@@ -1,0 +1,159 @@
+{
+  "version": "v012",
+  "status": "Current 2026-10-01 review copy; panel facts and approvals pending",
+  "copySource": "source/copy-reconciliation.json",
+  "products": {
+    "rasta": {
+      "back-kitchen": {
+        "svg": "frozen-rasta-back-kitchen-v012.svg",
+        "png": "web/frozen-rasta-back-kitchen-v012.png",
+        "webp": "web/frozen-rasta-back-kitchen-v012.webp",
+        "sha256": "771ebc7081a49372e039c7077d8143526a00d495a6a8860476ddacb469e717ff"
+      },
+      "back-story": {
+        "svg": "frozen-rasta-back-story-v012.svg",
+        "png": "web/frozen-rasta-back-story-v012.png",
+        "webp": "web/frozen-rasta-back-story-v012.webp",
+        "sha256": "a9c2e54f47b7829226a0b3e22979e3dca122b148d054202a3b9ed5be105852bb"
+      },
+      "back-kitchen-bullets": {
+        "svg": "frozen-rasta-back-kitchen-bullets-v012.svg",
+        "png": "web/frozen-rasta-back-kitchen-bullets-v012.png",
+        "webp": "web/frozen-rasta-back-kitchen-bullets-v012.webp",
+        "sha256": "83c6afaf86855da8185b44993a2808ea86f00640eba99fa8683662e87554a549"
+      },
+      "side-statement": {
+        "svg": "frozen-rasta-side-statement-v012.svg",
+        "png": "web/frozen-rasta-side-statement-v012.png",
+        "webp": "web/frozen-rasta-side-statement-v012.webp",
+        "sha256": "91c6dfd31ae24dbe2529340f8fbbfd00c952708e6fc8cad70299375b25aa669d"
+      },
+      "side-quiet": {
+        "svg": "frozen-rasta-side-quiet-v012.svg",
+        "png": "web/frozen-rasta-side-quiet-v012.png",
+        "webp": "web/frozen-rasta-side-quiet-v012.webp",
+        "sha256": "6c059a94e91955e8c74b1d3e9fb822c4deceaf660d5661f99fd1da636a9637e0"
+      },
+      "side-food-wrap": {
+        "svg": "frozen-rasta-side-food-wrap-v012.svg",
+        "png": "web/frozen-rasta-side-food-wrap-v012.png",
+        "webp": "web/frozen-rasta-side-food-wrap-v012.webp",
+        "sha256": "31ab431dbd589eee9c74c9ff3cd1d737a056cff3431beef6af6478749b60e20b"
+      }
+    },
+    "blackened": {
+      "back-kitchen": {
+        "svg": "frozen-blackened-back-kitchen-v012.svg",
+        "png": "web/frozen-blackened-back-kitchen-v012.png",
+        "webp": "web/frozen-blackened-back-kitchen-v012.webp",
+        "sha256": "beef4dea5d321f125ee85a09bc10bca5ed0a913bad46dbbaa0617f1e8566dbfb"
+      },
+      "back-story": {
+        "svg": "frozen-blackened-back-story-v012.svg",
+        "png": "web/frozen-blackened-back-story-v012.png",
+        "webp": "web/frozen-blackened-back-story-v012.webp",
+        "sha256": "ef9df9249d6dadfff0ab21f370735b88537f33499f30b0e802c53722f4347c49"
+      },
+      "back-kitchen-bullets": {
+        "svg": "frozen-blackened-back-kitchen-bullets-v012.svg",
+        "png": "web/frozen-blackened-back-kitchen-bullets-v012.png",
+        "webp": "web/frozen-blackened-back-kitchen-bullets-v012.webp",
+        "sha256": "f3fc85e6194aefd89ccbf6ec41f736471fff23960923967dfaddfe3aeb5db6d3"
+      },
+      "side-statement": {
+        "svg": "frozen-blackened-side-statement-v012.svg",
+        "png": "web/frozen-blackened-side-statement-v012.png",
+        "webp": "web/frozen-blackened-side-statement-v012.webp",
+        "sha256": "598e2044cb529b0d5dd9757916198b6cf9908efdc3821fb5e7a54c31ed0990a9"
+      },
+      "side-quiet": {
+        "svg": "frozen-blackened-side-quiet-v012.svg",
+        "png": "web/frozen-blackened-side-quiet-v012.png",
+        "webp": "web/frozen-blackened-side-quiet-v012.webp",
+        "sha256": "734352cfcf0010342ec6f131f79ea1449b98d4dd827445e657061bb43727473e"
+      },
+      "side-food-wrap": {
+        "svg": "frozen-blackened-side-food-wrap-v012.svg",
+        "png": "web/frozen-blackened-side-food-wrap-v012.png",
+        "webp": "web/frozen-blackened-side-food-wrap-v012.webp",
+        "sha256": "0626101c8fd196410a0632588e6446fb0b99e1d7fadae4cdc17aadf27e654720"
+      }
+    },
+    "orzo": {
+      "back-kitchen": {
+        "svg": "frozen-orzo-back-kitchen-v012.svg",
+        "png": "web/frozen-orzo-back-kitchen-v012.png",
+        "webp": "web/frozen-orzo-back-kitchen-v012.webp",
+        "sha256": "c53e45724c480e18d3d940d06b3379783dbcc2afa4865d521f118b96d782e165"
+      },
+      "back-story": {
+        "svg": "frozen-orzo-back-story-v012.svg",
+        "png": "web/frozen-orzo-back-story-v012.png",
+        "webp": "web/frozen-orzo-back-story-v012.webp",
+        "sha256": "ca0b47d653215093f8b42643403c54cc90366f2f52d057a86896a053d9ffce65"
+      },
+      "back-kitchen-bullets": {
+        "svg": "frozen-orzo-back-kitchen-bullets-v012.svg",
+        "png": "web/frozen-orzo-back-kitchen-bullets-v012.png",
+        "webp": "web/frozen-orzo-back-kitchen-bullets-v012.webp",
+        "sha256": "b92cfd56b54e1b40ef39647219a490a07460753bee3902d39fabb271096c9ec7"
+      },
+      "side-statement": {
+        "svg": "frozen-orzo-side-statement-v012.svg",
+        "png": "web/frozen-orzo-side-statement-v012.png",
+        "webp": "web/frozen-orzo-side-statement-v012.webp",
+        "sha256": "ef14bcab386c8ad309ee13a79c2f966f802aa1edc34c31dd897aba234a0cfd76"
+      },
+      "side-quiet": {
+        "svg": "frozen-orzo-side-quiet-v012.svg",
+        "png": "web/frozen-orzo-side-quiet-v012.png",
+        "webp": "web/frozen-orzo-side-quiet-v012.webp",
+        "sha256": "a50ceb3d3dfc5093339caf934b32e7d15023a76fcd1a8f6978959bf7ffaf0400"
+      },
+      "side-food-wrap": {
+        "svg": "frozen-orzo-side-food-wrap-v012.svg",
+        "png": "web/frozen-orzo-side-food-wrap-v012.png",
+        "webp": "web/frozen-orzo-side-food-wrap-v012.webp",
+        "sha256": "f51c6d386a8621374ccaa1e657b40d2e69b74ee10e423e41169138e18e299360"
+      }
+    },
+    "chipotle": {
+      "back-kitchen": {
+        "svg": "frozen-chipotle-back-kitchen-v012.svg",
+        "png": "web/frozen-chipotle-back-kitchen-v012.png",
+        "webp": "web/frozen-chipotle-back-kitchen-v012.webp",
+        "sha256": "7e86e82e86cea800e5695d68fec5cbb193a12cb9a3da0c6d4261f5020f8dcaf6"
+      },
+      "back-story": {
+        "svg": "frozen-chipotle-back-story-v012.svg",
+        "png": "web/frozen-chipotle-back-story-v012.png",
+        "webp": "web/frozen-chipotle-back-story-v012.webp",
+        "sha256": "2013316a014c4bd5790aa7acc040732587946be4baee626f18309823b7a77661"
+      },
+      "back-kitchen-bullets": {
+        "svg": "frozen-chipotle-back-kitchen-bullets-v012.svg",
+        "png": "web/frozen-chipotle-back-kitchen-bullets-v012.png",
+        "webp": "web/frozen-chipotle-back-kitchen-bullets-v012.webp",
+        "sha256": "8ac6360a450685e707c5394e1f1a56433fb233630e2ea4cb4528837038332793"
+      },
+      "side-statement": {
+        "svg": "frozen-chipotle-side-statement-v012.svg",
+        "png": "web/frozen-chipotle-side-statement-v012.png",
+        "webp": "web/frozen-chipotle-side-statement-v012.webp",
+        "sha256": "5292c0c4c5773d29fe82faac2c3e6e037c586b1151129c51ef717b1b9c4b044c"
+      },
+      "side-quiet": {
+        "svg": "frozen-chipotle-side-quiet-v012.svg",
+        "png": "web/frozen-chipotle-side-quiet-v012.png",
+        "webp": "web/frozen-chipotle-side-quiet-v012.webp",
+        "sha256": "48b7b18b7a0f43950541946a4f5394402d13258c63af5e4c4eb7336d870cad7b"
+      },
+      "side-food-wrap": {
+        "svg": "frozen-chipotle-side-food-wrap-v012.svg",
+        "png": "web/frozen-chipotle-side-food-wrap-v012.png",
+        "webp": "web/frozen-chipotle-side-food-wrap-v012.webp",
+        "sha256": "b42b3a63555dbb711dc653b687b50b62df6f2b3772ba13b9df9de8c15d02e4b0"
+      }
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "version": "v001",
+  "status": "In review",
+  "readyForIntegration": true,
+  "publicationAuthorization": "Julia requested full hub update, then explicitly corrected missing digital work on 6 Oct 2026. Publication is review access, not design selection.",
+  "presentation": "https://docs.google.com/presentation/d/1iX9rpXa88x-PDM_yr3kcJgSi5fNO_cXIGnhVXBMukfU/edit",
+  "presentationRevision": "T1iSxU5x4kWrow",
+  "exports": [
+    {
+      "id": "website-mint-desktop",
+      "png": "proofs/cookt-digital-website-mint-desktop-v001.png",
+      "webp": "web/cookt-digital-website-mint-desktop-v001.webp",
+      "pngSha256": "d51a900a434270dfe4f4c16e5bed95cbc20b4e7f5ec3af49f098b8aabccd5e71",
+      "webpSha256": "334b38ab631bb657ded4662f4e79d9024035be4d8d6760cc7cbda53705d98616",
+      "width": 2880,
+      "height": 2000,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/presentation/mint-home-v003-desktop.png",
+      "originSha256": "d51a900a434270dfe4f4c16e5bed95cbc20b4e7f5ec3af49f098b8aabccd5e71"
+    },
+    {
+      "id": "website-mint-mobile",
+      "png": "proofs/cookt-digital-website-mint-mobile-v001.png",
+      "webp": "web/cookt-digital-website-mint-mobile-v001.webp",
+      "pngSha256": "d74dc0092894e3ad213d1d96f813814b206f84bc58150c5d256c1429b96a7daa",
+      "webpSha256": "8330c29745883f85602ac74529ccd76a25b9263c10867f272121c952cb2dee8d",
+      "width": 780,
+      "height": 4982,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/presentation/mint-home-v003-mobile-full.png",
+      "originSha256": "d74dc0092894e3ad213d1d96f813814b206f84bc58150c5d256c1429b96a7daa"
+    },
+    {
+      "id": "website-mint-full",
+      "png": "proofs/cookt-digital-website-mint-full-v001.png",
+      "webp": "web/cookt-digital-website-mint-full-v001.webp",
+      "pngSha256": "003941ad8461c1f91ba868acc893cbbbc869e3b6041505e132ea764c154eb66e",
+      "webpSha256": "d43c4f1c2e0dc3ad3dde5bf41d84ce205daee3a4fb99a847786465e23647a9ac",
+      "width": 2880,
+      "height": 4140,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/presentation/mint-home-v003-desktop-full.png",
+      "originSha256": "003941ad8461c1f91ba868acc893cbbbc869e3b6041505e132ea764c154eb66e"
+    },
+    {
+      "id": "email-mint-desktop",
+      "png": "proofs/cookt-digital-email-mint-desktop-v001.png",
+      "webp": "web/cookt-digital-email-mint-desktop-v001.webp",
+      "pngSha256": "ddf34177a16ac6162693cc29bedefaa7515de0876c9c46c02bd07d77f58125a3",
+      "webpSha256": "0f24a5e0dd7c9049f317e889795629e1074bc1ee58abe9c69fae134f594e8c1a",
+      "width": 1800,
+      "height": 2572,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/presentation/mint-email-v003-desktop-full.png",
+      "originSha256": "ddf34177a16ac6162693cc29bedefaa7515de0876c9c46c02bd07d77f58125a3"
+    },
+    {
+      "id": "email-mint-mobile",
+      "png": "proofs/cookt-digital-email-mint-mobile-v001.png",
+      "webp": "web/cookt-digital-email-mint-mobile-v001.webp",
+      "pngSha256": "8edda4e5e451014f79dfe7a1638cee9bbb92af1ed749cba0a8ee7b395b44faca",
+      "webpSha256": "4700c6620e6cc44b80fe90419b33ae279b1ab116ac03b0bbe2608cc93880c794",
+      "width": 780,
+      "height": 2188,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/presentation/mint-email-v003-mobile-full.png",
+      "originSha256": "8edda4e5e451014f79dfe7a1638cee9bbb92af1ed749cba0a8ee7b395b44faca"
+    },
+    {
+      "id": "website-chili-desktop",
+      "png": "proofs/cookt-digital-website-chili-desktop-v001.png",
+      "webp": "web/cookt-digital-website-chili-desktop-v001.webp",
+      "pngSha256": "12f40e37370893b902bc80e2718e308acc0dff1d13659d8940b755da8892c0a9",
+      "webpSha256": "dda5ba7d7f0fd18d37e4de9149b6f4ac4933639dc1ffc01ccec4ae825beefeff",
+      "width": 1440,
+      "height": 1000,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Smoked-Chili-Update-v002/presentation/index-desktop-hero.png",
+      "originSha256": "12f40e37370893b902bc80e2718e308acc0dff1d13659d8940b755da8892c0a9"
+    },
+    {
+      "id": "website-chili-mobile",
+      "png": "proofs/cookt-digital-website-chili-mobile-v001.png",
+      "webp": "web/cookt-digital-website-chili-mobile-v001.webp",
+      "pngSha256": "54605a45b02505a658d1dd13045a093b30d911c21677486c1df387f70f815ed4",
+      "webpSha256": "60e8898ad8d9ae9b8b7c7a7e8c961c858d06855fa69f8ccb78d7a4cb96c86546",
+      "width": 390,
+      "height": 3896,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Smoked-Chili-Update-v002/presentation/index-mobile-full.png",
+      "originSha256": "54605a45b02505a658d1dd13045a093b30d911c21677486c1df387f70f815ed4"
+    },
+    {
+      "id": "website-chili-full",
+      "png": "proofs/cookt-digital-website-chili-full-v001.png",
+      "webp": "web/cookt-digital-website-chili-full-v001.webp",
+      "pngSha256": "12f40e37370893b902bc80e2718e308acc0dff1d13659d8940b755da8892c0a9",
+      "webpSha256": "dda5ba7d7f0fd18d37e4de9149b6f4ac4933639dc1ffc01ccec4ae825beefeff",
+      "width": 1440,
+      "height": 1000,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Smoked-Chili-Update-v002/presentation/index-desktop-full.png",
+      "originSha256": "12f40e37370893b902bc80e2718e308acc0dff1d13659d8940b755da8892c0a9"
+    },
+    {
+      "id": "email-chili-desktop",
+      "png": "proofs/cookt-digital-email-chili-desktop-v001.png",
+      "webp": "web/cookt-digital-email-chili-desktop-v001.webp",
+      "pngSha256": "3f2495d8ee432bf4dc995e6d75ec09511762873477415aa213fef68f19137832",
+      "webpSha256": "f45076fb99bc90b3da0c291e4297bcc40cdcd656101644391faf58e970319f44",
+      "width": 1440,
+      "height": 1279,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Smoked-Chili-Update-v002/presentation/email-desktop-full.png",
+      "originSha256": "3f2495d8ee432bf4dc995e6d75ec09511762873477415aa213fef68f19137832"
+    },
+    {
+      "id": "email-chili-mobile",
+      "png": "proofs/cookt-digital-email-chili-mobile-v001.png",
+      "webp": "web/cookt-digital-email-chili-mobile-v001.webp",
+      "pngSha256": "122bd05c8058002fa83136aec0711e9d917e353393d328ca38d6084a6f335287",
+      "webpSha256": "1e5f87ae61c8ff4992ef2a12a2aa3c4c57c5ffb71ccc852ff06dcdcf5b9bb52f",
+      "width": 390,
+      "height": 1141,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Smoked-Chili-Update-v002/presentation/email-mobile-full.png",
+      "originSha256": "122bd05c8058002fa83136aec0711e9d917e353393d328ca38d6084a6f335287"
+    },
+    {
+      "id": "website-masthead-desktop",
+      "png": "proofs/cookt-digital-website-masthead-desktop-v001.png",
+      "webp": "web/cookt-digital-website-masthead-desktop-v001.webp",
+      "pngSha256": "4408590b4571d29defb2c1b83fef0cefae1a4def09ff4ae797e8bdce7e155f8d",
+      "webpSha256": "892b9dbac355f107c1752d750a6280a9a91024afa62b44e6d73cc5855853b687",
+      "width": 2880,
+      "height": 2000,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Website-Proof-v004/presentation/masthead-home-v006-desktop.png",
+      "originSha256": "4408590b4571d29defb2c1b83fef0cefae1a4def09ff4ae797e8bdce7e155f8d"
+    },
+    {
+      "id": "website-masthead-mobile",
+      "png": "proofs/cookt-digital-website-masthead-mobile-v001.png",
+      "webp": "web/cookt-digital-website-masthead-mobile-v001.webp",
+      "pngSha256": "6553f763b50c1e414f396c47e1bbebde2a9477611b0ca3d39dcb102d94405e56",
+      "webpSha256": "edf55c9f7ba299df2b827b32075ec7d75098db8afdfedc45f9c64859a10c96d7",
+      "width": 780,
+      "height": 5634,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Website-Proof-v004/presentation/masthead-home-v006-mobile-full.png",
+      "originSha256": "6553f763b50c1e414f396c47e1bbebde2a9477611b0ca3d39dcb102d94405e56"
+    },
+    {
+      "id": "website-masthead-full",
+      "png": "proofs/cookt-digital-website-masthead-full-v001.png",
+      "webp": "web/cookt-digital-website-masthead-full-v001.webp",
+      "pngSha256": "708579dcaf27f71843348c0386b4d959b1035fdc21e096bd1c8192aa3c315cfb",
+      "webpSha256": "1bc0b54acc3b18e4545c3c3759bd465f3f1d4d9fc94118e2d609529c0f1ac365",
+      "width": 2880,
+      "height": 5852,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Website-Proof-v004/presentation/masthead-home-v006-desktop-full.png",
+      "originSha256": "708579dcaf27f71843348c0386b4d959b1035fdc21e096bd1c8192aa3c315cfb"
+    },
+    {
+      "id": "email-masthead-desktop",
+      "png": "proofs/cookt-digital-email-masthead-desktop-v001.png",
+      "webp": "web/cookt-digital-email-masthead-desktop-v001.webp",
+      "pngSha256": "7778b4cca668b054e31502f8c02c11f5ac114e269401d73eb3316507f255ec93",
+      "webpSha256": "e69227ba512f7d7a0be289745090ca8a687428e17df4cca0decb2a407cb51cb9",
+      "width": 1800,
+      "height": 2678,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Website-Proof-v004/presentation/masthead-email-v006-desktop-full.png",
+      "originSha256": "7778b4cca668b054e31502f8c02c11f5ac114e269401d73eb3316507f255ec93"
+    },
+    {
+      "id": "email-masthead-mobile",
+      "png": "proofs/cookt-digital-email-masthead-mobile-v001.png",
+      "webp": "web/cookt-digital-email-masthead-mobile-v001.webp",
+      "pngSha256": "54fb487cf7dd8aad7caf2f612f98fcb57859c5ad85193cca70cf6e747822ad4f",
+      "webpSha256": "baaa2898ec2265d3c0ca6da53886c44787fc9e2198ef93c707bb9837e296fbe8",
+      "width": 780,
+      "height": 2080,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Website-Proof-v004/presentation/masthead-email-v006-mobile-full.png",
+      "originSha256": "54fb487cf7dd8aad7caf2f612f98fcb57859c5ad85193cca70cf6e747822ad4f"
+    },
+    {
+      "id": "orzo-desktop",
+      "png": "proofs/cookt-digital-orzo-desktop-v001.png",
+      "webp": "web/cookt-digital-orzo-desktop-v001.webp",
+      "pngSha256": "2b1591ab9b757f56ac4c31262594980fe3f73e8c39f99f031dc4e648ffe8991c",
+      "webpSha256": "b02ac13628e2966ac1c43d00801cdcf417dcddfd37201a1e3d02e21179f767c0",
+      "width": 2880,
+      "height": 2918,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/presentation/mint-orzo-v003-desktop-full.png",
+      "originSha256": "2b1591ab9b757f56ac4c31262594980fe3f73e8c39f99f031dc4e648ffe8991c"
+    },
+    {
+      "id": "orzo-mobile",
+      "png": "proofs/cookt-digital-orzo-mobile-v001.png",
+      "webp": "web/cookt-digital-orzo-mobile-v001.webp",
+      "pngSha256": "f80966dc3eab71ddad29e0fa153910f2d666d8b72ec8e37b9fa921550a258f63",
+      "webpSha256": "167e1f6a3c8191e5d9e0258ae8d905331ca45f942b9640215b7ff010569cd9cf",
+      "width": 780,
+      "height": 3730,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/presentation/mint-orzo-v003-mobile-full.png",
+      "originSha256": "f80966dc3eab71ddad29e0fa153910f2d666d8b72ec8e37b9fa921550a258f63"
+    },
+    {
+      "id": "green-kitchen-desktop",
+      "png": "proofs/cookt-digital-green-kitchen-desktop-v001.png",
+      "webp": "web/cookt-digital-green-kitchen-desktop-v001.webp",
+      "pngSha256": "64a2824804f1031fc9b0804bb4306de6ce1379cef2aec2ee09addd1518ef4cb5",
+      "webpSha256": "0d1720231feb32f7969bf8cbe6e61de1246e542024aa22fc88cabf1742d77f50",
+      "width": 1440,
+      "height": 1000,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Lifestyle-Extension-v001/presentation/green-desktop.png",
+      "originSha256": "64a2824804f1031fc9b0804bb4306de6ce1379cef2aec2ee09addd1518ef4cb5"
+    },
+    {
+      "id": "green-kitchen-mobile",
+      "png": "proofs/cookt-digital-green-kitchen-mobile-v001.png",
+      "webp": "web/cookt-digital-green-kitchen-mobile-v001.webp",
+      "pngSha256": "bd0caa3d35f105496e9c0c616e1e19a72dca4bbcffc947541430b8a2dd32a6e3",
+      "webpSha256": "882f68f99e4df482333da171db3d58c4a2815ecbf3dacd2bf2d5d062d651bb25",
+      "width": 390,
+      "height": 844,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Lifestyle-Extension-v001/presentation/green-mobile.png",
+      "originSha256": "bd0caa3d35f105496e9c0c616e1e19a72dca4bbcffc947541430b8a2dd32a6e3"
+    },
+    {
+      "id": "tile-walnut-desktop",
+      "png": "proofs/cookt-digital-tile-walnut-desktop-v001.png",
+      "webp": "web/cookt-digital-tile-walnut-desktop-v001.webp",
+      "pngSha256": "f095d773c99f95f7b14021dd041307a301c9da3e0a2fd80ac8645733aeea52e2",
+      "webpSha256": "e9c7c431ac38fd0862391c1f7f431748cc552873f030af77d5d4181609cd02f9",
+      "width": 1440,
+      "height": 1000,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Lifestyle-Extension-v001/presentation/tile-desktop.png",
+      "originSha256": "f095d773c99f95f7b14021dd041307a301c9da3e0a2fd80ac8645733aeea52e2"
+    },
+    {
+      "id": "tile-walnut-mobile",
+      "png": "proofs/cookt-digital-tile-walnut-mobile-v001.png",
+      "webp": "web/cookt-digital-tile-walnut-mobile-v001.webp",
+      "pngSha256": "0ed3ba3bc0add0f2a8a8adfcdee5f65c06e020160be8cc6be28dc68611b66d09",
+      "webpSha256": "e21ada08a52ecec4ba09e027806ffec500bd119d4aa4bd39b5186ff0456e8545",
+      "width": 390,
+      "height": 844,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Lifestyle-Extension-v001/presentation/tile-mobile.png",
+      "originSha256": "0ed3ba3bc0add0f2a8a8adfcdee5f65c06e020160be8cc6be28dc68611b66d09"
+    },
+    {
+      "id": "tile-email-desktop",
+      "png": "proofs/cookt-digital-tile-email-desktop-v001.png",
+      "webp": "web/cookt-digital-tile-email-desktop-v001.webp",
+      "pngSha256": "c296ccd495d43f29752f86ff475af10f7568a83b573d61639584368e8c169258",
+      "webpSha256": "40d147b73ff1cf308ec7edbbaf79424482dc7eaece4156c2104ee59b2afd9352",
+      "width": 640,
+      "height": 1059,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Lifestyle-Extension-v001/presentation/email-desktop.png",
+      "originSha256": "c296ccd495d43f29752f86ff475af10f7568a83b573d61639584368e8c169258"
+    },
+    {
+      "id": "tile-email-mobile",
+      "png": "proofs/cookt-digital-tile-email-mobile-v001.png",
+      "webp": "web/cookt-digital-tile-email-mobile-v001.webp",
+      "pngSha256": "7337177c9a017bd95175b9cb78da2ac6e4c4d4b7869372d85575265e6e0aca01",
+      "webpSha256": "66f9f4dc52dc7990d363e66d9484c7db031b65698457c79df91542705ab5f318",
+      "width": 390,
+      "height": 1023,
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Lifestyle-Extension-v001/presentation/email-mobile.png",
+      "originSha256": "7337177c9a017bd95175b9cb78da2ac6e4c4d4b7869372d85575265e6e0aca01"
+    }
+  ],
+  "media": [
+    {
+      "path": "web/cookt-digital-chili-motion-v001.gif",
+      "sha256": "e97aa453dc64eb19a51c4a33d55fd02f5b2fe88b242fc105559a27c61ace9813",
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Presentation-v002/chili-hover-final.gif",
+      "originSha256": "e97aa453dc64eb19a51c4a33d55fd02f5b2fe88b242fc105559a27c61ace9813"
+    },
+    {
+      "path": "web/cookt-digital-mint-motion-v001.gif",
+      "sha256": "ed29db0da784557c3f7d71e6937ce0f152cf77dcf8b8712327f1199b463dc2e9",
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/presentation/mint-menu-v003.gif",
+      "originSha256": "ed29db0da784557c3f7d71e6937ce0f152cf77dcf8b8712327f1199b463dc2e9"
+    },
+    {
+      "path": "web/cookt-digital-masthead-motion-v001.gif",
+      "sha256": "d0213302252b59925b389f3cafe9868f4b28d4998e510cf561ed1527cebe90e0",
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Website-Proof-v004/presentation/masthead-selection-v006.gif",
+      "originSha256": "d0213302252b59925b389f3cafe9868f4b28d4998e510cf561ed1527cebe90e0"
+    },
+    {
+      "path": "web/cookt-digital-chili-scroll-v001.gif",
+      "sha256": "145c0836a5f89508135653415189d975d422402f58826fd1cffb16fffd7bab83",
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Presentation-v002/chili-scroll-final.gif",
+      "originSha256": "145c0836a5f89508135653415189d975d422402f58826fd1cffb16fffd7bab83"
+    }
+  ],
+  "sources": [
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/index-v003.html",
+      "source": "source/Mint-Orzo-Update-v001/index-v003.html",
+      "sha256": "1d948d74977ef1ca408f830a7e917a6dd725155e503884b2c9536b2b5dcc3f29"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/email-v003.html",
+      "source": "source/Mint-Orzo-Update-v001/email-v003.html",
+      "sha256": "9279528fa61f1173ae89c9925e5c736cd46d0021e980a5f8b11cefce46f6ccd6"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/orzo-v003.html",
+      "source": "source/Mint-Orzo-Update-v001/orzo-v003.html",
+      "sha256": "9e3d450bfdb81099ff047229ea9a6ac057e25b11330bc8486d14812be0208456"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Mint-Orzo-Update-v001/style.css",
+      "source": "source/Mint-Orzo-Update-v001/style.css",
+      "sha256": "86ccd594156d012c66d73bedbe1d9f7f94d8d64aa34678843f564371901d07cf"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Smoked-Chili-Update-v002/index.html",
+      "source": "source/Smoked-Chili-Update-v002/index.html",
+      "sha256": "78e76c5d5e9dd19001daaf2c4a881afc520181ce38fc017276f98ac043640c2f"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Smoked-Chili-Update-v002/email.html",
+      "source": "source/Smoked-Chili-Update-v002/email.html",
+      "sha256": "e360b499a1fd8355655db9786ebec81724551910e2801621eb1d9f063e321b14"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Website-Proof-v004/index-v006.html",
+      "source": "source/Website-Proof-v004/index-v006.html",
+      "sha256": "167e457118bc0ea00bf60a8b12cb542c1f5df8a8a812b463e1be47a5dc5fdb7d"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Website-Proof-v004/email-v006.html",
+      "source": "source/Website-Proof-v004/email-v006.html",
+      "sha256": "6b9a53e72d52b2dc89badc6704babef826dc7ce9ade044d70777247d0c3d3a93"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Website-Proof-v004/CURRENT-OUTPUTS-v006.md",
+      "source": "source/Website-Proof-v004/CURRENT-OUTPUTS-v006.md",
+      "sha256": "9d8ac08ba891e75bfd12d193bda600fe73e9e1a856d963338fd1ced442b70785"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Lifestyle-Extension-v001/green.html",
+      "source": "source/Lifestyle-Extension-v001/green.html",
+      "sha256": "4192a90c48c96c9d936d8f7d8b5523c60ea8c238c8c42f32a22444728bb8b308"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Lifestyle-Extension-v001/tile.html",
+      "source": "source/Lifestyle-Extension-v001/tile.html",
+      "sha256": "1f46153960d8318cbc4174c82e0c40838e4fea1d9e10af02f053077e8ef3f1e0"
+    },
+    {
+      "origin": "/Users/juliacompton/Documents/Codex/2026-10-02/task-2/Lifestyle-Extension-v001/email.html",
+      "source": "source/Lifestyle-Extension-v001/email.html",
+      "sha256": "2f01732dc5f38ecb754717748a5954fc3f3999c2d6b01788ced57dcabb0e7b03"
+    }
+  ],
+  "publicAllowlist": "Named flattened WebP previews, motion GIFs and rendered presentation boards only."
+}

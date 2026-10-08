@@ -1,0 +1,60 @@
+{
+  "version": "v014",
+  "status": "In review",
+  "date": "2026-10-01",
+  "basis": "Exact Claude corrected fronts derived from supplied Rafiz native artwork. No changes to layout, bowl placement, wordmark, heat scale or footer.",
+  "items": [
+    {
+      "id": "rasta",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-jamaican-rasta-chicken-pasta-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-jamaican-rasta-chicken-pasta-v014.pdf",
+      "source": "Branding/Documents/Sources/Fronts-and-Dielines-v001/vector/cookt-front-jamaican-rasta-chicken-pasta.pdf",
+      "dimensions": [
+        4200,
+        3000
+      ],
+      "sha256": "3537fc2a6086666c5daaf91ac677a87accd0b7023c2c670e258da653036e27f2",
+      "heatFilled": 3,
+      "heatSlots": 3
+    },
+    {
+      "id": "blackened",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-creamy-blackened-chicken-pasta-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-creamy-blackened-chicken-pasta-v014.pdf",
+      "source": "Branding/Documents/Sources/Fronts-and-Dielines-v001/vector/cookt-front-creamy-blackened-chicken-pasta.pdf",
+      "dimensions": [
+        4200,
+        3000
+      ],
+      "sha256": "40c684c4b975ffb9e0d00c1d848c8c653e43b3972be595a3e5219193d2a9794f",
+      "heatFilled": 2,
+      "heatSlots": 3
+    },
+    {
+      "id": "orzo",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-lemon-chicken-orzo-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-lemon-chicken-orzo-v014.pdf",
+      "source": "Branding/Documents/Sources/Fronts-and-Dielines-v001/vector/cookt-front-lemon-chicken-orzo.pdf",
+      "dimensions": [
+        4200,
+        3000
+      ],
+      "sha256": "477ebcfa4c085d10f317c18d20f93529ced72c35619d5cfb41d980c3dd093123",
+      "heatFilled": 0,
+      "heatSlots": 0
+    },
+    {
+      "id": "chipotle",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-chipotle-chicken-with-corn-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-chipotle-chicken-with-corn-v014.pdf",
+      "source": "Branding/Documents/Sources/Fronts-and-Dielines-v001/vector/cookt-front-chipotle-chicken-with-corn.pdf",
+      "dimensions": [
+        4200,
+        3000
+      ],
+      "sha256": "b75790d7ca7be0904fd8903ba27dedb74018b1920b81e3d2fe98aa4ce3faba1a",
+      "heatFilled": 1,
+      "heatSlots": 3
+    }
+  ]
+}

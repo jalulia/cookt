@@ -1,0 +1,403 @@
+{
+  "version": "v003",
+  "status": "In review",
+  "audience": "internal",
+  "mode": "built-in imagegen",
+  "items": [
+    {
+      "id": "apron-blank-v001",
+      "file": "gen/apron-blank-v001.png",
+      "sha256": "405e45e05c47fd3c40d65b070647fc8ece5cb7d8dee32d49f6988d783c9d4883",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "clear-the-table-v001",
+      "file": "gen/clear-the-table-v001.png",
+      "sha256": "da302576702f66e5cc28e7e5d375f77394bce02fd853426f1361df2e50ef91cc",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "clear-the-table-v002",
+      "file": "gen/clear-the-table-v002.png",
+      "sha256": "98feb024eee57cd035702f78e2641bceed287333d203fcd2284e0e21a64848bc",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "jerk-penne-macro-v001",
+      "file": "gen/jerk-penne-macro-v001.png",
+      "sha256": "f3348eb5a05acb2a46c2788a1aff1853aeab06740504f71b5d20ac1aa346114f",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "line-cook-day-off-v001",
+      "file": "gen/line-cook-day-off-v001.png",
+      "sha256": "52f2f0cb2e44fed63f6654198890244b947e47eb13ccc0c692cf10766103f489",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "many-hands-overhead-v001",
+      "file": "gen/many-hands-overhead-v001.png",
+      "sha256": "868ee5c5a30321d4f30b6ededfe02b3925360308a4eeee030ebd44029e3981af",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "night-shift-0300-v001",
+      "file": "gen/night-shift-0300-v001.png",
+      "sha256": "8e70a897d87bb7639f349b90b3f431965bc22962c3e5ec4682cec2df77c0e3f5",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "rooftop-long-table-v001",
+      "file": "gen/rooftop-long-table-v001.png",
+      "sha256": "7ba82c23d998e67149846ad0844b5639a765ed99c8149e01bdb80402d6e60d6b",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "suhoor-0440-v001",
+      "file": "gen/suhoor-0440-v001.png",
+      "sha256": "343b9437373f5433bf5c9887da92cf441c7f3ec869bd95840981ad1163c2edcd",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "wheatpaste-wall-blank-v001",
+      "file": "gen/wheatpaste-wall-blank-v001.png",
+      "sha256": "7cea646d7e91601a514ec92c80208848d520945456a4351275f9b53a04df43a6",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "blackened-parmesan-v001",
+      "file": "paint/blackened-parmesan-v001.png",
+      "sha256": "e741a905bf525b40973e355f3104352549a147e239deb4c53b0b6f6de8ec945e",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "blackened-spice-heap-v001",
+      "file": "paint/blackened-spice-heap-v001.png",
+      "sha256": "a190d4572aef21061f7fbe10e9ffb9febd14f34bc176b20f839aff9681f96473",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "chipotle-black-beans-v001",
+      "file": "paint/chipotle-black-beans-v001.png",
+      "sha256": "f05cd3dec1e3dd6a42701a36875052ce825e015e17453b41b8f0e9c90203cda2",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "chipotle-in-adobo-v001",
+      "file": "paint/chipotle-in-adobo-v001.png",
+      "sha256": "b0a13738c094cdf222a7b80c108bdca3b0ccb7903e160c70980f65af4197f788",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "kitchen-ladle-pour-v001",
+      "file": "paint/kitchen-ladle-pour-v001.png",
+      "sha256": "444297720071a35b85418497707400ab93ba8e498d41035b967f047d623cc2be",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "kitchen-stockpot-v001",
+      "file": "paint/kitchen-stockpot-v001.png",
+      "sha256": "006741df6001deb380ed2e0c67e480a33a7d708d6b21c9b351e6f4d971c0fc6b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "orzo-parsley-garlic-v001",
+      "file": "paint/orzo-parsley-garlic-v001.png",
+      "sha256": "1b3964cf92ce0e136da90ffd086f8aeb40439fb12f22ad055b60b6711091d3d8",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "orzo-sundried-tomato-v001",
+      "file": "paint/orzo-sundried-tomato-v001.png",
+      "sha256": "db9f639ea82d841f734c1a621953233cba2ef9e8baf28451e08d38564a0057f3",
+      "dimensions": [
+        1983,
+        793
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "rasta-scotch-bonnet-v001",
+      "file": "paint/rasta-scotch-bonnet-v001.png",
+      "sha256": "32c019e2c1b2b8488a2f0b7508212fa26d74e8bb201d1c578aededf267a845e9",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "rasta-scotch-bonnet-v002",
+      "file": "paint/rasta-scotch-bonnet-v002.png",
+      "sha256": "599d3b5d1868d2cc03aeb8f3649a03af5153f2061ffa2c0b9bfcd83de5bfa320",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "In review",
+      "audience": "internal"
+    },
+    {
+      "id": "rasta-sweet-peppers-v001",
+      "file": "paint/rasta-sweet-peppers-v001.png",
+      "sha256": "75c4f5b32b6efb2738f2884bcf4d2c9cf086da051a324482c2b428b275eddfa2",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "steam-and-sauce-gestures-v001",
+      "file": "paint/steam-and-sauce-gestures-v001.png",
+      "sha256": "8c43fd60c7feeca083560f94adfc210535d122be032464713b9094ab71e7b3bf",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "texture-swipes-smears-v001",
+      "file": "paint/texture-swipes-smears-v001.png",
+      "sha256": "d7dec43c4ec2b31a411d78cc21962214d730c085dcd8c2b16d167bc8b3a1fea1",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "transparent": true,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "vignette-clean-plate-v002",
+      "file": "paint/vignette-clean-plate-v002.png",
+      "sha256": "8e514e6fb46be24e5a36b0caad092171da487e12e47745d2632850812829452b",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "vignette-clean-plate-v003",
+      "file": "paint/vignette-clean-plate-v003.png",
+      "sha256": "94e806348d3fe096e22baa25f8e5670fbc346e9abc444af2355dc223ec5946dc",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "In review",
+      "audience": "internal"
+    },
+    {
+      "id": "vignette-crowded-table-v001",
+      "file": "paint/vignette-crowded-table-v001.png",
+      "sha256": "026c742b834b2c7c3a4fd0360631ce515e510898f3dbfd79d5c56c0816e618c1",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Superseded",
+      "audience": "internal"
+    },
+    {
+      "id": "four-cartons-green-set-blank-v001",
+      "file": "source/four-cartons-green-set-blank-v001.png",
+      "sha256": "58eeb722ffbabedb3c4bf69501243e7e2f34aa08402d4dd5f4635f515f47f821",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Draft",
+      "audience": "internal"
+    },
+    {
+      "id": "freezer-door-grab-blank-v001",
+      "file": "source/freezer-door-grab-blank-v001.png",
+      "sha256": "2bb898c55fdf548c3f7208a4f1d73275af0a19ea43986a8f463034087ea59c73",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Draft",
+      "audience": "internal"
+    },
+    {
+      "id": "stoop-carton-in-hand-blank-v001",
+      "file": "source/stoop-carton-in-hand-blank-v001.png",
+      "sha256": "c3243688e4f31883fbc8509dcd0d5a8add34077cc88330c9ce1769d32617617e",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "transparent": false,
+      "status": "Draft",
+      "audience": "internal"
+    }
+  ],
+  "sourceBriefs": [
+    "IMAGE-BRIEF-A.md",
+    "IMAGE-BRIEF-B.md"
+  ],
+  "sourceBoard": "https://www.pinterest.com/juliacompton/plates/",
+  "reviewNotes": [
+    "Initial batch interrupted by direct user critique: clutter, weak crops and photographic composition, childish illustration treatment.",
+    "Studied saved board and enlarged Heyday, Sobo, Ella Ginn, Asahi Nagata, tomato screenprint, and Lucia Calfapietra references; shopping recommendations excluded.",
+    "Test stronger edge crops, differentiated scale, fewer props, flat ink silhouettes and economical internal detail.",
+    "Direct follow-up rejects plate mess and blue fork against green. Clean-plate v003 removes all food residue and changes fork to paprika.",
+    "No direction or production approval inferred. Original fronts untouched."
+  ],
+  "openWork": [
+    "Original set remains incomplete: three carton artwork composites and stoop vignette; original clean-plate vignette replaced by revised study.",
+    "Carton scenes remain blank source plates pending answer to deterministic compositing question.",
+    "Reassess original batch against revised style before extending."
+  ],
+  "usedBy": []
+}

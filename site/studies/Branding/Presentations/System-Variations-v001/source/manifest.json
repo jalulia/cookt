@@ -1,0 +1,351 @@
+{
+  "version": "v002",
+  "date": "2026-10-01",
+  "purpose": "Typography and presentation layout proposals on exact supplied v014 geometry",
+  "canonVersion": "0.19.0",
+  "geometrySource": "Packaging/Artwork-v014/manifest.json",
+  "variantsSource": "Packaging/Front-Options-v001/integration-map.json",
+  "changes": [
+    "NB bold bases are exact v014 PDF/PNG references.",
+    "Lexend Bold titles use verified native PDF font substitutions preserving source size, origins, line breaks and kerning.",
+    "DTC no-bowl removes only the source food/shadow; other geometry remains unchanged.",
+    "Current heat: Rasta 3, Blackened 2, Chipotle 1, Orzo none.",
+    "Body type remains unresolved for options 1 and 3; NB Regular shown provisionally."
+  ],
+  "files": [
+    {
+      "file": "assets/logo.svg",
+      "source": "Presentations/Brand-System-Studio-v002/assets/logo.svg",
+      "sha256": "7577b4c05c8593d2ab3ffda1513e68c518f489f8c81ca015328a891ed21cf447",
+      "role": "Exact existing font, vector or photograph"
+    },
+    {
+      "file": "assets/logo-vertical.svg",
+      "source": "Presentations/Brand-System-Studio-v002/assets/logo-vertical.svg",
+      "sha256": "9b90818e9f1647182e9d5df428fbf6c50c894ef2ea5764be19a578a9a0980e46",
+      "role": "Exact existing font, vector or photograph"
+    },
+    {
+      "file": "assets/nb-regular.otf",
+      "source": "Presentations/Brand-System-Studio-v002/assets/nb-regular.otf",
+      "sha256": "d0a4a7e84d1b87c069ed6e5c6b456335938126d61e63244882fdd206e2acad7a",
+      "role": "Exact existing font, vector or photograph"
+    },
+    {
+      "file": "assets/nb-bold.otf",
+      "source": "Presentations/Brand-System-Studio-v002/assets/nb-bold.otf",
+      "sha256": "d85628d6fc91453e11cf7e0ce386bb723db0cdb4f8f1b490f6ff6bc0c14c7748",
+      "role": "Exact existing font, vector or photograph"
+    },
+    {
+      "file": "assets/Lexend-Bold.ttf",
+      "source": "Presentations/Brand-System-Studio-v002/assets/Lexend-Bold.ttf",
+      "sha256": "4509838acc21f2c066e9874c9c5eb52b9b8cdac1771a9c1fe9e7e2cda41ce082",
+      "role": "Exact existing font, vector or photograph"
+    },
+    {
+      "file": "assets/cookt-rasta-fork-v001.png",
+      "source": "Presentations/Brand-System-Studio-v002/assets/cookt-rasta-fork-v001.png",
+      "sha256": "5d06b69875557f0c601ee0d609a34778e04a9ec7e30fa9e51feec8885bdb962d",
+      "role": "Exact existing font, vector or photograph"
+    },
+    {
+      "file": "assets/cookt-blackened-metal-v001.png",
+      "source": "Presentations/Brand-System-Studio-v002/assets/cookt-blackened-metal-v001.png",
+      "sha256": "20899c04ee3e8cf72f86420eeb96516211df14ca2114785e69eb49f27b85c680",
+      "role": "Exact existing font, vector or photograph"
+    },
+    {
+      "file": "assets/cookt-orzo-spoon-v001.png",
+      "source": "Presentations/Brand-System-Studio-v002/assets/cookt-orzo-spoon-v001.png",
+      "sha256": "f933992c8493ea6990c55d7a6883d013e8f1db6c0baf46f2ba5647445fe1bd51",
+      "role": "Exact existing font, vector or photograph"
+    },
+    {
+      "file": "assets/rasta-food.png",
+      "source": "Presentations/Brand-System-Studio-v002/assets/rasta-food.png",
+      "sha256": "5b0d4783aa4832f056304ec39468b0f04ddc8eb90ca65007406efeb81174f1b9",
+      "role": "Exact supplied Rafiz baseline bowl; no retouch"
+    },
+    {
+      "file": "assets/blackened-food.png",
+      "source": "Presentations/Brand-System-Studio-v002/assets/blackened-food.png",
+      "sha256": "f485942c1770b96dc2c4d48b7497bf9ee360980832152fd97bed9989d89ee893",
+      "role": "Exact supplied Rafiz baseline bowl; no retouch"
+    },
+    {
+      "file": "assets/orzo-food.png",
+      "source": "Presentations/Brand-System-Studio-v002/assets/orzo-food.png",
+      "sha256": "01fb9fdaf3953836071ad3480304f2ad135e5170074954c94fd9037a4ac63c2b",
+      "role": "Exact supplied Rafiz baseline bowl; no retouch"
+    },
+    {
+      "file": "assets/chipotle-food.png",
+      "source": "Presentations/Brand-System-Studio-v002/assets/chipotle-food.png",
+      "sha256": "21d225b89910e3c7ff6f060992b9f1cca68dc225434a1c4f031a85356844b007",
+      "role": "Exact supplied Rafiz baseline bowl; no retouch"
+    }
+  ],
+  "artworkSources": [
+    {
+      "sku": "rasta",
+      "format": "retail",
+      "treatment": "photo",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-jamaican-rasta-chicken-pasta-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-jamaican-rasta-chicken-pasta-v014.pdf",
+      "sha256": "3537fc2a6086666c5daaf91ac677a87accd0b7023c2c670e258da653036e27f2",
+      "pdfSha256": "ad2e691e897bdb98289c1ada70a19fe972bfc37ac8c5b25344270b83d2901780"
+    },
+    {
+      "sku": "rasta",
+      "format": "retail",
+      "treatment": "photo",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/retail-rasta-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/retail-rasta-lexend-title-v001.pdf",
+      "sha256": "0fc3b9dc9f6fd342f76ba1fad6c7a3a205da81f229198b5ef98c36a23baded77",
+      "pdfSha256": "7134bc8c63719dc2f86b35152a9d8ac66617889be6c666b557404213842fb284"
+    },
+    {
+      "sku": "rasta",
+      "format": "dtc",
+      "treatment": "photo",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-jamaican-rasta-chicken-pasta-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-jamaican-rasta-chicken-pasta-v014.pdf",
+      "sha256": "3537fc2a6086666c5daaf91ac677a87accd0b7023c2c670e258da653036e27f2",
+      "pdfSha256": "ad2e691e897bdb98289c1ada70a19fe972bfc37ac8c5b25344270b83d2901780"
+    },
+    {
+      "sku": "rasta",
+      "format": "dtc",
+      "treatment": "photo",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/retail-rasta-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/retail-rasta-lexend-title-v001.pdf",
+      "sha256": "0fc3b9dc9f6fd342f76ba1fad6c7a3a205da81f229198b5ef98c36a23baded77",
+      "pdfSha256": "7134bc8c63719dc2f86b35152a9d8ac66617889be6c666b557404213842fb284"
+    },
+    {
+      "sku": "rasta",
+      "format": "dtc",
+      "treatment": "type",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/dtc-rasta-no-bowl-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/dtc-rasta-no-bowl-v001.pdf",
+      "sha256": "95aba97b323cba52ec9fdd57dac841bff8e4c0d8909bb7477cff0df60e954228",
+      "pdfSha256": "3c6edfb4bf966a3a7847fe9c56860c22504f043ee13938605a2687af70ab1fdc"
+    },
+    {
+      "sku": "rasta",
+      "format": "dtc",
+      "treatment": "type",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/dtc-rasta-type-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/dtc-rasta-type-lexend-title-v001.pdf",
+      "sha256": "0f81a473f02ec1ce7632bb82f855dec4af72230d99dce239e5b89331934867d4",
+      "pdfSha256": "75f6fc0708b93e10d16d91229308551cd2afd186d2a6c8c154ef805467eaf316"
+    },
+    {
+      "sku": "rasta",
+      "format": "retail",
+      "treatment": "photo",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/retail-rasta-cream-type-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/retail-rasta-cream-type-v001.pdf",
+      "sha256": "97acaa3edeb5c1b2de1a4933cfb95d2e49cb50e65547c0eeb8447243cf8df5f9",
+      "pdfSha256": "71f608d40d95fe5c5b861d704c605ea3b847bdf4d92843b564da1f35379b50c8"
+    },
+    {
+      "sku": "rasta",
+      "format": "retail",
+      "treatment": "photo",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/retail-rasta-light-green-type-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/retail-rasta-light-green-type-v001.pdf",
+      "sha256": "b779c0c00c98e836b52b419df74a23363b7406f1a4a9bb76d683f8b71b16187f",
+      "pdfSha256": "96f964a5dfbf17113a5b395adf901799ff37ff6beb52ab60b23cdf0fba770152"
+    },
+    {
+      "sku": "blackened",
+      "format": "retail",
+      "treatment": "photo",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-creamy-blackened-chicken-pasta-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-creamy-blackened-chicken-pasta-v014.pdf",
+      "sha256": "40c684c4b975ffb9e0d00c1d848c8c653e43b3972be595a3e5219193d2a9794f",
+      "pdfSha256": "70cfddce7534aba8b422cb19e3f7a8eab6deebc4710371f8d2324e82e4b7bee1"
+    },
+    {
+      "sku": "blackened",
+      "format": "retail",
+      "treatment": "photo",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/retail-blackened-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/retail-blackened-lexend-title-v001.pdf",
+      "sha256": "a2e0907ca818f22f9cfe1579946d1a44e4ff4b14269bcc629ee34806d3b6dc2c",
+      "pdfSha256": "e55dcfe0fe897ef94f87d88b44e93d8f306b779a1411a31eb73ee495989cc99f"
+    },
+    {
+      "sku": "blackened",
+      "format": "dtc",
+      "treatment": "photo",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-creamy-blackened-chicken-pasta-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-creamy-blackened-chicken-pasta-v014.pdf",
+      "sha256": "40c684c4b975ffb9e0d00c1d848c8c653e43b3972be595a3e5219193d2a9794f",
+      "pdfSha256": "70cfddce7534aba8b422cb19e3f7a8eab6deebc4710371f8d2324e82e4b7bee1"
+    },
+    {
+      "sku": "blackened",
+      "format": "dtc",
+      "treatment": "photo",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/retail-blackened-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/retail-blackened-lexend-title-v001.pdf",
+      "sha256": "a2e0907ca818f22f9cfe1579946d1a44e4ff4b14269bcc629ee34806d3b6dc2c",
+      "pdfSha256": "e55dcfe0fe897ef94f87d88b44e93d8f306b779a1411a31eb73ee495989cc99f"
+    },
+    {
+      "sku": "blackened",
+      "format": "dtc",
+      "treatment": "type",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/dtc-blackened-no-bowl-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/dtc-blackened-no-bowl-v001.pdf",
+      "sha256": "2b958810a43c5844f2f495cb3d4ec42860d5e0631d75e091d9654ac4cb0e9611",
+      "pdfSha256": "7aac53f5227e851561896b4d96bd0ce24954f5e42ac3b07973c3e8e0158da1fa"
+    },
+    {
+      "sku": "blackened",
+      "format": "dtc",
+      "treatment": "type",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/dtc-blackened-type-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/dtc-blackened-type-lexend-title-v001.pdf",
+      "sha256": "cf37d19c57043c41e85f4ac238cd4bccec43bd500cc7e6d6d6e497867e653cb6",
+      "pdfSha256": "8375d5b309fb75fd84efd9fa0320319531df34753a4ff857d54eece77e7b3c28"
+    },
+    {
+      "sku": "orzo",
+      "format": "retail",
+      "treatment": "photo",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-lemon-chicken-orzo-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-lemon-chicken-orzo-v014.pdf",
+      "sha256": "477ebcfa4c085d10f317c18d20f93529ced72c35619d5cfb41d980c3dd093123",
+      "pdfSha256": "1ff6f940519663d5b30a5f75e27af7525c1690d66b6641acd9332bc858fd0c76"
+    },
+    {
+      "sku": "orzo",
+      "format": "retail",
+      "treatment": "photo",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/retail-orzo-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/retail-orzo-lexend-title-v001.pdf",
+      "sha256": "0ca2b955e0ceb2226b104d93725ed5351c27e8f0c95b40b0cd980eb7ea814fbb",
+      "pdfSha256": "7d8ebf3c3105ee3cb3964a3a8328bc2215f3a111b1b0ffa539ef3c1632553bb0"
+    },
+    {
+      "sku": "orzo",
+      "format": "dtc",
+      "treatment": "photo",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-lemon-chicken-orzo-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-lemon-chicken-orzo-v014.pdf",
+      "sha256": "477ebcfa4c085d10f317c18d20f93529ced72c35619d5cfb41d980c3dd093123",
+      "pdfSha256": "1ff6f940519663d5b30a5f75e27af7525c1690d66b6641acd9332bc858fd0c76"
+    },
+    {
+      "sku": "orzo",
+      "format": "dtc",
+      "treatment": "photo",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/retail-orzo-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/retail-orzo-lexend-title-v001.pdf",
+      "sha256": "0ca2b955e0ceb2226b104d93725ed5351c27e8f0c95b40b0cd980eb7ea814fbb",
+      "pdfSha256": "7d8ebf3c3105ee3cb3964a3a8328bc2215f3a111b1b0ffa539ef3c1632553bb0"
+    },
+    {
+      "sku": "orzo",
+      "format": "dtc",
+      "treatment": "type",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/dtc-orzo-no-bowl-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/dtc-orzo-no-bowl-v001.pdf",
+      "sha256": "bad58f5eed247c59e1548a316bcbf377f796e091e2c818f3224e703c282962fc",
+      "pdfSha256": "90e503d2a4dadea9f2151a555d8009e61f704fddba9f292e92e2a8d86592b449"
+    },
+    {
+      "sku": "orzo",
+      "format": "dtc",
+      "treatment": "type",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/dtc-orzo-type-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/dtc-orzo-type-lexend-title-v001.pdf",
+      "sha256": "4362b76741aa3b6b0752b9c7ac627f4116b413dd33d5ce933ce1965c3b8d97ac",
+      "pdfSha256": "bd88a9aa2424d4b49da0d7c2fb8ae47206cfd9804cbaa4e139e9dcce6d7bbba4"
+    },
+    {
+      "sku": "chipotle",
+      "format": "retail",
+      "treatment": "photo",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-chipotle-chicken-with-corn-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-chipotle-chicken-with-corn-v014.pdf",
+      "sha256": "b75790d7ca7be0904fd8903ba27dedb74018b1920b81e3d2fe98aa4ce3faba1a",
+      "pdfSha256": "b2d473cc49c99843587ee7c43364630eb8aa83855c7b9c82eb87880773dab2d1"
+    },
+    {
+      "sku": "chipotle",
+      "format": "retail",
+      "treatment": "photo",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/retail-chipotle-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/retail-chipotle-lexend-title-v001.pdf",
+      "sha256": "5cb7abb0a9f4eaf596b49c9eb3eb277eb8ba7642d2cba18accf7e205b3a0c6a2",
+      "pdfSha256": "5252c25df833ba282ac3fb150b626f856cfdd1d7967b959aebe255fc9ba455b9"
+    },
+    {
+      "sku": "chipotle",
+      "format": "dtc",
+      "treatment": "photo",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Artwork-v014/png/cookt-front-chipotle-chicken-with-corn-v014.png",
+      "pdf": "Branding/Packaging/Artwork-v014/vector/cookt-front-chipotle-chicken-with-corn-v014.pdf",
+      "sha256": "b75790d7ca7be0904fd8903ba27dedb74018b1920b81e3d2fe98aa4ce3faba1a",
+      "pdfSha256": "b2d473cc49c99843587ee7c43364630eb8aa83855c7b9c82eb87880773dab2d1"
+    },
+    {
+      "sku": "chipotle",
+      "format": "dtc",
+      "treatment": "photo",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/retail-chipotle-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/retail-chipotle-lexend-title-v001.pdf",
+      "sha256": "5cb7abb0a9f4eaf596b49c9eb3eb277eb8ba7642d2cba18accf7e205b3a0c6a2",
+      "pdfSha256": "5252c25df833ba282ac3fb150b626f856cfdd1d7967b959aebe255fc9ba455b9"
+    },
+    {
+      "sku": "chipotle",
+      "format": "dtc",
+      "treatment": "type",
+      "font": "NB International Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/dtc-chipotle-no-bowl-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/dtc-chipotle-no-bowl-v001.pdf",
+      "sha256": "a0dc53a860b163a1d3f22ad060c7920a1f8f99bf1520218493a158c89125e5d1",
+      "pdfSha256": "b17ed6cad47e44dfd6d62823e8c45d9decdc48fc06a1f6e845daac0b14353064"
+    },
+    {
+      "sku": "chipotle",
+      "format": "dtc",
+      "treatment": "type",
+      "font": "Lexend Bold",
+      "png": "Branding/Packaging/Front-Options-v001/png/dtc-chipotle-type-lexend-title-v001.png",
+      "pdf": "Branding/Packaging/Front-Options-v001/output/pdf/dtc-chipotle-type-lexend-title-v001.pdf",
+      "sha256": "678b76901dc8b17512339a398a9ddd427deead8601851374e3f68c93ad68c174",
+      "pdfSha256": "41bf3ab4a8b5ec3700eb3df19372fb2c0a996de2e65f1b20ae35675270dea9f9"
+    }
+  ]
+}

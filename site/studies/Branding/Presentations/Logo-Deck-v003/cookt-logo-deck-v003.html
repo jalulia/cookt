@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>COOKT — Logo · Round 04</title>
+<style>
+@font-face{font-family:International;src:url('assets/international.otf') format('opentype');font-weight:100 900;font-display:block}
+:root{--green:#103e2c;--cream:#f5edd9;--rasta:#112113;--orzo:#ffeca4;--chipotle:#351114;--blackened:#c93d27;--scale:1}
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:var(--green);font-family:International,Arial,sans-serif;color:var(--green)}
+body{display:flex;align-items:center;justify-content:center}
+#deck{position:relative;flex:none;width:1920px;height:1080px;transform:scale(var(--scale));transform-origin:center}
+.slide{position:absolute;inset:0;width:1920px;height:1080px;background:var(--green);color:var(--cream);overflow:hidden;display:none}
+.slide.active{display:block}.green{background:var(--green);color:var(--cream)}
+.rasta{background:var(--rasta)}.orzo{background:var(--orzo);color:var(--green)}.chipotle{background:var(--chipotle)}.blackened{background:var(--blackened)}
+h1,h2,p{margin:0;font-weight:400}h2{font-size:64px;line-height:1.08;letter-spacing:-1.9px}
+.title{position:absolute;left:120px;top:116px;z-index:2}.caption{font-size:24px;line-height:1.35;letter-spacing:0}
+.label{position:absolute;left:120px;bottom:120px;font-size:24px;line-height:1.35}
+img{display:block;max-width:none}.mark{position:absolute;height:auto}.hero-mark{left:70px;top:300px;width:1780px}
+.footer-caption{position:absolute;left:120px;bottom:120px;max-width:1200px}
+.range{position:absolute;left:0;bottom:0;width:1920px;display:flex;align-items:center;gap:0}
+.range img{width:480px;height:auto;flex:none}
+.range-slide .title{max-width:1650px}
+.range-slide .range{top:auto;bottom:0}
+.crop{position:absolute;overflow:hidden}.crop img{position:absolute;max-width:none}
+.comparison-label{position:absolute;font-size:24px;line-height:1.35}
+#s04 .title{top:290px;width:780px}#s04 .stack{position:absolute;left:1200px;top:-1250.932px;width:555px;height:auto}
+#s05::before{content:"";position:absolute;inset:0 0 0 960px;background:var(--blackened)}
+#s05 h2{position:absolute;top:116px;left:120px}
+#s05 .oo{left:120px;top:360px;width:733.955px;height:360px}#s05 .oo img{width:1597.149px;left:-297.340px;top:0}
+#s05 .plate-one,#s05 .plate-two{position:absolute;top:540px;width:360px;transform:translateY(-44%)}
+#s05 .plate-one{left:1070px}#s05 .plate-two{left:1450px}
+#s06 .kt{left:745px;top:210px;width:1175px;height:870px}#s06 .kt img{width:3490px;left:-2308.8px;top:0}
+#s06 .caption{position:absolute;left:120px;bottom:120px;width:600px}
+#s07 .title{top:250px;width:690px}#s07 .caption{position:absolute;left:120px;bottom:120px;width:590px}
+#s07 .construction{position:absolute;left:800px;top:9.611px;width:1060.778px}
+#s08 .hero-mark,#s09 .hero-mark{width:1680px;left:120px;top:350px}
+#s10 .left-field{position:absolute;inset:0 960px 0 0;background:var(--green)}
+#s10 .title{color:var(--cream)}#s10 .title span{position:absolute;left:960px;white-space:nowrap;color:var(--cream)}
+#s10 .co-a{position:absolute;left:120px;top:364px;width:700px}
+#s10 .co-b{position:absolute;left:1080px;top:364px;width:707.161px}
+#s10 .comparison-label{bottom:120px}#s10 .a-label{left:120px;color:var(--cream)}#s10 .b-label{left:1080px}
+#s11 .stacks{position:absolute;left:270px;top:310px;width:1380px;display:flex;justify-content:space-between;align-items:flex-end}
+#s11 .stack-slot{position:relative;width:294px;height:555px}
+#s11 .stack-slot img{width:294px;height:auto;position:absolute;bottom:0}
+#s11 .stack-slot:first-child img{opacity:.35}
+#s11 .stack-slot:first-child{overflow:hidden;clip-path:inset(22px 0 0 0)}
+#s11 .stack-slot:first-child img{width:294px;bottom:0}
+#s11 .comparison-label{bottom:120px}
+#s14 .scene{position:absolute;inset:0;width:1920px;height:1080px;object-fit:cover}
+#s14 .title{color:var(--cream);left:240px;top:116px}
+#s15 .phone-viewport{position:absolute;left:120px;top:240px;width:480px;height:620px;overflow:hidden}
+#s15 .phone{color:var(--green);position:absolute;left:0;top:0;transform:scale(1.6);transform-origin:top left;width:300px;height:590px;border:5px solid var(--cream);border-radius:46px;background:var(--orzo);overflow:hidden}
+#s15 .phone .status{position:absolute;top:20px;left:26px;font:13px Arial,sans-serif}
+#s15 .phone .island{position:absolute;width:90px;height:23px;background:var(--green);border-radius:20px;left:100px;top:14px}
+#s15 .phone .clock{position:absolute;left:0;top:100px;width:100%;text-align:center;font-size:52px}
+#s15 .phone .date{position:absolute;top:166px;width:100%;text-align:center;font-size:14px}
+#s15 .phone .home-app{position:absolute;left:31px;top:295px;width:60px;height:60px;border-radius:14px;background:var(--green);display:flex;align-items:center;justify-content:center}
+#s15 .home-app img{width:43px;height:auto}#s15 .app-name{position:absolute;left:31px;top:365px;width:60px;text-align:center;font:12px Arial,sans-serif}
+#s15 .phone .homebar{position:absolute;bottom:12px;left:96px;width:100px;height:4px;border-radius:4px;background:var(--green)}
+#s15 .browser{color:var(--green);position:absolute;left:650px;bottom:220px;width:387.5px;height:290px;transform:scale(1.6);transform-origin:bottom left;border:1px solid var(--cream);background:var(--orzo);overflow:hidden}
+#s15 .tabs{height:40px;border-bottom:1px solid #103e2c55;display:flex;align-items:center;font:13px Arial,sans-serif}
+#s15 .tab{height:40px;width:218px;display:flex;align-items:center;gap:10px;padding-left:18px;border-right:1px solid #103e2c55}
+#s15 .favicon{width:16px;height:16px;display:block}
+#s15 .address{padding:10px 18px;font:12px Arial,sans-serif;border-bottom:1px solid #103e2c33}
+#s15 .site-header{padding:25px 22px;display:flex;align-items:center;justify-content:space-between;font-size:12px}
+#s15 .site-header img{width:80px}
+#s15 .site-content{position:relative;height:160px;background:var(--green);overflow:hidden;color:var(--cream);padding:24px 22px}
+#s15 .site-content p{font-size:20px;width:180px;line-height:1.1}
+#s15 .site-food{position:absolute;width:250px;right:-22px;top:28px}
+#s15 .favicon-inset{position:absolute;left:840px;top:205px;width:179.2px;height:179.2px;border:1px solid var(--cream);display:flex;align-items:center;justify-content:center}
+#s15 .favicon-inset img{width:102.4px;height:102.4px;image-rendering:pixelated}
+#s15 .inset-label{position:absolute;left:1038px;top:280px;font-size:24px}
+#s15 .inset-leader{position:absolute;left:691px;top:384.2px;width:238.6px;height:38px;border-top:1px solid var(--cream);border-left:1px solid var(--cream)}
+#s15 .social{position:absolute;left:1320px;bottom:220px;width:300px;height:240px;transform:scale(1.6);transform-origin:bottom left;overflow:hidden}
+#s15 .social-header{background:var(--rasta);display:flex;height:74px;align-items:center;gap:15px;border-bottom:1px solid #103e2c55}
+#s15 .avatar{width:48px;height:48px;border-radius:50%;background:var(--green);display:flex;align-items:center;justify-content:center;flex:none}
+#s15 .avatar img{width:36px}#s15 .profile-name{width:90px;margin-bottom:7px}#s15 .profile-handle{font:12px Arial,sans-serif}
+#s15 .social-post{height:166px;background:var(--blackened);position:relative;overflow:hidden}#s15 .social-post img{width:280px;position:absolute;left:10px;top:8px}
+#s15 .context-label{position:absolute;bottom:120px;font-size:24px;line-height:1.35}
+#s16 .hero-mark{top:292px;width:1680px;left:120px}
+#s16 .reasons{position:absolute;left:120px;bottom:120px;font-size:28px;line-height:1.35}
+#s17 .title{top:116px}#s17 .next-copy{position:absolute;left:120px;top:410px;font-size:64px;line-height:1.15;letter-spacing:-1.9px}
+nav{position:fixed;bottom:16px;right:22px;display:flex;align-items:center;gap:6px;color:#fff;opacity:0;transition:opacity .2s;z-index:20;background:#103e2c;padding:6px;border:1px solid #f5edd955}
+nav:hover,nav:focus-within,body.controls nav{opacity:1}nav button,nav a{font:14px International,Arial,sans-serif;border:0;background:none;color:var(--cream);padding:8px 11px;cursor:pointer;text-decoration:none}nav button:focus-visible,nav a:focus-visible{outline:2px solid var(--cream)}nav output{font-size:14px;min-width:53px;text-align:center}
+@media(prefers-reduced-motion:reduce){nav{transition:none}}
+@media print{
+ @page{size:20in 11.25in;margin:0}html,body{display:block;height:auto;overflow:visible;background:none}#deck{width:1920px;height:auto;transform:none!important}
+ .slide,.slide.active{display:block!important;position:relative;inset:auto;width:1920px;height:1080px;break-after:page;page-break-after:always;print-color-adjust:exact;-webkit-print-color-adjust:exact}
+ .slide:last-child{break-after:auto;page-break-after:auto}nav{display:none!important}
+}
+</style>
+</head>
+<body>
+<main id="deck" aria-label="Cookt logo presentation">
+<section id="s01" class="slide green active" aria-label="1. COOKT">
+ <h1><img class="mark hero-mark" src="assets/cookt-served-k-horizontal-cream.svg" alt="COOKT"></h1>
+ <p class="label">Logo · Round 04 · October 2026</p>
+</section>
+<section id="s02" class="slide range-slide rasta" aria-label="2. The pack system is in place. The mark is the last open piece.">
+ <h2 class="title">The pack system is in place.<br>The mark is the last open piece.</h2>
+ <div class="range"><img src="assets/current-rasta.png" alt="Current Jamaican Rasta Chicken Pasta front"><img src="assets/current-blackened.png" alt="Current Creamy Blackened Chicken Pasta front"><img src="assets/current-orzo.png" alt="Current Lemon Chicken Orzo front"><img src="assets/current-chipotle.png" alt="Current Chipotle Chicken with Corn front"></div>
+</section>
+<section id="s03" class="slide orzo" aria-label="3. It reads like mineral water.">
+ <h2 class="title">“It reads like mineral water.”</h2>
+ <img class="mark" style="left:120px;top:360px;width:1680px" src="assets/cookt-v3-current-horizontal-green.svg" alt="Current V3 wordmark">
+ <p class="label">Round 03 feedback</p>
+</section>
+<section id="s04" class="slide chipotle" aria-label="4. Stacked, C·O·O can read as an 8.">
+ <h2 class="title">Stacked, C·O·O<br>can read as an 8.</h2>
+ <img class="stack" src="assets/cookt-v3-current-vertical-cream-v002.svg" alt="Close crop of the current V3 C and O forms in the vertical signature">
+</section>
+<section id="s05" class="slide green" aria-label="5. Two O's. Two plates.">
+ <h2>Two O's. Two plates.</h2>
+ <div class="crop oo"><img src="assets/cookt-served-k-horizontal-cream.svg" alt="The two O forms, cropped from the exact supplied Option A mark"></div>
+ <img class="plate-one" src="assets/plate-rasta.png" alt="Supplied Rasta bowl photograph"><img class="plate-two" src="assets/plate-orzo.png" alt="Supplied Orzo bowl photograph">
+</section>
+<section id="s06" class="slide rasta" aria-label="6. Carved, not drawn.">
+ <h2 class="title">Carved, not drawn.</h2>
+ <div class="crop kt"><img src="assets/cookt-served-k-horizontal-gold-v003.svg" alt="K and T detail, cropped from the exact supplied Option A mark"></div>
+ <p class="caption">Every stem widens toward its ends,<br>the way chisel-cut letters do.</p>
+</section>
+<section id="s07" class="slide rasta" aria-label="7. The C is cut from the same plate.">
+ <h2 class="title">The C is cut<br>from the same plate.</h2>
+ <p class="caption">Same circle, same counter.<br>Only the cut changes.</p>
+ <img class="construction" src="assets/cookt-construction-served-k-cream-v002.svg" alt="Supplied Option A construction: dashed O, solid C, and two cut lines">
+</section>
+<section id="s08" class="slide green" aria-label="8. Option A · Served">
+ <h2 class="title">Option A · Served</h2><img class="mark hero-mark" src="assets/cookt-served-k-horizontal-cream.svg" alt="Option A Served">
+ <p class="caption footer-caption">Both cuts follow the slope of the K’s arm.<br>Symmetric, like the plate.</p>
+</section>
+<section id="s09" class="slide blackened" aria-label="9. Option B · Echo">
+ <h2 class="title">Option B · Echo</h2><img class="mark hero-mark" src="assets/cookt-echo-flared-horizontal-cream.svg" alt="Option B Echo">
+ <p class="caption footer-caption">The top cut follows the K’s arm,<br>the bottom its leg.</p>
+</section>
+<section id="s10" class="slide blackened" aria-label="10. A and B, side by side.">
+ <div class="left-field"></div><h2 class="title">A and B, <span>side by side.</span></h2><img class="co-a" src="assets/co-pair-served-k-cream.svg" alt="Option A C and O pair"><img class="co-b" src="assets/co-pair-echo-flared-cream.svg" alt="Option B C and O pair">
+ <p class="comparison-label a-label">A · Served</p><p class="comparison-label b-label">B · Echo</p>
+</section>
+<section id="s11" class="slide orzo" aria-label="11. Stacked, the C stays a C.">
+ <h2 class="title">Stacked, the C stays a C.</h2>
+ <div class="stacks"><div class="stack-slot"><img src="assets/cookt-v3-current-vertical-green.svg" alt="Current V3, faded for comparison"></div><div class="stack-slot"><img src="assets/co-stack-served-k-green.svg" alt="Option A stack"></div><div class="stack-slot"><img src="assets/co-stack-echo-flared-green.svg" alt="Option B stack"></div></div>
+ <p class="comparison-label" style="left:270px">Current V3</p><p class="comparison-label" style="left:813px">A · Served</p><p class="comparison-label" style="left:1356px">B · Echo</p>
+</section>
+<section id="s12" class="slide range-slide green" aria-label="12. Option A on the range.">
+ <h2 class="title">Option A on the range.</h2><div class="range"><img src="assets/a-rasta.jpg" alt="Option A Rasta front"><img src="assets/a-blackened.jpg" alt="Option A Blackened front"><img src="assets/a-orzo.jpg" alt="Option A Orzo front"><img src="assets/a-chipotle.jpg" alt="Option A Chipotle front"></div>
+</section>
+<section id="s13" class="slide range-slide chipotle" aria-label="13. Option B on the range.">
+ <h2 class="title">Option B on the range.</h2><div class="range"><img src="assets/b-rasta.jpg" alt="Option B Rasta front"><img src="assets/b-blackened.jpg" alt="Option B Blackened front"><img src="assets/b-orzo.jpg" alt="Option B Orzo front"><img src="assets/b-chipotle.jpg" alt="Option B Chipotle front"></div>
+</section>
+<section id="s14" class="slide green" aria-label="14. In the freezer.">
+ <img class="scene" src="assets/cookt-freezer-v002.png" alt="Physical freezer study with all four exact Option A pack fronts"><h2 class="title">In the freezer.</h2>
+</section>
+<section id="s15" class="slide green" aria-label="15. Small and everywhere.">
+ <h2 class="title">Small and everywhere.</h2>
+ <div class="phone-viewport"><div class="phone" aria-label="Enlarged phone home screen with the CO app icon">
+  <span class="status">9:41</span><div class="island"></div><p class="clock">9:41</p><p class="date">Tuesday, October 6</p>
+  <div class="home-app"><img src="assets/co-pair-served-k-cream.svg" alt="CO app icon"></div><p class="app-name">Cookt</p><div class="homebar"></div>
+ </div></div>
+ <div class="favicon-inset"><img src="assets/cookt-favicon-16-v002.png" alt="Four times enlargement of the actual 16 pixel favicon"></div><span class="inset-label">4×</span><div class="inset-leader"></div>
+ <div class="browser" aria-label="Enlarged browser tab with the 16 pixel source CO favicon">
+  <div class="tabs"><div class="tab"><img class="favicon" src="assets/cookt-favicon-16-v002.png" alt="16 pixel favicon">getcookt.com</div></div><div class="address">getcookt.com</div>
+  <div class="site-header"><img src="assets/cookt-served-k-horizontal-green.svg" alt="COOKT"><span>Build your box</span></div>
+  <div class="site-content"><p>Lemon<br>Chicken Orzo</p><img class="site-food" src="assets/plate-orzo.png" alt="Lemon Chicken Orzo"></div>
+ </div>
+ <div class="social" aria-label="Enlarged social post with CO avatar"><div class="social-header"><div class="avatar"><img src="assets/co-pair-served-k-cream.svg" alt="CO social avatar"></div><div><img class="profile-name" src="assets/cookt-served-k-horizontal-cream.svg" alt="COOKT"><p class="profile-handle">@getcookt</p></div></div><div class="social-post"><img src="assets/plate-rasta.png" alt="Rasta bowl in a social post"></div></div>
+ <p class="context-label" style="left:120px">App</p><p class="context-label" style="left:650px">Browser</p><p class="context-label" style="left:1320px">Social</p>
+ </section>
+<section id="s16" class="slide green" aria-label="16. Moving forward with B.">
+ <h2 class="title">Moving forward with B.</h2><img class="mark hero-mark" src="assets/cookt-echo-flared-horizontal-cream.svg" alt="Option B Echo">
+ <div class="reasons"><p>The top cut follows the K’s arm,</p><p>the bottom its leg.</p></div>
+</section>
+<section id="s17" class="slide green" aria-label="17. Next">
+ <h2 class="title">Next</h2><p class="next-copy">Lock the C.<br>Final spacing.<br>Master artwork for print.</p>
+</section>
+</main>
+<nav aria-label="Presentation controls"><button id="prev" aria-label="Previous slide">Previous</button><output id="counter" aria-live="polite">01 / 17</output><button id="next" aria-label="Next slide">Next</button><button id="print">Print / PDF</button><a href="output/cookt-logo-deck-v003.pdf" download>Download PDF</a></nav>
+<script>
+const slides=[...document.querySelectorAll('.slide')];let index=0;
+function show(n){index=Math.max(0,Math.min(slides.length-1,n));slides.forEach((s,i)=>{s.classList.toggle('active',i===index);s.setAttribute('aria-hidden',i===index?'false':'true')});document.querySelector('#counter').textContent=String(index+1).padStart(2,'0')+' / 17';history.replaceState(null,'','#'+(index+1));window.slideIndex=index;}
+function scale(){document.documentElement.style.setProperty('--scale',Math.min(innerWidth/1920,innerHeight/1080));}
+window.goToSlide=n=>show(n-1);addEventListener('resize',scale);scale();show((parseInt(location.hash.slice(1))||1)-1);
+document.querySelector('#prev').onclick=()=>show(index-1);document.querySelector('#next').onclick=()=>show(index+1);document.querySelector('#print').onclick=()=>print();
+addEventListener('keydown',e=>{if(e.altKey||e.ctrlKey||e.metaKey)return;if(['ArrowRight','ArrowDown','PageDown',' '].includes(e.key)){e.preventDefault();show(index+1)}if(['ArrowLeft','ArrowUp','PageUp'].includes(e.key)){e.preventDefault();show(index-1)}if(e.key==='Home'){e.preventDefault();show(0)}if(e.key==='End'){e.preventDefault();show(16)}if(e.key.toLowerCase()==='p')print();});
+let startX=0;addEventListener('touchstart',e=>startX=e.changedTouches[0].clientX,{passive:true});addEventListener('touchend',e=>{let dx=e.changedTouches[0].clientX-startX;if(Math.abs(dx)>50)show(index+(dx<0?1:-1))},{passive:true});
+let timer;addEventListener('pointermove',()=>{document.body.classList.add('controls');clearTimeout(timer);timer=setTimeout(()=>document.body.classList.remove('controls'),1300)});
+window.deckReady=Promise.all([document.fonts.ready,...[...document.images].map(i=>i.decode().catch(()=>{}))]);
+</script>
+</body></html>
