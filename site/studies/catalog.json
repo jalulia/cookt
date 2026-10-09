@@ -77,40 +77,6 @@
           ],
           "items": [
             {
-              "title": "Deep green",
-              "status": "proposed",
-              "shape": "strip",
-              "src": "assets/views/49bf8afdb56696d8.webp",
-              "view": "assets/views/49bf8afdb56696d8.webp",
-              "thumb": "assets/previews/49bf8afdb56696d8.webp",
-              "sha256": "83a78a54607257c9341466fba380fa5244a45f72ab287c1495784f57de096e48",
-              "w": 2400,
-              "h": 476
-            },
-            {
-              "title": "Mint",
-              "status": "proposed",
-              "shape": "strip",
-              "bg": "dark",
-              "src": "assets/views/07121e0a014ce68a.webp",
-              "view": "assets/views/07121e0a014ce68a.webp",
-              "thumb": "assets/previews/07121e0a014ce68a.webp",
-              "sha256": "d4a877fe52bcacd0cfa921b5709b894369e348ce9f2e8a77cacfd2534f6175ed",
-              "w": 2400,
-              "h": 476
-            },
-            {
-              "title": "Paprika",
-              "status": "proposed",
-              "shape": "strip",
-              "src": "assets/views/615e463817441407.webp",
-              "view": "assets/views/615e463817441407.webp",
-              "thumb": "assets/previews/615e463817441407.webp",
-              "sha256": "dee416c0f1da54655b70f7aa2c0a971b3d2886eb6ae76b44d9df1f8f58a825c0",
-              "w": 2400,
-              "h": 476
-            },
-            {
               "title": "Cream",
               "status": "proposed",
               "shape": "strip",
@@ -132,17 +98,6 @@
               "sha256": "404f3876f37867fb138b1b7fa26d82822e6e90737a0af60d2217cfde94ec3f1f",
               "w": 2400,
               "h": 457
-            },
-            {
-              "title": "kT short form",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/c0423f61de7599e5.webp",
-              "view": "assets/views/c0423f61de7599e5.webp",
-              "thumb": "assets/previews/c0423f61de7599e5.webp",
-              "sha256": "6d51a369d6574d2a1139148fbefea771afd097e7509045fbca3319118fa9a9c1",
-              "w": 2400,
-              "h": 1511
             }
           ]
         },
@@ -166,162 +121,6 @@
               "sha256": "2b73737a5f14a68df53661bd4c142fdd5786bea5e74abd370dd29920732f0874",
               "w": 2400,
               "h": 1714
-            },
-            {
-              "title": "Blackened",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/93f828f04ab487cc.webp",
-              "view": "assets/views/93f828f04ab487cc.webp",
-              "thumb": "assets/previews/93f828f04ab487cc.webp",
-              "sha256": "aa0f5b28d12ab7ec67c1d116b2298588acb7e828b6fbbca06a8c395e5d6ba4d4",
-              "w": 2400,
-              "h": 1714
-            },
-            {
-              "title": "Orzo",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/d9237fa444caf4fd.webp",
-              "view": "assets/views/d9237fa444caf4fd.webp",
-              "thumb": "assets/previews/d9237fa444caf4fd.webp",
-              "sha256": "ba486dbcc0194d5dcfd7b1434cf650db75d0ca908adf59db3ad2f509c80c1b01",
-              "w": 2400,
-              "h": 1714
-            },
-            {
-              "title": "Chipotle",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/9ee8880c8058716d.webp",
-              "view": "assets/views/9ee8880c8058716d.webp",
-              "thumb": "assets/previews/9ee8880c8058716d.webp",
-              "sha256": "5be150e33e27ee2e12f53d7f59feaaabffc224199b056f01d2b88eeacd593836",
-              "w": 2400,
-              "h": 1714
-            }
-          ]
-        },
-        {
-          "label": "Carton views",
-          "status": "proposed",
-          "note": "",
-          "link": null,
-          "kinds": [
-            "logo",
-            "pack"
-          ],
-          "items": [
-            {
-              "title": "Hero",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/2f2fe720a3fe7691.webp",
-              "view": "assets/views/2f2fe720a3fe7691.webp",
-              "thumb": "assets/previews/2f2fe720a3fe7691.webp",
-              "sha256": "4d3636c19b66790ad9030cd6ffdb07870c3c379cfaa4ede538dd5d495e0eaa1e",
-              "w": 2400,
-              "h": 1350
-            },
-            {
-              "title": "Gloss on matte",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/d0d3a637bca5fa67.webp",
-              "view": "assets/views/d0d3a637bca5fa67.webp",
-              "thumb": "assets/previews/d0d3a637bca5fa67.webp",
-              "sha256": "52120503a6eb6cfbf4eb17dfa157ac096687daddd287b391d8ab558a54ed8619",
-              "w": 2400,
-              "h": 1350
-            },
-            {
-              "title": "Launch display",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/424ce0d4f56a919e.webp",
-              "view": "assets/views/424ce0d4f56a919e.webp",
-              "thumb": "assets/previews/424ce0d4f56a919e.webp",
-              "sha256": "10dd05f64195a6a11b06d164622078a8a9c2a8fefbcf44a70796371fd8a47a24",
-              "w": 2400,
-              "h": 1350
-            },
-            {
-              "title": "Table scatter",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/2a8829cde80c97bb.webp",
-              "view": "assets/views/2a8829cde80c97bb.webp",
-              "thumb": "assets/previews/2a8829cde80c97bb.webp",
-              "sha256": "0c3fce6c51afc24a27c204cc4a591eaf41919dfef9f922491fe0d28ed9d2b627",
-              "w": 2400,
-              "h": 1350
-            },
-            {
-              "title": "Freezer case",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/98372178c1d48cbe.webp",
-              "view": "assets/views/98372178c1d48cbe.webp",
-              "thumb": "assets/previews/98372178c1d48cbe.webp",
-              "sha256": "142f07b5cf740985b29c9319f218f7f19d9059fdc7c1266c03ee2b1081a775ee",
-              "w": 2400,
-              "h": 1350
-            }
-          ]
-        },
-        {
-          "label": "Sting",
-          "status": "proposed",
-          "note": "",
-          "link": null,
-          "kinds": [
-            "logo",
-            "pack"
-          ],
-          "items": [
-            {
-              "title": "Frame 1",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/60bd9f6525028c74.webp",
-              "view": "assets/views/60bd9f6525028c74.webp",
-              "thumb": "assets/previews/60bd9f6525028c74.webp",
-              "sha256": "cbebd4dc4ec8cc31e0d1f80bdb8a711c9168781afb3196a8f7385d0c213631a0",
-              "w": 1120,
-              "h": 630
-            },
-            {
-              "title": "Frame 3",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/60b57bf22d9142ff.webp",
-              "view": "assets/views/60b57bf22d9142ff.webp",
-              "thumb": "assets/previews/60b57bf22d9142ff.webp",
-              "sha256": "d4f1a455812cc6150a060f045e7804d01fcf8631fdc19d72c9a9f8f505057d4b",
-              "w": 1120,
-              "h": 630
-            },
-            {
-              "title": "Frame 4",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/00cfa2489f786aa0.webp",
-              "view": "assets/views/00cfa2489f786aa0.webp",
-              "thumb": "assets/previews/00cfa2489f786aa0.webp",
-              "sha256": "4cdc1e9b7ea40953fec8447e675c2e95d50ec8b06a6268548d4c5153db391478",
-              "w": 1120,
-              "h": 630
-            },
-            {
-              "title": "Frame 6",
-              "status": "proposed",
-              "shape": "wide",
-              "src": "assets/views/336a9f47502f7b98.webp",
-              "view": "assets/views/336a9f47502f7b98.webp",
-              "thumb": "assets/previews/336a9f47502f7b98.webp",
-              "sha256": "75e087078b9884e63720ec2ad5be6b976a1fe8041a1dc4bb350ce8b64b548eaa",
-              "w": 1120,
-              "h": 630
             }
           ]
         }
@@ -374,17 +173,6 @@
               "view": "assets/views/46ab25b205f1d9ee.webp",
               "thumb": "assets/previews/46ab25b205f1d9ee.webp",
               "sha256": "b26f55c14e39884b316715c938921e86a94ef4a0731bacd26dd3a317d0f072ab",
-              "w": 1440,
-              "h": 810
-            },
-            {
-              "title": "Slide 02",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/b1e6db338f5900b4.webp",
-              "view": "assets/views/b1e6db338f5900b4.webp",
-              "thumb": "assets/previews/b1e6db338f5900b4.webp",
-              "sha256": "2b4d6ca7fc469ae6c52dd8c4a46b7b0b5627d742f8f649a7e1e5bc5a48aaff95",
               "w": 1440,
               "h": 810
             },
@@ -2044,17 +1832,6 @@
               "h": 1080
             },
             {
-              "title": "Board 23",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/d6292b6d5a6682d7.webp",
-              "view": "assets/views/d6292b6d5a6682d7.webp",
-              "thumb": "assets/previews/d6292b6d5a6682d7.webp",
-              "sha256": "f0494889f8da018ae818bd831b1adad37c9f7c09173b24e2689df6ea46e05137",
-              "w": 1920,
-              "h": 1080
-            },
-            {
               "title": "Board 24",
               "status": "current",
               "shape": "wide",
@@ -2132,17 +1909,6 @@
               "h": 1080
             },
             {
-              "title": "Board 31",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/fe6064d0103b0f13.webp",
-              "view": "assets/views/fe6064d0103b0f13.webp",
-              "thumb": "assets/previews/fe6064d0103b0f13.webp",
-              "sha256": "00ea16565e0867516cba6116ec47b167f9ef5b5e6a0dc1235e36a331192ca9a7",
-              "w": 1920,
-              "h": 1080
-            },
-            {
               "title": "Board 32",
               "status": "current",
               "shape": "wide",
@@ -2161,17 +1927,6 @@
               "view": "assets/views/f60ee5bba2f7873d.webp",
               "thumb": "assets/previews/f60ee5bba2f7873d.webp",
               "sha256": "a5cace82b9dab37020a92398d0d6c33a521e44d3301751fa8bdfc89666d6d476",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 34",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/a4bd182b00a46713.webp",
-              "view": "assets/views/a4bd182b00a46713.webp",
-              "thumb": "assets/previews/a4bd182b00a46713.webp",
-              "sha256": "2a23628958788e929c9b4a0740393fa850dd6a8fcf8381301f50a44696503a00",
               "w": 1920,
               "h": 1080
             },
@@ -2426,61 +2181,6 @@
               "h": 1080
             },
             {
-              "title": "Board 14",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/7b59dc16c94bb672.webp",
-              "view": "assets/views/7b59dc16c94bb672.webp",
-              "thumb": "assets/previews/7b59dc16c94bb672.webp",
-              "sha256": "b4bdb645899997d92b56f492eaef9ba25049fd2aaa0097de508e8c39fff8ccda",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 15",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/34eed763f67a967a.webp",
-              "view": "assets/views/34eed763f67a967a.webp",
-              "thumb": "assets/previews/34eed763f67a967a.webp",
-              "sha256": "77458b404e2ac449081c646886209383b1f00e00980fc00c0c35cdb0a6b50933",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 16",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/afa83f08b0c294e3.webp",
-              "view": "assets/views/afa83f08b0c294e3.webp",
-              "thumb": "assets/previews/afa83f08b0c294e3.webp",
-              "sha256": "075e58da53f08d8edd958ef78b455afee5f722a1b1be60ca442d07562439ed43",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 17",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/6c8957d51ff71e33.webp",
-              "view": "assets/views/6c8957d51ff71e33.webp",
-              "thumb": "assets/previews/6c8957d51ff71e33.webp",
-              "sha256": "a67bc6e1b91136a9f60dc083978156e27ba501362a831a85ecead8fbc75615f2",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 18",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/56529361d4d20c62.webp",
-              "view": "assets/views/56529361d4d20c62.webp",
-              "thumb": "assets/previews/56529361d4d20c62.webp",
-              "sha256": "fc3351952ca6c1b4d0b86390bd3ab951cba1f2b4f14a820fbeeea411f98065a6",
-              "w": 1920,
-              "h": 1080
-            },
-            {
               "title": "Board 19",
               "status": "draft",
               "shape": "wide",
@@ -2514,94 +2214,6 @@
               "h": 1080
             },
             {
-              "title": "Board 22",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/edde61b36527f3a5.webp",
-              "view": "assets/views/edde61b36527f3a5.webp",
-              "thumb": "assets/previews/edde61b36527f3a5.webp",
-              "sha256": "afea101de6e06b1474129d52b3b2de3e8c11d9ae5af57d59ae189a85bed976d8",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 23",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/6bbac330992ad0d5.webp",
-              "view": "assets/views/6bbac330992ad0d5.webp",
-              "thumb": "assets/previews/6bbac330992ad0d5.webp",
-              "sha256": "722d9ea7b734ca9cb3c7643504ce68aab2d7f2aac092544f75e6395ddae1ea45",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 24",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/c1692a597d6872a1.webp",
-              "view": "assets/views/c1692a597d6872a1.webp",
-              "thumb": "assets/previews/c1692a597d6872a1.webp",
-              "sha256": "f4824e4ec5e9e742fdfa3fab2fe8b922fff0b84b0a6155a9e4e8e651b4677986",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 25",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/67aad99f86aa72bc.webp",
-              "view": "assets/views/67aad99f86aa72bc.webp",
-              "thumb": "assets/previews/67aad99f86aa72bc.webp",
-              "sha256": "4f3d2269e586271c176b43164591dc3143b9235e74f2f94cde34586678030ea3",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 26",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/9e573f96fb917b64.webp",
-              "view": "assets/views/9e573f96fb917b64.webp",
-              "thumb": "assets/previews/9e573f96fb917b64.webp",
-              "sha256": "0be4cd2ae7f70d410aa38cd3c4b77cf4546959fe9db61f9e38c9495dcfa86f83",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 27",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/bff3ac7f092ac60e.webp",
-              "view": "assets/views/bff3ac7f092ac60e.webp",
-              "thumb": "assets/previews/bff3ac7f092ac60e.webp",
-              "sha256": "51c5a44f0a35056ecf9786211d5c69e63f2d9957f95713822d86247f88c05f9a",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 28",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/e3b69803a2b95731.webp",
-              "view": "assets/views/e3b69803a2b95731.webp",
-              "thumb": "assets/previews/e3b69803a2b95731.webp",
-              "sha256": "fa9fb83adfab3b9c7b2c2d228289543789881964c62715a4ecfb7045f66f1bcf",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 29",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/a132eff8cd07232b.webp",
-              "view": "assets/views/a132eff8cd07232b.webp",
-              "thumb": "assets/previews/a132eff8cd07232b.webp",
-              "sha256": "03ce5c0e9dde7e480c122db22600ae378503423e40df359607e20f0ec5891548",
-              "w": 1920,
-              "h": 1080
-            },
-            {
               "title": "Board 30",
               "status": "draft",
               "shape": "wide",
@@ -2609,17 +2221,6 @@
               "view": "assets/views/4cbc7a161b76e11d.webp",
               "thumb": "assets/previews/4cbc7a161b76e11d.webp",
               "sha256": "d3ada3e116e5110e859a4629fdbaa5ff8da55faeeba3f6b3f6f115d7935129b8",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 31",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/39bbeecb5262d11a.webp",
-              "view": "assets/views/39bbeecb5262d11a.webp",
-              "thumb": "assets/previews/39bbeecb5262d11a.webp",
-              "sha256": "a2b03f36efb1caaccd3f97140dfd0cdf82158a1ca842cd6bf11aa23b493db52f",
               "w": 1920,
               "h": 1080
             },
@@ -2732,50 +2333,6 @@
               "sha256": "c6a0314517d4ba5aa473501d2e26f196624543f3eec2a1d4bc43729966131492",
               "w": 1920,
               "h": 1080
-            },
-            {
-              "title": "Board 42",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/fc433b542922f47a.webp",
-              "view": "assets/views/fc433b542922f47a.webp",
-              "thumb": "assets/previews/fc433b542922f47a.webp",
-              "sha256": "dcfcb384910d2fa142de7f4ee34ab313dfa369996b8307ca413f6e15c77d92a2",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 43",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/e1ec2a6eacc8af8c.webp",
-              "view": "assets/views/e1ec2a6eacc8af8c.webp",
-              "thumb": "assets/previews/e1ec2a6eacc8af8c.webp",
-              "sha256": "a6ec4ff1d6f5cc88c176fd8b7655faaad38620185592ccd653283fcd21762915",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 44",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/93fa4d8b847aa746.webp",
-              "view": "assets/views/93fa4d8b847aa746.webp",
-              "thumb": "assets/previews/93fa4d8b847aa746.webp",
-              "sha256": "424f04d154a36c1deca85efb798a7dbef6210147bf6c516cc99032911db331ba",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 45",
-              "status": "draft",
-              "shape": "wide",
-              "src": "assets/views/69831c7b8f9c0415.webp",
-              "view": "assets/views/69831c7b8f9c0415.webp",
-              "thumb": "assets/previews/69831c7b8f9c0415.webp",
-              "sha256": "bc1f10e1941be52088b4c50d465551c220dd2168cc4338d2ebbb18ccd9428d48",
-              "w": 1920,
-              "h": 1080
             }
           ]
         }
@@ -2859,28 +2416,6 @@
               "view": "assets/views/47c9399455e672ed.webp",
               "thumb": "assets/previews/47c9399455e672ed.webp",
               "sha256": "b40b00ccf194b8c71ecd21c4e64569d8c4fc566cbe3b9146ee3218f6ef1f4020",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 05",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/138903f7fbbbdd8c.webp",
-              "view": "assets/views/138903f7fbbbdd8c.webp",
-              "thumb": "assets/previews/138903f7fbbbdd8c.webp",
-              "sha256": "d711fbd356c1b20a4689c8dcef5a3293452d7839ba9343fa78a977292f9805cd",
-              "w": 1920,
-              "h": 1080
-            },
-            {
-              "title": "Board 06",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/79cec7522cf4f4c2.webp",
-              "view": "assets/views/79cec7522cf4f4c2.webp",
-              "thumb": "assets/previews/79cec7522cf4f4c2.webp",
-              "sha256": "7d9a402a234a07c6ee60da654a7dcfe0146cbcd8d71e97c8ff1fe23f1094f096",
               "w": 1920,
               "h": 1080
             },
@@ -18286,6 +17821,6 @@
   ],
   "counts": {
     "groups": 75,
-    "items": 1255
+    "items": 1215
   }
 }

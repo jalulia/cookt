@@ -5,7 +5,7 @@
   "edition": "Rendered design review",
   "counts": {
     "groups": 75,
-    "items": 1255
+    "items": 1215
   },
   "files": [
     {
@@ -12560,18 +12560,18 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "291bf3bfeef1d889133ef585acdda12767fb9ccdf2806230ff64b0e3411bed28",
-      "bytes": 682662
+      "sha256": "d1c578caf9ae35a52dc80eb2b4faabea15a2f3216fb3aabff0ec0b528f75cd83",
+      "bytes": 664016
     },
     {
       "path": "curation.json",
-      "sha256": "d4d3a99a6087b818a88aa2d1bf12222abf29ce67abdb0544fff30805ee6731c3",
-      "bytes": 60
+      "sha256": "b0acc2f6c32b82bd4e86d664c05cb0291a827302583ffd20fbeca4a2f14e3113",
+      "bytes": 3703
     },
     {
       "path": "downloads/cookt-c01-review-v001.pdf",
-      "sha256": "b8d3eda65a44e452bd44ebc5e18bc0e6a6b9c1f0cb42ca707909eeec3632d3be",
-      "bytes": 2879058
+      "sha256": "1d06aed0e34bc8b7e5aaea962fc9b39b28320480ced0fb76767e681488e94644",
+      "bytes": 419671
     },
     {
       "path": "downloads/cookt-c02-review-v001.pdf",
@@ -12580,8 +12580,8 @@
     },
     {
       "path": "downloads/cookt-c03-review-v001.pdf",
-      "sha256": "2930a6a437691e130273466f39db02aae51e642574813fd6a6403d607dabb09d",
-      "bytes": 3688450
+      "sha256": "b02fd88375128c80f60b00970d54e64113b1040448a2ae0814d8c0e78024ad8b",
+      "bytes": 3500818
     },
     {
       "path": "downloads/cookt-c04-review-v001.pdf",
@@ -12890,18 +12890,18 @@
     },
     {
       "path": "downloads/cookt-n35-review-v001.pdf",
-      "sha256": "c4c48ad1f6cb4e0ab5f3e2bf2c3a41c74708f2e1bac6408dfacc6f007d468e98",
-      "bytes": 5611115
+      "sha256": "5c712c5f530c2da41981cc80504ff6deb0ba58d1d5d7830255128633efea8630",
+      "bytes": 5240004
     },
     {
       "path": "downloads/cookt-n36-review-v001.pdf",
-      "sha256": "2a1714bb095b64568da906a0d58f97c99bce5866e2f60a5f83d34916aeaf0fca",
-      "bytes": 9643002
+      "sha256": "185d349a90fa233fb676424714d5bef75b6e2e3877b07fedc0d9ef7f59b5eac6",
+      "bytes": 5672158
     },
     {
       "path": "downloads/cookt-n37-review-v001.pdf",
-      "sha256": "54cc600445839f862ae6f421abaa56400cdd4bce7105dc246ed137d3df3b6561",
-      "bytes": 3548178
+      "sha256": "8ceea908bb3c098aff08330be2b6ccbb29ad6ee0012341d5d0ddc34cff0dc7b8",
+      "bytes": 3175794
     },
     {
       "path": "downloads/cookt-n38-review-v001.pdf",
@@ -12945,23 +12945,23 @@
     },
     {
       "path": "graveyard/catalog.json",
-      "sha256": "572ccd3b5979b0bae00fe811d765de57b6e8a50ccb0d70073b9f3a2a5c02ab32",
-      "bytes": 1486
+      "sha256": "63c4325cda997e2e8979a049d2420a6392ccbea588d02ea96e5e1fe885f4296f",
+      "bytes": 27351
     },
     {
       "path": "graveyard/index.html",
-      "sha256": "2fb40c5ce5b0d5ace38cca6ca571a369bf31d6279e2d521e476602a98bf9173f",
-      "bytes": 19777
+      "sha256": "ba8cefbd83884dd733ef1f9462602bdcad2c5aee82ee511fc539a4b270bccaf9",
+      "bytes": 36104
     },
     {
       "path": "index.html",
-      "sha256": "0dc78dd63cfdc971a7215dc7d82b013e6b138157394920aca6852e6d4772e1e8",
-      "bytes": 471406
+      "sha256": "92cf1f1d230b8c957ebe310cd59abf7a6ea4647ef7651193f670b9e8f312d8f7",
+      "bytes": 432596
     },
     {
       "path": "reviews/c01.html",
-      "sha256": "0954676c1f7ff0585dbc22cdbc601ae078f4611b664e801a0ea0523f89ed1c44",
-      "bytes": 9784
+      "sha256": "830a83c3dc4ac38317f6c2b745b450387f255905b397c5a8606a3cacade7f1d6",
+      "bytes": 4859
     },
     {
       "path": "reviews/c02.html",
@@ -12970,8 +12970,8 @@
     },
     {
       "path": "reviews/c03.html",
-      "sha256": "6a51384611d356e0c9fdfae072d1f1aa389ec6bcb51ffb016431b4863dee278e",
-      "bytes": 9675
+      "sha256": "f336a4e0a8b4f5f872d98427cd9a833b2dc4b1e075a225cec6051d92a1dfcfa5",
+      "bytes": 9051
     },
     {
       "path": "reviews/c04.html",
@@ -13280,18 +13280,18 @@
     },
     {
       "path": "reviews/n35.html",
-      "sha256": "b63a9d63e42c41e557ccbc55dca8f771005b16325c479e7c61f7d2f491ad7e28",
-      "bytes": 15917
+      "sha256": "5fa362541e21810069d411d5d3fcd5a844b31da38c22690345be5f3d5c24b0d6",
+      "bytes": 14346
     },
     {
       "path": "reviews/n36.html",
-      "sha256": "0d5551279f48fd0e5a5c1fbd1f171632f3bc3066bca67f9aa06b8c0d01f539bd",
-      "bytes": 17330
+      "sha256": "39142d9736b4214840290e2deedd02f8e942bdfc91202a8d863a90f4e7c42e08",
+      "bytes": 11445
     },
     {
       "path": "reviews/n37.html",
-      "sha256": "e97c80207c8fb2ae43899528efa4f11b27fc68a5af1836ffef2fdec83c437ab1",
-      "bytes": 9881
+      "sha256": "9ae354a601b9b90ed799204a27be170f1b0ea8fa39fcf8b1327a9f0a3c397014",
+      "bytes": 8954
     },
     {
       "path": "reviews/n38.html",
@@ -13354,6 +13354,11 @@
       "bytes": 21114
     },
     {
+      "path": "vendor/jszip-3.10.1.min.js",
+      "sha256": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e",
+      "bytes": 97630
+    },
+    {
       "path": "vendor/LICENSE-jszip.txt",
       "sha256": "566c953c6090b1218ca6217dd7359d45dde46581968586dc607d59a78af6a9c4",
       "bytes": 33753
@@ -13364,14 +13369,10 @@
       "bytes": 1070
     },
     {
-      "path": "vendor/jszip-3.10.1.min.js",
-      "sha256": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e",
-      "bytes": 97630
-    },
-    {
       "path": "vendor/pdf-lib-1.17.1.min.js",
       "sha256": "0f9a5cad07941f0826586c94e089d89b918c46e5c17cf2d5a3c6f666e3bc694f",
       "bytes": 525099
     }
-  ]
+  ],
+  "curationUpdated": "2026-10-09T22:55:25.472Z"
 }
