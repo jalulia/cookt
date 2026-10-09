@@ -46,7 +46,7 @@
     "color": "Color",
     "decks": "Decks & sites"
   },
-  "version": "1.4.0",
+  "version": "1.4.1",
   "record": {
     "version": "0.50.0",
     "updated": "9 October 2026"
@@ -590,405 +590,793 @@
       ]
     },
     {
-      "id": "n40",
+      "id": "c04",
       "section": "now",
       "date": "9 Oct",
-      "title": "Echo · expanded application draft",
-      "status": "draft",
+      "title": "Echo · revised review presentation",
+      "status": "current",
       "kinds": [
         "pack",
-        "logo",
+        "photo",
+        "apps",
         "illustration",
         "decks"
       ],
-      "code": "Echo · v010",
-      "note": "34-board working draft with three brand worlds, sticker tiers, shippers, table graphics and newspaper. Not yet reconciled with the current creative record; no selection inferred.",
+      "code": "Echo · v011",
+      "note": "40 boards with the three supplied wordmarks in native layouts, 18 stickers, an eight-page Second Helping issue with wrap imposition, and shipper studies. The shipper studies share one master photograph; supplier dimensions are not verified. Replaces v010.",
       "rows": [
         {
           "label": "Presentation",
-          "status": "draft",
+          "status": "current",
           "note": "",
           "link": null,
           "kinds": [
             "decks",
-            "logo",
             "illustration",
-            "pack"
+            "photo",
+            "pack",
+            "apps"
           ],
           "items": [
             {
               "title": "Board 01",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/12bb6a1dddf09ac5.webp",
-              "view": "assets/views/12bb6a1dddf09ac5.webp",
-              "thumb": "assets/previews/12bb6a1dddf09ac5.webp",
-              "sha256": "c4ee35e9e24ca79c8d598abfdbd46b11bdebfbd345f4b0cc2c2a0c6445c89cdf",
+              "src": "assets/views/bbc91fe81d916f01.webp",
+              "view": "assets/views/bbc91fe81d916f01.webp",
+              "thumb": "assets/previews/bbc91fe81d916f01.webp",
+              "sha256": "949dee7c5bdb2f65d783f710486549539a726c55e16a097103e2e53f2b0f8665",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 02",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/015dae893c6ae15e.webp",
-              "view": "assets/views/015dae893c6ae15e.webp",
-              "thumb": "assets/previews/015dae893c6ae15e.webp",
-              "sha256": "bf3d1a4a52578c1c745d21bcae5c57951d953bd2673bc5b9fff5aa11e620e6ea",
+              "src": "assets/views/ee37123f29a74848.webp",
+              "view": "assets/views/ee37123f29a74848.webp",
+              "thumb": "assets/previews/ee37123f29a74848.webp",
+              "sha256": "5764c725e348a9b90a1f0f896b852ba47c041a9253fa848760c0349d32ee2e61",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 03",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/3cc220a0299b216c.webp",
-              "view": "assets/views/3cc220a0299b216c.webp",
-              "thumb": "assets/previews/3cc220a0299b216c.webp",
-              "sha256": "32a001656c2d52d873155943fb63f782faab43422280eef18c7ead9169e729f4",
+              "src": "assets/views/ba97fb1d17940727.webp",
+              "view": "assets/views/ba97fb1d17940727.webp",
+              "thumb": "assets/previews/ba97fb1d17940727.webp",
+              "sha256": "64b58a5246e9fe6e8778072285fd911df28c4aec729a789d8160f6e77e2dca45",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 04",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/1995b8b8c2f844e5.webp",
-              "view": "assets/views/1995b8b8c2f844e5.webp",
-              "thumb": "assets/previews/1995b8b8c2f844e5.webp",
-              "sha256": "84b4db5098cd30d371c95907183eaf5c6f4f29a6daf46a175a205f3ceb0ca6fe",
+              "src": "assets/views/dfa6aad9ff4e20cb.webp",
+              "view": "assets/views/dfa6aad9ff4e20cb.webp",
+              "thumb": "assets/previews/dfa6aad9ff4e20cb.webp",
+              "sha256": "394434e0905ba392d629829867d29de8b9f6ace09c3a877336356680ca2fe51f",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 05",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/66752b23edecf2ba.webp",
-              "view": "assets/views/66752b23edecf2ba.webp",
-              "thumb": "assets/previews/66752b23edecf2ba.webp",
-              "sha256": "fb38287302a92801fc1ecfc5e7743ac4b4cad24dea9797f8b707845e455fab82",
+              "src": "assets/views/9947be49847f5dbe.webp",
+              "view": "assets/views/9947be49847f5dbe.webp",
+              "thumb": "assets/previews/9947be49847f5dbe.webp",
+              "sha256": "49dfcb35ea7a0fa53661410d8c18c7a11ee598c18863ddc4636f8cc3d13def1e",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 06",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/57d3e0fa35defe37.webp",
-              "view": "assets/views/57d3e0fa35defe37.webp",
-              "thumb": "assets/previews/57d3e0fa35defe37.webp",
-              "sha256": "56db98a2d3ed8ed32efc69f2e2f56d77eca92ad65f46cd752e9956490f753f07",
+              "src": "assets/views/74e7df613386dfed.webp",
+              "view": "assets/views/74e7df613386dfed.webp",
+              "thumb": "assets/previews/74e7df613386dfed.webp",
+              "sha256": "e39fc51f1ae84de20f5db8cb11491f1d0e520b4af58ec54393f1dcc97897a501",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 07",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/4ed4f0effdd8ca25.webp",
-              "view": "assets/views/4ed4f0effdd8ca25.webp",
-              "thumb": "assets/previews/4ed4f0effdd8ca25.webp",
-              "sha256": "5491bdb60c3d7413c90bd8a950e314af8cb5e5f78337d5baca3f884f3684ad4e",
+              "src": "assets/views/e59691d358562f24.webp",
+              "view": "assets/views/e59691d358562f24.webp",
+              "thumb": "assets/previews/e59691d358562f24.webp",
+              "sha256": "9ee6b42b0a3c07bc14dbec1050effb20481e477ea7266a8a828607959c46ba3c",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 08",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/631cc2575138ea43.webp",
-              "view": "assets/views/631cc2575138ea43.webp",
-              "thumb": "assets/previews/631cc2575138ea43.webp",
-              "sha256": "3ac164dcc84a848b96183185bdc305644630574d99fe3cce20ed40a12aef6423",
+              "src": "assets/views/3460298f4a9d7ded.webp",
+              "view": "assets/views/3460298f4a9d7ded.webp",
+              "thumb": "assets/previews/3460298f4a9d7ded.webp",
+              "sha256": "e25ff4e65d6617be583245205a5a215f982f2aa533af57c7521f7b952459a97f",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 09",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/82bc66f9d9933ec6.webp",
-              "view": "assets/views/82bc66f9d9933ec6.webp",
-              "thumb": "assets/previews/82bc66f9d9933ec6.webp",
-              "sha256": "1c292745e01b8f8f894b8550fe42e3a4f02c68ba01ae12288899ab20c35950c9",
+              "src": "assets/views/fbea51e6c0d10adc.webp",
+              "view": "assets/views/fbea51e6c0d10adc.webp",
+              "thumb": "assets/previews/fbea51e6c0d10adc.webp",
+              "sha256": "e02c798f9ff5eff36966cdfec849c339e694ad262966a42d052e7ce275b27cb8",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 10",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/888fd5c555efedf7.webp",
-              "view": "assets/views/888fd5c555efedf7.webp",
-              "thumb": "assets/previews/888fd5c555efedf7.webp",
-              "sha256": "35c2031532ed35afdeb0f4e69550a9ddd084bb0d73dff16965b85a46dd8cdb94",
+              "src": "assets/views/e0dbc486d9abcdc0.webp",
+              "view": "assets/views/e0dbc486d9abcdc0.webp",
+              "thumb": "assets/previews/e0dbc486d9abcdc0.webp",
+              "sha256": "bf74e03ddc53afb89265b1e93df0fe2c4624e1876af4927f0a6d3ca99d26b2be",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 11",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/5eef5d712051da57.webp",
-              "view": "assets/views/5eef5d712051da57.webp",
-              "thumb": "assets/previews/5eef5d712051da57.webp",
-              "sha256": "95944dc3c746f00d1c7b32a17ae9b924564b36ad39c0acb4506c97235b2f8897",
+              "src": "assets/views/42b128bf7a4de637.webp",
+              "view": "assets/views/42b128bf7a4de637.webp",
+              "thumb": "assets/previews/42b128bf7a4de637.webp",
+              "sha256": "fb8ee82e98bf0603bab611596d55c1cda1aa3682dafb01684f6837408c163280",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 12",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/4917b60b9b673435.webp",
-              "view": "assets/views/4917b60b9b673435.webp",
-              "thumb": "assets/previews/4917b60b9b673435.webp",
-              "sha256": "a693d4d8ec3867dac8ae52d46efc23b407cb4aff365e22848a334f7e226c00d9",
+              "src": "assets/views/20fb9d7041d952aa.webp",
+              "view": "assets/views/20fb9d7041d952aa.webp",
+              "thumb": "assets/previews/20fb9d7041d952aa.webp",
+              "sha256": "e02e27ae4d7c6bccc7d3e8e618413ced66686e4d65ca7e95c58cb586100c9120",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 13",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/8f05861b403b449f.webp",
-              "view": "assets/views/8f05861b403b449f.webp",
-              "thumb": "assets/previews/8f05861b403b449f.webp",
-              "sha256": "72a37227f022936eeb46359737210458c0545ca1910c3c559ae2ed2537f5e305",
+              "src": "assets/views/98b80ae3b6025fc3.webp",
+              "view": "assets/views/98b80ae3b6025fc3.webp",
+              "thumb": "assets/previews/98b80ae3b6025fc3.webp",
+              "sha256": "91054be476866acaab6486606bd393306c360df2c32cd93bcf3a002bc37eecd9",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 14",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/c2f78acac8951ae2.webp",
-              "view": "assets/views/c2f78acac8951ae2.webp",
-              "thumb": "assets/previews/c2f78acac8951ae2.webp",
-              "sha256": "e95efdabee9099d4abeabade843851e473a0f363f77e1fe6927d9e6d2329fdbe",
+              "src": "assets/views/2635928e7a7e5caf.webp",
+              "view": "assets/views/2635928e7a7e5caf.webp",
+              "thumb": "assets/previews/2635928e7a7e5caf.webp",
+              "sha256": "b4d13fe1e2e8b0b6e495a4d3f98f815901e5f205e1cadb70315ffe940f350ae7",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 15",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/75f855886c609dec.webp",
-              "view": "assets/views/75f855886c609dec.webp",
-              "thumb": "assets/previews/75f855886c609dec.webp",
-              "sha256": "c09fea93b63e68e1a7eb47b39d517706f02daf752d5661dc242f18728d9a7db2",
+              "src": "assets/views/3133f89cb7300aae.webp",
+              "view": "assets/views/3133f89cb7300aae.webp",
+              "thumb": "assets/previews/3133f89cb7300aae.webp",
+              "sha256": "69b79aaf62e8f4d919873c05a738aff9b07ae8c5032978bb07728ae0d7f458bb",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 16",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/1bc03db4b40554bd.webp",
-              "view": "assets/views/1bc03db4b40554bd.webp",
-              "thumb": "assets/previews/1bc03db4b40554bd.webp",
-              "sha256": "5d1629493c844e04ccdfc28d0c5052d913005c70d659762fbec3770f2cc42f2b",
+              "src": "assets/views/0407aca729fadd61.webp",
+              "view": "assets/views/0407aca729fadd61.webp",
+              "thumb": "assets/previews/0407aca729fadd61.webp",
+              "sha256": "897ba6678150e66664631202ffed5881e3739eabb541215d156aca30d94b2c71",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 17",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/5a66b9c31b56a110.webp",
-              "view": "assets/views/5a66b9c31b56a110.webp",
-              "thumb": "assets/previews/5a66b9c31b56a110.webp",
-              "sha256": "fb9422fbe0700784da4dcb76e9ab9931333e6d1b6872d47fe44a8d9d2e477607",
+              "src": "assets/views/52b5a5aa1f54bbba.webp",
+              "view": "assets/views/52b5a5aa1f54bbba.webp",
+              "thumb": "assets/previews/52b5a5aa1f54bbba.webp",
+              "sha256": "a4e46d25d6fc3eae112e11b2dc3b04743321a1138375694ffc06b473723d7f67",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 18",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/51a6356646238f35.webp",
-              "view": "assets/views/51a6356646238f35.webp",
-              "thumb": "assets/previews/51a6356646238f35.webp",
-              "sha256": "94f0d7614d89c0d7db9616c7c705db75a9fa4569dfd950869e75d826901b89b7",
+              "src": "assets/views/0261a77339dd3189.webp",
+              "view": "assets/views/0261a77339dd3189.webp",
+              "thumb": "assets/previews/0261a77339dd3189.webp",
+              "sha256": "1e9b25deb3244ae6df373134702114fcc423b89665228cb8a753e1a3dc6e6a60",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 19",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/dd03aa0d86fd8bec.webp",
-              "view": "assets/views/dd03aa0d86fd8bec.webp",
-              "thumb": "assets/previews/dd03aa0d86fd8bec.webp",
-              "sha256": "05fe3fad7171382bf575b2de98884e132058cd28b90d6c45bb59527d5afda7ae",
+              "src": "assets/views/d17d32559c5aa069.webp",
+              "view": "assets/views/d17d32559c5aa069.webp",
+              "thumb": "assets/previews/d17d32559c5aa069.webp",
+              "sha256": "f939aee3a4e9d5e66cbfa3d209d2f0898d84dba48ab85662a4e296046c675c3e",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 20",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/fdd1d827d1a55e82.webp",
-              "view": "assets/views/fdd1d827d1a55e82.webp",
-              "thumb": "assets/previews/fdd1d827d1a55e82.webp",
-              "sha256": "eaa274e4de43978d3670ff350fab1b2e44967100863d5ca870ff1d2e33a0de58",
+              "src": "assets/views/64905515aaa04726.webp",
+              "view": "assets/views/64905515aaa04726.webp",
+              "thumb": "assets/previews/64905515aaa04726.webp",
+              "sha256": "65d5c68b61b103c9db3e12450f7892430dab233711e2641c4db6899e9ecf855e",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 21",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/a395114f2f3e9c83.webp",
-              "view": "assets/views/a395114f2f3e9c83.webp",
-              "thumb": "assets/previews/a395114f2f3e9c83.webp",
-              "sha256": "42e640a542f129bb20542b4a7346dfcc09edf789225eb7604c3c8935e9b931fc",
+              "src": "assets/views/e48b4686ef05c1ba.webp",
+              "view": "assets/views/e48b4686ef05c1ba.webp",
+              "thumb": "assets/previews/e48b4686ef05c1ba.webp",
+              "sha256": "f18e5057cf591f24756229121dca5fb29551bc58ab8fddc35c86dc48e69b5f48",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 22",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/062f39766907e99f.webp",
-              "view": "assets/views/062f39766907e99f.webp",
-              "thumb": "assets/previews/062f39766907e99f.webp",
-              "sha256": "55bec575efb8e2f043c92561c46159ee098e0cec51d9121285c439565f7bec33",
+              "src": "assets/views/2c8cb27cc8615097.webp",
+              "view": "assets/views/2c8cb27cc8615097.webp",
+              "thumb": "assets/previews/2c8cb27cc8615097.webp",
+              "sha256": "a992973e3592cfd2fc20437165a90422338d9167dd1ad963eb857913996d0dac",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 23",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/360411984026c0a1.webp",
-              "view": "assets/views/360411984026c0a1.webp",
-              "thumb": "assets/previews/360411984026c0a1.webp",
-              "sha256": "1e2c292cd61c5021a9d1a9f4e85b670200b1e122090ded5284ccce6b896ffc46",
+              "src": "assets/views/a5fdd0225a7b4680.webp",
+              "view": "assets/views/a5fdd0225a7b4680.webp",
+              "thumb": "assets/previews/a5fdd0225a7b4680.webp",
+              "sha256": "52b7e60ba6ae167765221c2872e80c6dcb34a81bb8ec61a6ca0b4a45bfd5305d",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 24",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/a9e10a2e7cb7a659.webp",
-              "view": "assets/views/a9e10a2e7cb7a659.webp",
-              "thumb": "assets/previews/a9e10a2e7cb7a659.webp",
-              "sha256": "48d0eca355666a2ad910dc70d06456595875aeaa28a0bd213bf3a3caf004c7d5",
+              "src": "assets/views/e4e9f19b4f9042aa.webp",
+              "view": "assets/views/e4e9f19b4f9042aa.webp",
+              "thumb": "assets/previews/e4e9f19b4f9042aa.webp",
+              "sha256": "d80e22a8ed46439859c14299cc071e8717538d2115a13b69c298f8084f3105e6",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 25",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/33ed9a336dcff106.webp",
-              "view": "assets/views/33ed9a336dcff106.webp",
-              "thumb": "assets/previews/33ed9a336dcff106.webp",
-              "sha256": "c836d840698abf525f058b909994b516dbe0fbb440e0464ada977304038958f2",
+              "src": "assets/views/7aa456f8afcb86b4.webp",
+              "view": "assets/views/7aa456f8afcb86b4.webp",
+              "thumb": "assets/previews/7aa456f8afcb86b4.webp",
+              "sha256": "2918274909da6cd06b2486b79df63f760ee031e15b398ba2a1c9379c78650002",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 26",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/1480355dc17ab2d6.webp",
-              "view": "assets/views/1480355dc17ab2d6.webp",
-              "thumb": "assets/previews/1480355dc17ab2d6.webp",
-              "sha256": "72351b378fe768c1679156aba40566389abf0a616cb0e06e6faf4a3e07bc190f",
+              "src": "assets/views/a584f9e2708513da.webp",
+              "view": "assets/views/a584f9e2708513da.webp",
+              "thumb": "assets/previews/a584f9e2708513da.webp",
+              "sha256": "579b1fa98151f42d7808311a8825994fe4d7bd4b9e97da27e5900fcb9f0004fa",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 27",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/6946133c1208319f.webp",
-              "view": "assets/views/6946133c1208319f.webp",
-              "thumb": "assets/previews/6946133c1208319f.webp",
-              "sha256": "4b19346efa683cfc6480a1fbd397a596bcaf01a0d82eb701629b73439a184bd5",
+              "src": "assets/views/a73cd71f58854d25.webp",
+              "view": "assets/views/a73cd71f58854d25.webp",
+              "thumb": "assets/previews/a73cd71f58854d25.webp",
+              "sha256": "06238a4811e8de16195b960f9d800b6a73cc7a399c00e5e11a5df3562d18a425",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 28",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/0a3c6887287e60c3.webp",
-              "view": "assets/views/0a3c6887287e60c3.webp",
-              "thumb": "assets/previews/0a3c6887287e60c3.webp",
-              "sha256": "dc519c3ea5719205dbbe1282e4550db8d319a38212d4175565f4c203bbfe87e5",
+              "src": "assets/views/0ad9afda8e04eb86.webp",
+              "view": "assets/views/0ad9afda8e04eb86.webp",
+              "thumb": "assets/previews/0ad9afda8e04eb86.webp",
+              "sha256": "54de2ee27c6c5d16241dd10791680871767ec3434ef82a5b3b4980b712ca23a9",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 29",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/41fa2b82f3fd832b.webp",
-              "view": "assets/views/41fa2b82f3fd832b.webp",
-              "thumb": "assets/previews/41fa2b82f3fd832b.webp",
-              "sha256": "8c4716e00428533893ceae1076f4ac12dc3e7fddc7077df0dadf6d751d42b2cc",
+              "src": "assets/views/e2c6feec55462e08.webp",
+              "view": "assets/views/e2c6feec55462e08.webp",
+              "thumb": "assets/previews/e2c6feec55462e08.webp",
+              "sha256": "79284f7030c62e356afa476c62d58494f401435b5876a9baa62f3cbade30f156",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 30",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/c6d4b5c8018d0b58.webp",
-              "view": "assets/views/c6d4b5c8018d0b58.webp",
-              "thumb": "assets/previews/c6d4b5c8018d0b58.webp",
-              "sha256": "fa3f888e098401067c7a8778af21f0dff0caca8bc394854fdc7274f120b67405",
+              "src": "assets/views/1ae6f42bc37490a1.webp",
+              "view": "assets/views/1ae6f42bc37490a1.webp",
+              "thumb": "assets/previews/1ae6f42bc37490a1.webp",
+              "sha256": "0839eb50650350fbc40b71c30bda3b482ce5636c819786b9d9ce1ce8860886ba",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 31",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/972598c6c1b90a1e.webp",
-              "view": "assets/views/972598c6c1b90a1e.webp",
-              "thumb": "assets/previews/972598c6c1b90a1e.webp",
-              "sha256": "b8173b5a2eb8106a4f57fd3467b288b51067c7b93d681102bfb93277697203ba",
+              "src": "assets/views/64be4c51877952f1.webp",
+              "view": "assets/views/64be4c51877952f1.webp",
+              "thumb": "assets/previews/64be4c51877952f1.webp",
+              "sha256": "9e99fa260b8fcf82dd7ae1ddcddd04bb020b2ac5eeb6505d5ae37a20601b19aa",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 32",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/282eb864b524e952.webp",
-              "view": "assets/views/282eb864b524e952.webp",
-              "thumb": "assets/previews/282eb864b524e952.webp",
-              "sha256": "290b0f6c6d4c6ebd9a2309e0a98c6fb31b46805404c602568b03cf382fa3d00f",
+              "src": "assets/views/075255106c0f1d4f.webp",
+              "view": "assets/views/075255106c0f1d4f.webp",
+              "thumb": "assets/previews/075255106c0f1d4f.webp",
+              "sha256": "f7badbc4082799717688ece29a2eab833283ca558962d03b8b540ae15bcdb7b1",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 33",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/25632186d86f3c49.webp",
-              "view": "assets/views/25632186d86f3c49.webp",
-              "thumb": "assets/previews/25632186d86f3c49.webp",
-              "sha256": "67eee3a2f612f7f60fb83a38b3bbfed13d954a382d1c19f898814ebb4ef757ea",
+              "src": "assets/views/e483c07528dee6d4.webp",
+              "view": "assets/views/e483c07528dee6d4.webp",
+              "thumb": "assets/previews/e483c07528dee6d4.webp",
+              "sha256": "4b5b0084fa4632623758173c808919d98949b9cffb7b883830e4f79bd974f48c",
               "w": 1920,
               "h": 1080
             },
             {
               "title": "Board 34",
-              "status": "draft",
+              "status": "current",
               "shape": "wide",
-              "src": "assets/views/8a5c6fde51eae67b.webp",
-              "view": "assets/views/8a5c6fde51eae67b.webp",
-              "thumb": "assets/previews/8a5c6fde51eae67b.webp",
-              "sha256": "b78ba1de340371b9e8ec2cfca8267cb5e070104a3d7c2843db85291cb66f04a7",
+              "src": "assets/views/2bc11f9560d8877f.webp",
+              "view": "assets/views/2bc11f9560d8877f.webp",
+              "thumb": "assets/previews/2bc11f9560d8877f.webp",
+              "sha256": "19e87147102834f840b96d83b110988add117bfd5679a8b38c08089c335f150f",
               "w": 1920,
               "h": 1080
+            },
+            {
+              "title": "Board 35",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/87fd61300377e3cb.webp",
+              "view": "assets/views/87fd61300377e3cb.webp",
+              "thumb": "assets/previews/87fd61300377e3cb.webp",
+              "sha256": "c5d97a33b664875d5c5178f4479f37d8943d59a3a4b7bf66ed29533893b5faac",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 36",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/dc6be68a038089c4.webp",
+              "view": "assets/views/dc6be68a038089c4.webp",
+              "thumb": "assets/previews/dc6be68a038089c4.webp",
+              "sha256": "25b5d3ad5f2461a711225a61dd551cd4d49593f62c0c9479cad5cfc01bc14dbb",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 37",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/4cc24d545c968dce.webp",
+              "view": "assets/views/4cc24d545c968dce.webp",
+              "thumb": "assets/previews/4cc24d545c968dce.webp",
+              "sha256": "b36e55cf6e1fa61521671a058c82d1f91bfd3883716231998da59d45460cf616",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 38",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/30880dca48611cd9.webp",
+              "view": "assets/views/30880dca48611cd9.webp",
+              "thumb": "assets/previews/30880dca48611cd9.webp",
+              "sha256": "808d0222d9ace066451e4cb05b4a807d9df2ff8d6d2925541812c21f04fafad6",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 39",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/c04aced7d2ea2d27.webp",
+              "view": "assets/views/c04aced7d2ea2d27.webp",
+              "thumb": "assets/previews/c04aced7d2ea2d27.webp",
+              "sha256": "32ccd034830bd9eaeb488b78fe98203f42c3217e3ea8f3bdcb7f85c402fce19c",
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        {
+          "label": "Contact sheets",
+          "status": "current",
+          "note": "",
+          "link": null,
+          "kinds": [
+            "decks",
+            "illustration",
+            "photo",
+            "pack",
+            "apps"
+          ],
+          "items": [
+            {
+              "title": "Sheet 1",
+              "status": "current",
+              "shape": "square",
+              "src": "assets/views/48c18c21c6d79768.webp",
+              "view": "assets/views/48c18c21c6d79768.webp",
+              "thumb": "assets/previews/48c18c21c6d79768.webp",
+              "sha256": "d07b2148971a5b4b9a8abef06fed223aac4db5204a9ceb1e247df1f55b5a230a",
+              "w": 1440,
+              "h": 1680
+            },
+            {
+              "title": "Sheet 2",
+              "status": "current",
+              "shape": "square",
+              "src": "assets/views/39fcdb93b3b75fb3.webp",
+              "view": "assets/views/39fcdb93b3b75fb3.webp",
+              "thumb": "assets/previews/39fcdb93b3b75fb3.webp",
+              "sha256": "71f4fca714c459c117808c49e5e5842869d55f74a0a088af71e2c20ff701918f",
+              "w": 1440,
+              "h": 1680
+            },
+            {
+              "title": "Sheet 3",
+              "status": "current",
+              "shape": "square",
+              "src": "assets/views/51c48e82a48db137.webp",
+              "view": "assets/views/51c48e82a48db137.webp",
+              "thumb": "assets/previews/51c48e82a48db137.webp",
+              "sha256": "19cda1de11c48a7995aa7bfe68643040227120b30783f7dda0fa5b0a682b2ba0",
+              "w": 1440,
+              "h": 1680
+            },
+            {
+              "title": "Sheet 4",
+              "status": "current",
+              "shape": "square",
+              "src": "assets/views/70ac959ddbf0cbfa.webp",
+              "view": "assets/views/70ac959ddbf0cbfa.webp",
+              "thumb": "assets/previews/70ac959ddbf0cbfa.webp",
+              "sha256": "cf55489a5696392be2e035871f4973ebde8a02597aca017dc314390de127cb0e",
+              "w": 1440,
+              "h": 1680
+            }
+          ]
+        },
+        {
+          "label": "Second Helping",
+          "status": "current",
+          "note": "",
+          "link": null,
+          "kinds": [
+            "decks",
+            "illustration",
+            "photo",
+            "pack",
+            "apps"
+          ],
+          "items": [
+            {
+              "title": "Cover",
+              "status": "current",
+              "shape": "tall",
+              "src": "assets/views/050e51d8bb5a1871.webp",
+              "view": "assets/views/050e51d8bb5a1871.webp",
+              "thumb": "assets/previews/050e51d8bb5a1871.webp",
+              "sha256": "d435cf7e0b0836feae1c7575be0daed819a77d101ee41ddace67420e735b65e4",
+              "w": 900,
+              "h": 1260
+            },
+            {
+              "title": "Page 1",
+              "status": "current",
+              "shape": "tall",
+              "src": "assets/views/0586187bff291b5e.webp",
+              "view": "assets/views/0586187bff291b5e.webp",
+              "thumb": "assets/previews/0586187bff291b5e.webp",
+              "sha256": "00b214559834f142abc3975974f23a778c350a1c557b22ef7e3ea89ba2e9daae",
+              "w": 900,
+              "h": 1260
+            },
+            {
+              "title": "Page 2",
+              "status": "current",
+              "shape": "tall",
+              "src": "assets/views/693f994218254594.webp",
+              "view": "assets/views/693f994218254594.webp",
+              "thumb": "assets/previews/693f994218254594.webp",
+              "sha256": "56227e5b325775ad14f6130ddc7c724bcc0827f9c6ea0330ec51d5d658c1e8bc",
+              "w": 900,
+              "h": 1260
+            },
+            {
+              "title": "Page 3",
+              "status": "current",
+              "shape": "tall",
+              "src": "assets/views/ace2b0b5c1e933f1.webp",
+              "view": "assets/views/ace2b0b5c1e933f1.webp",
+              "thumb": "assets/previews/ace2b0b5c1e933f1.webp",
+              "sha256": "4085b2f70a9dc6e65775bc5d42b6e537f9645fdb95e8b87023741461c837cced",
+              "w": 900,
+              "h": 1260
+            },
+            {
+              "title": "Page 4",
+              "status": "current",
+              "shape": "tall",
+              "src": "assets/views/7eef26498995b665.webp",
+              "view": "assets/views/7eef26498995b665.webp",
+              "thumb": "assets/previews/7eef26498995b665.webp",
+              "sha256": "32b49c90203ddabb516fbed7e38390af242ee90e6c5f0ace1799a522275acb28",
+              "w": 900,
+              "h": 1260
+            },
+            {
+              "title": "Page 5",
+              "status": "current",
+              "shape": "tall",
+              "src": "assets/views/0440627cb99e33ca.webp",
+              "view": "assets/views/0440627cb99e33ca.webp",
+              "thumb": "assets/previews/0440627cb99e33ca.webp",
+              "sha256": "c6e720854fa9a2f8950396c18ab36e5b006169b916a42aeb8959f1cc23833b15",
+              "w": 900,
+              "h": 1260
+            },
+            {
+              "title": "Page 6",
+              "status": "current",
+              "shape": "tall",
+              "src": "assets/views/82748901aea4bc7f.webp",
+              "view": "assets/views/82748901aea4bc7f.webp",
+              "thumb": "assets/previews/82748901aea4bc7f.webp",
+              "sha256": "1a16690a05190d2ea9bebb0c169e634488a02b1db134906df951fbb5c2e785a0",
+              "w": 900,
+              "h": 1260
+            },
+            {
+              "title": "Page 7",
+              "status": "current",
+              "shape": "tall",
+              "src": "assets/views/880abb6de70baab1.webp",
+              "view": "assets/views/880abb6de70baab1.webp",
+              "thumb": "assets/previews/880abb6de70baab1.webp",
+              "sha256": "c62eda06389fd3a0e93635d21433a1531c6e194a7620faafc0b1c746c679cf3e",
+              "w": 900,
+              "h": 1260
+            },
+            {
+              "title": "Page 8",
+              "status": "current",
+              "shape": "tall",
+              "src": "assets/views/355b45eb0ef48040.webp",
+              "view": "assets/views/355b45eb0ef48040.webp",
+              "thumb": "assets/previews/355b45eb0ef48040.webp",
+              "sha256": "6235d39655a5dc5ecef19cf8cd72e9ecd30f9de10f01d6b4ff698ca52090703c",
+              "w": 900,
+              "h": 1260
+            }
+          ]
+        },
+        {
+          "label": "Studies",
+          "status": "current",
+          "note": "",
+          "link": null,
+          "kinds": [
+            "decks",
+            "illustration",
+            "photo",
+            "pack",
+            "apps"
+          ],
+          "items": [
+            {
+              "title": "Stickers · large",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/f0aba6f26506356e.webp",
+              "view": "assets/views/f0aba6f26506356e.webp",
+              "thumb": "assets/previews/f0aba6f26506356e.webp",
+              "sha256": "fdd8e8ba8c190da9049795e77ecb0d7f3a536781f85c756433481c2b8a26c867",
+              "w": 1536,
+              "h": 1024
+            },
+            {
+              "title": "Stickers · medium",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/4ebf700585d366b4.webp",
+              "view": "assets/views/4ebf700585d366b4.webp",
+              "thumb": "assets/previews/4ebf700585d366b4.webp",
+              "sha256": "18364ccfa1c290a0a980fd24d79c9de8ce4b6395633343f7df01b35cafe8ff8e",
+              "w": 1536,
+              "h": 1024
+            },
+            {
+              "title": "Stickers · accent",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/1c707a8fb2015851.webp",
+              "view": "assets/views/1c707a8fb2015851.webp",
+              "thumb": "assets/previews/1c707a8fb2015851.webp",
+              "sha256": "d561dcdc6c30f7c99cd31dd5df6da62fca36c3843f9e191f8dc7eb5427763027",
+              "w": 1536,
+              "h": 1024
+            },
+            {
+              "title": "Shipper · kitchen",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/dcff7782819a8b22.webp",
+              "view": "assets/views/dcff7782819a8b22.webp",
+              "thumb": "assets/previews/dcff7782819a8b22.webp",
+              "sha256": "fd767bdd8e2b1f78c26337bdeef9b8c3a2ede931b42a99cead2cdf6210fc6fa1",
+              "w": 1536,
+              "h": 1024
+            },
+            {
+              "title": "Shipper · table",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/66b5d86e6ec6ee5c.webp",
+              "view": "assets/views/66b5d86e6ec6ee5c.webp",
+              "thumb": "assets/previews/66b5d86e6ec6ee5c.webp",
+              "sha256": "e871f4345148682a344288edd51342b948ad21ee09bb8567f71e69845b89ba47",
+              "w": 1536,
+              "h": 1024
+            },
+            {
+              "title": "Shipper labels",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/d9a111b7dc78b9eb.webp",
+              "view": "assets/views/d9a111b7dc78b9eb.webp",
+              "thumb": "assets/previews/d9a111b7dc78b9eb.webp",
+              "sha256": "df3c4039161c9f429b30b06f681ff56ed9bd56136532c42ab1cabcd63b335c6f",
+              "w": 1536,
+              "h": 1024
+            },
+            {
+              "title": "Newspaper",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/fda9c46a9a96f089.webp",
+              "view": "assets/views/fda9c46a9a96f089.webp",
+              "thumb": "assets/previews/fda9c46a9a96f089.webp",
+              "sha256": "59c4104324b47c786f0a91198516009edbdcf29b7a77a4522aa020b0ea64934f",
+              "w": 1536,
+              "h": 1024
+            },
+            {
+              "title": "Second Helping mark",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/a0fe703dfe46e5e3.webp",
+              "view": "assets/views/a0fe703dfe46e5e3.webp",
+              "thumb": "assets/previews/a0fe703dfe46e5e3.webp",
+              "sha256": "c516640d7265833bd1ce870bf72a2a5dc28702410772a41a566bec2df15b281e",
+              "w": 2172,
+              "h": 724
+            },
+            {
+              "title": "Freezer",
+              "status": "current",
+              "shape": "square",
+              "src": "assets/views/7ea92399e1c3a77f.webp",
+              "view": "assets/views/7ea92399e1c3a77f.webp",
+              "thumb": "assets/previews/7ea92399e1c3a77f.webp",
+              "sha256": "578bdac9997c309648a7837a568dca67d34982b95cf24171d0754340c010714c",
+              "w": 1254,
+              "h": 1254
+            },
+            {
+              "title": "Kitchen index",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/16871971ae1e66b8.webp",
+              "view": "assets/views/16871971ae1e66b8.webp",
+              "thumb": "assets/previews/16871971ae1e66b8.webp",
+              "sha256": "e258bcfc7f0c34053a1113011f95a694330c7ad82dbf27725eebf50e25766f68",
+              "w": 1536,
+              "h": 1024
+            },
+            {
+              "title": "Pattern",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/4ad24f13f843cc0d.webp",
+              "view": "assets/views/4ad24f13f843cc0d.webp",
+              "thumb": "assets/previews/4ad24f13f843cc0d.webp",
+              "sha256": "1c1fcd7e7aa623e407230a5036a748b1d251a42c55215b3536f0145088207162",
+              "w": 1536,
+              "h": 1024
+            },
+            {
+              "title": "Plate pattern",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/dbe2dcb2c42b2df9.webp",
+              "view": "assets/views/dbe2dcb2c42b2df9.webp",
+              "thumb": "assets/previews/dbe2dcb2c42b2df9.webp",
+              "sha256": "932273259b09bb8fabb04904ad06381cff2dcd5ff686cf9ff75c72697f45a8d2",
+              "w": 1536,
+              "h": 1024
+            },
+            {
+              "title": "Table print",
+              "status": "current",
+              "shape": "wide",
+              "src": "assets/views/87264b6491cd0890.webp",
+              "view": "assets/views/87264b6491cd0890.webp",
+              "thumb": "assets/previews/87264b6491cd0890.webp",
+              "sha256": "724c53dfe6fbb7d0623674217630c741ff546ed15efb754eb03a18693e6e8fc1",
+              "w": 1536,
+              "h": 1024
             }
           ]
         }
@@ -996,11 +1384,11 @@
       "links": [
         {
           "label": "View study",
-          "path": "reviews/n40.html"
+          "path": "reviews/c04.html"
         },
         {
           "label": "Download review PDF",
-          "path": "downloads/cookt-n40-review-v001.pdf"
+          "path": "downloads/cookt-c04-review-v001.pdf"
         }
       ]
     },
@@ -1705,87 +2093,6 @@
         {
           "label": "Download review PDF",
           "path": "downloads/cookt-n28-review-v001.pdf"
-        }
-      ]
-    },
-    {
-      "id": "c13",
-      "section": "now",
-      "date": "6 Oct",
-      "title": "Seasonal newspaper wrap",
-      "status": "draft",
-      "kinds": [
-        "apps",
-        "illustration"
-      ],
-      "code": "Newspaper · v001",
-      "note": "Fall, winter and spring drafts. Not yet presented; the wrap is still open.",
-      "rows": [
-        {
-          "label": "Drafts",
-          "status": "draft",
-          "note": "",
-          "link": null,
-          "kinds": [
-            "apps",
-            "illustration"
-          ],
-          "items": [
-            {
-              "title": "Fall · outside",
-              "status": "draft",
-              "shape": "tall",
-              "src": "assets/views/02f982031f77b45f.webp",
-              "view": "assets/views/02f982031f77b45f.webp",
-              "thumb": "assets/previews/02f982031f77b45f.webp",
-              "sha256": "76d0ffa8806e4219e1270bb49b5aa861c1b60503aeb2a239f9f77dff94e12881",
-              "w": 1715,
-              "h": 2400
-            },
-            {
-              "title": "Fall · inside",
-              "status": "draft",
-              "shape": "tall",
-              "src": "assets/views/3c564ae6e7b9ae50.webp",
-              "view": "assets/views/3c564ae6e7b9ae50.webp",
-              "thumb": "assets/previews/3c564ae6e7b9ae50.webp",
-              "sha256": "93ed94f411d7ef132cff425238a3ef0c8b7122a05233787675fe51d681783d80",
-              "w": 1715,
-              "h": 2400
-            },
-            {
-              "title": "Winter",
-              "status": "draft",
-              "shape": "tall",
-              "src": "assets/views/700c1d5a3a6b2680.webp",
-              "view": "assets/views/700c1d5a3a6b2680.webp",
-              "thumb": "assets/previews/700c1d5a3a6b2680.webp",
-              "sha256": "11a4f5d2f7e90f79cf25affe2fc6359608e4503b23049bcf3f482b423b77c25a",
-              "w": 786,
-              "h": 1100
-            },
-            {
-              "title": "Spring",
-              "status": "draft",
-              "shape": "tall",
-              "src": "assets/views/cad548c67350b11e.webp",
-              "view": "assets/views/cad548c67350b11e.webp",
-              "thumb": "assets/previews/cad548c67350b11e.webp",
-              "sha256": "451e2edd5f895fd1091c39d8687c64803989f7ec80e3543d88ffbcbb5acc66d8",
-              "w": 786,
-              "h": 1100
-            }
-          ]
-        }
-      ],
-      "links": [
-        {
-          "label": "View study",
-          "path": "reviews/c13.html"
-        },
-        {
-          "label": "Download review PDF",
-          "path": "downloads/cookt-c13-review-v001.pdf"
         }
       ]
     },
@@ -3545,344 +3852,6 @@
         {
           "label": "Download review PDF",
           "path": "downloads/cookt-n37-review-v001.pdf"
-        }
-      ]
-    },
-    {
-      "id": "n38",
-      "section": "now",
-      "date": "6 Oct",
-      "title": "Echo · three brand worlds",
-      "status": "current",
-      "kinds": [
-        "pack",
-        "logo",
-        "illustration",
-        "decks"
-      ],
-      "code": "Echo · v005",
-      "note": "27-board comparison: Tableware, Market Cut and Pantry Labels. Component refinements are separate; no whole system or production artwork approved.",
-      "rows": [
-        {
-          "label": "Presentation",
-          "status": "current",
-          "note": "",
-          "link": null,
-          "kinds": [
-            "decks",
-            "logo",
-            "illustration",
-            "pack"
-          ],
-          "items": [
-            {
-              "title": "Board 01",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/a22f144aed41f916.webp",
-              "view": "assets/views/a22f144aed41f916.webp",
-              "thumb": "assets/previews/a22f144aed41f916.webp",
-              "sha256": "027f05678fc640602dec0e5a82e53137bf65a986c41ca68540ed714b3caaaa0b",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 02",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/f971c1e4381a194d.webp",
-              "view": "assets/views/f971c1e4381a194d.webp",
-              "thumb": "assets/previews/f971c1e4381a194d.webp",
-              "sha256": "4f92fa8855c01758e93cd6999c1e14786b15973ed4f992602f974131ce7433e1",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 03",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/ab068ef77993fcca.webp",
-              "view": "assets/views/ab068ef77993fcca.webp",
-              "thumb": "assets/previews/ab068ef77993fcca.webp",
-              "sha256": "45f8fa4b792f32417653bdd286bdb667251107b13237c5d240bfbab997bcb9f3",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 04",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/aefc8ab9cc93b55d.webp",
-              "view": "assets/views/aefc8ab9cc93b55d.webp",
-              "thumb": "assets/previews/aefc8ab9cc93b55d.webp",
-              "sha256": "1248cb162b7f7a9010aea518b890c6af4e586aba319d1e2d15a852556073eec5",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 05",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/c4a96b5f4ddf11a5.webp",
-              "view": "assets/views/c4a96b5f4ddf11a5.webp",
-              "thumb": "assets/previews/c4a96b5f4ddf11a5.webp",
-              "sha256": "e0def55f66b2012ac2402ef6611c28279b6d407a9a45caf0e7b3650cf8edfcce",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 06",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/26424e905bb503f7.webp",
-              "view": "assets/views/26424e905bb503f7.webp",
-              "thumb": "assets/previews/26424e905bb503f7.webp",
-              "sha256": "98d400748b3cb50f8c983bd7542a77c9e138de1836c3f3a17ec217d0f099cd6c",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 07",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/39ad8a3cabd558af.webp",
-              "view": "assets/views/39ad8a3cabd558af.webp",
-              "thumb": "assets/previews/39ad8a3cabd558af.webp",
-              "sha256": "0c42ba894ba136d7b1458ff563b99f335fcbe70def0a29f20f3cfb1e33185efa",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 08",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/386dfaa51bbe2400.webp",
-              "view": "assets/views/386dfaa51bbe2400.webp",
-              "thumb": "assets/previews/386dfaa51bbe2400.webp",
-              "sha256": "5107af082c3c2a376c9fba823d790607e261f4f537d5d0fb83c50b413dde6367",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 09",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/bb3dcf2d909d53fb.webp",
-              "view": "assets/views/bb3dcf2d909d53fb.webp",
-              "thumb": "assets/previews/bb3dcf2d909d53fb.webp",
-              "sha256": "85a53e0e01d075c1fd58205374c738c674460cba0b76cf402a3f5f3f80248f15",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 10",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/a2b2cf74af5c948f.webp",
-              "view": "assets/views/a2b2cf74af5c948f.webp",
-              "thumb": "assets/previews/a2b2cf74af5c948f.webp",
-              "sha256": "f6556320099e8c87aaea91b40e4688c9793bb5f18f186665db83a3261de287ac",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 11",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/fddc8a5df9f30109.webp",
-              "view": "assets/views/fddc8a5df9f30109.webp",
-              "thumb": "assets/previews/fddc8a5df9f30109.webp",
-              "sha256": "d694e536e8602d43f69c823e225dcc31ff685f7bddce2b2a398adeb35ee46eea",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 12",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/9b8827685dfb2df7.webp",
-              "view": "assets/views/9b8827685dfb2df7.webp",
-              "thumb": "assets/previews/9b8827685dfb2df7.webp",
-              "sha256": "ed85027f31aa074bd3452a571849c36acc65b7d68488281725f5a1fb148cfb39",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 13",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/3bd2c5acb9346575.webp",
-              "view": "assets/views/3bd2c5acb9346575.webp",
-              "thumb": "assets/previews/3bd2c5acb9346575.webp",
-              "sha256": "9c67aa37eee4275a115fb11c9ccac7ede409e13ade056c588809472f6060d5c9",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 14",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/46ea56acf208689a.webp",
-              "view": "assets/views/46ea56acf208689a.webp",
-              "thumb": "assets/previews/46ea56acf208689a.webp",
-              "sha256": "75ce874f69aa5b3a45320d7c6fe04405e2b5c3d568254bf8be8ffec159a1f919",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 15",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/1aa89294532817a1.webp",
-              "view": "assets/views/1aa89294532817a1.webp",
-              "thumb": "assets/previews/1aa89294532817a1.webp",
-              "sha256": "7bc5744b52e17e86cbcf9c081602a06c3bedb09ef1b819cc1c483356c4ed062f",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 16",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/6940ae6c0e346dcc.webp",
-              "view": "assets/views/6940ae6c0e346dcc.webp",
-              "thumb": "assets/previews/6940ae6c0e346dcc.webp",
-              "sha256": "0e009b25c581b856cdc6d54442dbda2b960ff360731370340b0940291da225d7",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 17",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/5466210655e6738c.webp",
-              "view": "assets/views/5466210655e6738c.webp",
-              "thumb": "assets/previews/5466210655e6738c.webp",
-              "sha256": "7d7f011c34c8eb8c91e29a4481447f128fd4da2eebd6eade79c91fd17754f47d",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 18",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/3a725fe0e0eaedd6.webp",
-              "view": "assets/views/3a725fe0e0eaedd6.webp",
-              "thumb": "assets/previews/3a725fe0e0eaedd6.webp",
-              "sha256": "0661d9bfdb2a040961065cc54f570f3474e7468528fed77fdb810e4de5a159b7",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 19",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/24fd0f0988a97814.webp",
-              "view": "assets/views/24fd0f0988a97814.webp",
-              "thumb": "assets/previews/24fd0f0988a97814.webp",
-              "sha256": "9d0bd9b75ea7ef006efdbac99d59ddfe4a960088d84def0f5e84a8545148be5a",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 20",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/7e2978aa0dfcf56c.webp",
-              "view": "assets/views/7e2978aa0dfcf56c.webp",
-              "thumb": "assets/previews/7e2978aa0dfcf56c.webp",
-              "sha256": "dbe25c6087144d4c0ad0159e8eb36cb36b12e4a4791d4fa32853a2f71e4e894a",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 21",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/8709ef3bfba1e235.webp",
-              "view": "assets/views/8709ef3bfba1e235.webp",
-              "thumb": "assets/previews/8709ef3bfba1e235.webp",
-              "sha256": "de37a73399d55fa8e39511fbccab17aa7615d9fac2f1a8de9510df5cc9d310dd",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 22",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/2383ee864838cc53.webp",
-              "view": "assets/views/2383ee864838cc53.webp",
-              "thumb": "assets/previews/2383ee864838cc53.webp",
-              "sha256": "6643deb05c06c7a03de60a1e330e83bb4bc2a4c16339241ea223969dfe919b2f",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 23",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/d4a66af5896a524f.webp",
-              "view": "assets/views/d4a66af5896a524f.webp",
-              "thumb": "assets/previews/d4a66af5896a524f.webp",
-              "sha256": "4c5f200e3ec65cf3256bfab9d9d7e4f4d2b93f95e7acaa21ab481cd0258fb2b7",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 24",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/ed81484af273a0c4.webp",
-              "view": "assets/views/ed81484af273a0c4.webp",
-              "thumb": "assets/previews/ed81484af273a0c4.webp",
-              "sha256": "e04d1b7af1d3a61a7b05addb848048be41b1f96de65beb2e221878b1dbb19f8e",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 25",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/bd260df67cb4c6e3.webp",
-              "view": "assets/views/bd260df67cb4c6e3.webp",
-              "thumb": "assets/previews/bd260df67cb4c6e3.webp",
-              "sha256": "f7d9ae0af63d56a3a63fb8a1dd0e75bd1ad4704c50c32a679318ffa5956b30ad",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 26",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/fddf947f386cc89b.webp",
-              "view": "assets/views/fddf947f386cc89b.webp",
-              "thumb": "assets/previews/fddf947f386cc89b.webp",
-              "sha256": "89ce9aa9b9436e5a9f689dab68275a7fa4142a7358e3f385d500d33c5a7c21b2",
-              "w": 960,
-              "h": 540
-            },
-            {
-              "title": "Board 27",
-              "status": "current",
-              "shape": "wide",
-              "src": "assets/views/7bad017634134819.webp",
-              "view": "assets/views/7bad017634134819.webp",
-              "thumb": "assets/previews/7bad017634134819.webp",
-              "sha256": "6e4cf29e8ef0754e4a9a2688d4977b084847fb40878b6a229b9d7281a245b356",
-              "w": 960,
-              "h": 540
-            }
-          ]
-        }
-      ],
-      "links": [
-        {
-          "label": "View study",
-          "path": "reviews/n38.html"
-        },
-        {
-          "label": "Download review PDF",
-          "path": "downloads/cookt-n38-review-v001.pdf"
         }
       ]
     },
@@ -8560,6 +8529,421 @@
       ]
     },
     {
+      "id": "n40",
+      "section": "earlier",
+      "date": "9 Oct",
+      "title": "Echo · expanded application draft",
+      "status": "superseded",
+      "kinds": [
+        "pack",
+        "logo",
+        "illustration",
+        "decks"
+      ],
+      "code": "Echo · v010",
+      "note": "34-board working draft with three brand worlds, sticker tiers, shippers, table graphics and newspaper. Not yet reconciled with the current creative record; no selection inferred.",
+      "rows": [
+        {
+          "label": "Presentation",
+          "status": "superseded",
+          "note": "",
+          "link": null,
+          "kinds": [
+            "decks",
+            "logo",
+            "illustration",
+            "pack"
+          ],
+          "items": [
+            {
+              "title": "Board 01",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/12bb6a1dddf09ac5.webp",
+              "view": "assets/views/12bb6a1dddf09ac5.webp",
+              "thumb": "assets/previews/12bb6a1dddf09ac5.webp",
+              "sha256": "c4ee35e9e24ca79c8d598abfdbd46b11bdebfbd345f4b0cc2c2a0c6445c89cdf",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 02",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/015dae893c6ae15e.webp",
+              "view": "assets/views/015dae893c6ae15e.webp",
+              "thumb": "assets/previews/015dae893c6ae15e.webp",
+              "sha256": "bf3d1a4a52578c1c745d21bcae5c57951d953bd2673bc5b9fff5aa11e620e6ea",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 03",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/3cc220a0299b216c.webp",
+              "view": "assets/views/3cc220a0299b216c.webp",
+              "thumb": "assets/previews/3cc220a0299b216c.webp",
+              "sha256": "32a001656c2d52d873155943fb63f782faab43422280eef18c7ead9169e729f4",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 04",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/1995b8b8c2f844e5.webp",
+              "view": "assets/views/1995b8b8c2f844e5.webp",
+              "thumb": "assets/previews/1995b8b8c2f844e5.webp",
+              "sha256": "84b4db5098cd30d371c95907183eaf5c6f4f29a6daf46a175a205f3ceb0ca6fe",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 05",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/66752b23edecf2ba.webp",
+              "view": "assets/views/66752b23edecf2ba.webp",
+              "thumb": "assets/previews/66752b23edecf2ba.webp",
+              "sha256": "fb38287302a92801fc1ecfc5e7743ac4b4cad24dea9797f8b707845e455fab82",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 06",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/57d3e0fa35defe37.webp",
+              "view": "assets/views/57d3e0fa35defe37.webp",
+              "thumb": "assets/previews/57d3e0fa35defe37.webp",
+              "sha256": "56db98a2d3ed8ed32efc69f2e2f56d77eca92ad65f46cd752e9956490f753f07",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 07",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/4ed4f0effdd8ca25.webp",
+              "view": "assets/views/4ed4f0effdd8ca25.webp",
+              "thumb": "assets/previews/4ed4f0effdd8ca25.webp",
+              "sha256": "5491bdb60c3d7413c90bd8a950e314af8cb5e5f78337d5baca3f884f3684ad4e",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 08",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/631cc2575138ea43.webp",
+              "view": "assets/views/631cc2575138ea43.webp",
+              "thumb": "assets/previews/631cc2575138ea43.webp",
+              "sha256": "3ac164dcc84a848b96183185bdc305644630574d99fe3cce20ed40a12aef6423",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 09",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/82bc66f9d9933ec6.webp",
+              "view": "assets/views/82bc66f9d9933ec6.webp",
+              "thumb": "assets/previews/82bc66f9d9933ec6.webp",
+              "sha256": "1c292745e01b8f8f894b8550fe42e3a4f02c68ba01ae12288899ab20c35950c9",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 10",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/888fd5c555efedf7.webp",
+              "view": "assets/views/888fd5c555efedf7.webp",
+              "thumb": "assets/previews/888fd5c555efedf7.webp",
+              "sha256": "35c2031532ed35afdeb0f4e69550a9ddd084bb0d73dff16965b85a46dd8cdb94",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 11",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/5eef5d712051da57.webp",
+              "view": "assets/views/5eef5d712051da57.webp",
+              "thumb": "assets/previews/5eef5d712051da57.webp",
+              "sha256": "95944dc3c746f00d1c7b32a17ae9b924564b36ad39c0acb4506c97235b2f8897",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 12",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/4917b60b9b673435.webp",
+              "view": "assets/views/4917b60b9b673435.webp",
+              "thumb": "assets/previews/4917b60b9b673435.webp",
+              "sha256": "a693d4d8ec3867dac8ae52d46efc23b407cb4aff365e22848a334f7e226c00d9",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 13",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/8f05861b403b449f.webp",
+              "view": "assets/views/8f05861b403b449f.webp",
+              "thumb": "assets/previews/8f05861b403b449f.webp",
+              "sha256": "72a37227f022936eeb46359737210458c0545ca1910c3c559ae2ed2537f5e305",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 14",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/c2f78acac8951ae2.webp",
+              "view": "assets/views/c2f78acac8951ae2.webp",
+              "thumb": "assets/previews/c2f78acac8951ae2.webp",
+              "sha256": "e95efdabee9099d4abeabade843851e473a0f363f77e1fe6927d9e6d2329fdbe",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 15",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/75f855886c609dec.webp",
+              "view": "assets/views/75f855886c609dec.webp",
+              "thumb": "assets/previews/75f855886c609dec.webp",
+              "sha256": "c09fea93b63e68e1a7eb47b39d517706f02daf752d5661dc242f18728d9a7db2",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 16",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/1bc03db4b40554bd.webp",
+              "view": "assets/views/1bc03db4b40554bd.webp",
+              "thumb": "assets/previews/1bc03db4b40554bd.webp",
+              "sha256": "5d1629493c844e04ccdfc28d0c5052d913005c70d659762fbec3770f2cc42f2b",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 17",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/5a66b9c31b56a110.webp",
+              "view": "assets/views/5a66b9c31b56a110.webp",
+              "thumb": "assets/previews/5a66b9c31b56a110.webp",
+              "sha256": "fb9422fbe0700784da4dcb76e9ab9931333e6d1b6872d47fe44a8d9d2e477607",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 18",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/51a6356646238f35.webp",
+              "view": "assets/views/51a6356646238f35.webp",
+              "thumb": "assets/previews/51a6356646238f35.webp",
+              "sha256": "94f0d7614d89c0d7db9616c7c705db75a9fa4569dfd950869e75d826901b89b7",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 19",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/dd03aa0d86fd8bec.webp",
+              "view": "assets/views/dd03aa0d86fd8bec.webp",
+              "thumb": "assets/previews/dd03aa0d86fd8bec.webp",
+              "sha256": "05fe3fad7171382bf575b2de98884e132058cd28b90d6c45bb59527d5afda7ae",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 20",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/fdd1d827d1a55e82.webp",
+              "view": "assets/views/fdd1d827d1a55e82.webp",
+              "thumb": "assets/previews/fdd1d827d1a55e82.webp",
+              "sha256": "eaa274e4de43978d3670ff350fab1b2e44967100863d5ca870ff1d2e33a0de58",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 21",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/a395114f2f3e9c83.webp",
+              "view": "assets/views/a395114f2f3e9c83.webp",
+              "thumb": "assets/previews/a395114f2f3e9c83.webp",
+              "sha256": "42e640a542f129bb20542b4a7346dfcc09edf789225eb7604c3c8935e9b931fc",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 22",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/062f39766907e99f.webp",
+              "view": "assets/views/062f39766907e99f.webp",
+              "thumb": "assets/previews/062f39766907e99f.webp",
+              "sha256": "55bec575efb8e2f043c92561c46159ee098e0cec51d9121285c439565f7bec33",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 23",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/360411984026c0a1.webp",
+              "view": "assets/views/360411984026c0a1.webp",
+              "thumb": "assets/previews/360411984026c0a1.webp",
+              "sha256": "1e2c292cd61c5021a9d1a9f4e85b670200b1e122090ded5284ccce6b896ffc46",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 24",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/a9e10a2e7cb7a659.webp",
+              "view": "assets/views/a9e10a2e7cb7a659.webp",
+              "thumb": "assets/previews/a9e10a2e7cb7a659.webp",
+              "sha256": "48d0eca355666a2ad910dc70d06456595875aeaa28a0bd213bf3a3caf004c7d5",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 25",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/33ed9a336dcff106.webp",
+              "view": "assets/views/33ed9a336dcff106.webp",
+              "thumb": "assets/previews/33ed9a336dcff106.webp",
+              "sha256": "c836d840698abf525f058b909994b516dbe0fbb440e0464ada977304038958f2",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 26",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/1480355dc17ab2d6.webp",
+              "view": "assets/views/1480355dc17ab2d6.webp",
+              "thumb": "assets/previews/1480355dc17ab2d6.webp",
+              "sha256": "72351b378fe768c1679156aba40566389abf0a616cb0e06e6faf4a3e07bc190f",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 27",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/6946133c1208319f.webp",
+              "view": "assets/views/6946133c1208319f.webp",
+              "thumb": "assets/previews/6946133c1208319f.webp",
+              "sha256": "4b19346efa683cfc6480a1fbd397a596bcaf01a0d82eb701629b73439a184bd5",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 28",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/0a3c6887287e60c3.webp",
+              "view": "assets/views/0a3c6887287e60c3.webp",
+              "thumb": "assets/previews/0a3c6887287e60c3.webp",
+              "sha256": "dc519c3ea5719205dbbe1282e4550db8d319a38212d4175565f4c203bbfe87e5",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 29",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/41fa2b82f3fd832b.webp",
+              "view": "assets/views/41fa2b82f3fd832b.webp",
+              "thumb": "assets/previews/41fa2b82f3fd832b.webp",
+              "sha256": "8c4716e00428533893ceae1076f4ac12dc3e7fddc7077df0dadf6d751d42b2cc",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 30",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/c6d4b5c8018d0b58.webp",
+              "view": "assets/views/c6d4b5c8018d0b58.webp",
+              "thumb": "assets/previews/c6d4b5c8018d0b58.webp",
+              "sha256": "fa3f888e098401067c7a8778af21f0dff0caca8bc394854fdc7274f120b67405",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 31",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/972598c6c1b90a1e.webp",
+              "view": "assets/views/972598c6c1b90a1e.webp",
+              "thumb": "assets/previews/972598c6c1b90a1e.webp",
+              "sha256": "b8173b5a2eb8106a4f57fd3467b288b51067c7b93d681102bfb93277697203ba",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 32",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/282eb864b524e952.webp",
+              "view": "assets/views/282eb864b524e952.webp",
+              "thumb": "assets/previews/282eb864b524e952.webp",
+              "sha256": "290b0f6c6d4c6ebd9a2309e0a98c6fb31b46805404c602568b03cf382fa3d00f",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 33",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/25632186d86f3c49.webp",
+              "view": "assets/views/25632186d86f3c49.webp",
+              "thumb": "assets/previews/25632186d86f3c49.webp",
+              "sha256": "67eee3a2f612f7f60fb83a38b3bbfed13d954a382d1c19f898814ebb4ef757ea",
+              "w": 1920,
+              "h": 1080
+            },
+            {
+              "title": "Board 34",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/8a5c6fde51eae67b.webp",
+              "view": "assets/views/8a5c6fde51eae67b.webp",
+              "thumb": "assets/previews/8a5c6fde51eae67b.webp",
+              "sha256": "b78ba1de340371b9e8ec2cfca8267cb5e070104a3d7c2843db85291cb66f04a7",
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "View study",
+          "path": "reviews/n40.html"
+        },
+        {
+          "label": "Download review PDF",
+          "path": "downloads/cookt-n40-review-v001.pdf"
+        }
+      ]
+    },
+    {
       "id": "h20",
       "section": "earlier",
       "date": "9 Oct",
@@ -9682,6 +10066,425 @@
         {
           "label": "Download review PDF",
           "path": "downloads/cookt-h23-review-v001.pdf"
+        }
+      ]
+    },
+    {
+      "id": "n38",
+      "section": "earlier",
+      "date": "6 Oct",
+      "title": "Echo · three brand worlds",
+      "status": "superseded",
+      "kinds": [
+        "pack",
+        "logo",
+        "illustration",
+        "decks"
+      ],
+      "code": "Echo · v005",
+      "note": "27-board comparison: Tableware, Market Cut and Pantry Labels. Component refinements are separate; no whole system or production artwork approved.",
+      "rows": [
+        {
+          "label": "Presentation",
+          "status": "superseded",
+          "note": "",
+          "link": null,
+          "kinds": [
+            "decks",
+            "logo",
+            "illustration",
+            "pack"
+          ],
+          "items": [
+            {
+              "title": "Board 01",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/a22f144aed41f916.webp",
+              "view": "assets/views/a22f144aed41f916.webp",
+              "thumb": "assets/previews/a22f144aed41f916.webp",
+              "sha256": "027f05678fc640602dec0e5a82e53137bf65a986c41ca68540ed714b3caaaa0b",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 02",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/f971c1e4381a194d.webp",
+              "view": "assets/views/f971c1e4381a194d.webp",
+              "thumb": "assets/previews/f971c1e4381a194d.webp",
+              "sha256": "4f92fa8855c01758e93cd6999c1e14786b15973ed4f992602f974131ce7433e1",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 03",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/ab068ef77993fcca.webp",
+              "view": "assets/views/ab068ef77993fcca.webp",
+              "thumb": "assets/previews/ab068ef77993fcca.webp",
+              "sha256": "45f8fa4b792f32417653bdd286bdb667251107b13237c5d240bfbab997bcb9f3",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 04",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/aefc8ab9cc93b55d.webp",
+              "view": "assets/views/aefc8ab9cc93b55d.webp",
+              "thumb": "assets/previews/aefc8ab9cc93b55d.webp",
+              "sha256": "1248cb162b7f7a9010aea518b890c6af4e586aba319d1e2d15a852556073eec5",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 05",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/c4a96b5f4ddf11a5.webp",
+              "view": "assets/views/c4a96b5f4ddf11a5.webp",
+              "thumb": "assets/previews/c4a96b5f4ddf11a5.webp",
+              "sha256": "e0def55f66b2012ac2402ef6611c28279b6d407a9a45caf0e7b3650cf8edfcce",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 06",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/26424e905bb503f7.webp",
+              "view": "assets/views/26424e905bb503f7.webp",
+              "thumb": "assets/previews/26424e905bb503f7.webp",
+              "sha256": "98d400748b3cb50f8c983bd7542a77c9e138de1836c3f3a17ec217d0f099cd6c",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 07",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/39ad8a3cabd558af.webp",
+              "view": "assets/views/39ad8a3cabd558af.webp",
+              "thumb": "assets/previews/39ad8a3cabd558af.webp",
+              "sha256": "0c42ba894ba136d7b1458ff563b99f335fcbe70def0a29f20f3cfb1e33185efa",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 08",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/386dfaa51bbe2400.webp",
+              "view": "assets/views/386dfaa51bbe2400.webp",
+              "thumb": "assets/previews/386dfaa51bbe2400.webp",
+              "sha256": "5107af082c3c2a376c9fba823d790607e261f4f537d5d0fb83c50b413dde6367",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 09",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/bb3dcf2d909d53fb.webp",
+              "view": "assets/views/bb3dcf2d909d53fb.webp",
+              "thumb": "assets/previews/bb3dcf2d909d53fb.webp",
+              "sha256": "85a53e0e01d075c1fd58205374c738c674460cba0b76cf402a3f5f3f80248f15",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 10",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/a2b2cf74af5c948f.webp",
+              "view": "assets/views/a2b2cf74af5c948f.webp",
+              "thumb": "assets/previews/a2b2cf74af5c948f.webp",
+              "sha256": "f6556320099e8c87aaea91b40e4688c9793bb5f18f186665db83a3261de287ac",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 11",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/fddc8a5df9f30109.webp",
+              "view": "assets/views/fddc8a5df9f30109.webp",
+              "thumb": "assets/previews/fddc8a5df9f30109.webp",
+              "sha256": "d694e536e8602d43f69c823e225dcc31ff685f7bddce2b2a398adeb35ee46eea",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 12",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/9b8827685dfb2df7.webp",
+              "view": "assets/views/9b8827685dfb2df7.webp",
+              "thumb": "assets/previews/9b8827685dfb2df7.webp",
+              "sha256": "ed85027f31aa074bd3452a571849c36acc65b7d68488281725f5a1fb148cfb39",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 13",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/3bd2c5acb9346575.webp",
+              "view": "assets/views/3bd2c5acb9346575.webp",
+              "thumb": "assets/previews/3bd2c5acb9346575.webp",
+              "sha256": "9c67aa37eee4275a115fb11c9ccac7ede409e13ade056c588809472f6060d5c9",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 14",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/46ea56acf208689a.webp",
+              "view": "assets/views/46ea56acf208689a.webp",
+              "thumb": "assets/previews/46ea56acf208689a.webp",
+              "sha256": "75ce874f69aa5b3a45320d7c6fe04405e2b5c3d568254bf8be8ffec159a1f919",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 15",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/1aa89294532817a1.webp",
+              "view": "assets/views/1aa89294532817a1.webp",
+              "thumb": "assets/previews/1aa89294532817a1.webp",
+              "sha256": "7bc5744b52e17e86cbcf9c081602a06c3bedb09ef1b819cc1c483356c4ed062f",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 16",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/6940ae6c0e346dcc.webp",
+              "view": "assets/views/6940ae6c0e346dcc.webp",
+              "thumb": "assets/previews/6940ae6c0e346dcc.webp",
+              "sha256": "0e009b25c581b856cdc6d54442dbda2b960ff360731370340b0940291da225d7",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 17",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/5466210655e6738c.webp",
+              "view": "assets/views/5466210655e6738c.webp",
+              "thumb": "assets/previews/5466210655e6738c.webp",
+              "sha256": "7d7f011c34c8eb8c91e29a4481447f128fd4da2eebd6eade79c91fd17754f47d",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 18",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/3a725fe0e0eaedd6.webp",
+              "view": "assets/views/3a725fe0e0eaedd6.webp",
+              "thumb": "assets/previews/3a725fe0e0eaedd6.webp",
+              "sha256": "0661d9bfdb2a040961065cc54f570f3474e7468528fed77fdb810e4de5a159b7",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 19",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/24fd0f0988a97814.webp",
+              "view": "assets/views/24fd0f0988a97814.webp",
+              "thumb": "assets/previews/24fd0f0988a97814.webp",
+              "sha256": "9d0bd9b75ea7ef006efdbac99d59ddfe4a960088d84def0f5e84a8545148be5a",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 20",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/7e2978aa0dfcf56c.webp",
+              "view": "assets/views/7e2978aa0dfcf56c.webp",
+              "thumb": "assets/previews/7e2978aa0dfcf56c.webp",
+              "sha256": "dbe25c6087144d4c0ad0159e8eb36cb36b12e4a4791d4fa32853a2f71e4e894a",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 21",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/8709ef3bfba1e235.webp",
+              "view": "assets/views/8709ef3bfba1e235.webp",
+              "thumb": "assets/previews/8709ef3bfba1e235.webp",
+              "sha256": "de37a73399d55fa8e39511fbccab17aa7615d9fac2f1a8de9510df5cc9d310dd",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 22",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/2383ee864838cc53.webp",
+              "view": "assets/views/2383ee864838cc53.webp",
+              "thumb": "assets/previews/2383ee864838cc53.webp",
+              "sha256": "6643deb05c06c7a03de60a1e330e83bb4bc2a4c16339241ea223969dfe919b2f",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 23",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/d4a66af5896a524f.webp",
+              "view": "assets/views/d4a66af5896a524f.webp",
+              "thumb": "assets/previews/d4a66af5896a524f.webp",
+              "sha256": "4c5f200e3ec65cf3256bfab9d9d7e4f4d2b93f95e7acaa21ab481cd0258fb2b7",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 24",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/ed81484af273a0c4.webp",
+              "view": "assets/views/ed81484af273a0c4.webp",
+              "thumb": "assets/previews/ed81484af273a0c4.webp",
+              "sha256": "e04d1b7af1d3a61a7b05addb848048be41b1f96de65beb2e221878b1dbb19f8e",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 25",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/bd260df67cb4c6e3.webp",
+              "view": "assets/views/bd260df67cb4c6e3.webp",
+              "thumb": "assets/previews/bd260df67cb4c6e3.webp",
+              "sha256": "f7d9ae0af63d56a3a63fb8a1dd0e75bd1ad4704c50c32a679318ffa5956b30ad",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 26",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/fddf947f386cc89b.webp",
+              "view": "assets/views/fddf947f386cc89b.webp",
+              "thumb": "assets/previews/fddf947f386cc89b.webp",
+              "sha256": "89ce9aa9b9436e5a9f689dab68275a7fa4142a7358e3f385d500d33c5a7c21b2",
+              "w": 960,
+              "h": 540
+            },
+            {
+              "title": "Board 27",
+              "status": "superseded",
+              "shape": "wide",
+              "src": "assets/views/7bad017634134819.webp",
+              "view": "assets/views/7bad017634134819.webp",
+              "thumb": "assets/previews/7bad017634134819.webp",
+              "sha256": "6e4cf29e8ef0754e4a9a2688d4977b084847fb40878b6a229b9d7281a245b356",
+              "w": 960,
+              "h": 540
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "View study",
+          "path": "reviews/n38.html"
+        },
+        {
+          "label": "Download review PDF",
+          "path": "downloads/cookt-n38-review-v001.pdf"
+        }
+      ]
+    },
+    {
+      "id": "c13",
+      "section": "earlier",
+      "date": "6 Oct",
+      "title": "Seasonal newspaper wrap, first drafts",
+      "status": "draft",
+      "kinds": [
+        "apps",
+        "illustration"
+      ],
+      "code": "Newspaper · v001",
+      "note": "Fall, winter and spring drafts, not presented. Echo v011 carries the Second Helping issue and wrap.",
+      "rows": [
+        {
+          "label": "Drafts",
+          "status": "draft",
+          "note": "",
+          "link": null,
+          "kinds": [
+            "apps",
+            "illustration"
+          ],
+          "items": [
+            {
+              "title": "Fall · outside",
+              "status": "draft",
+              "shape": "tall",
+              "src": "assets/views/02f982031f77b45f.webp",
+              "view": "assets/views/02f982031f77b45f.webp",
+              "thumb": "assets/previews/02f982031f77b45f.webp",
+              "sha256": "76d0ffa8806e4219e1270bb49b5aa861c1b60503aeb2a239f9f77dff94e12881",
+              "w": 1715,
+              "h": 2400
+            },
+            {
+              "title": "Fall · inside",
+              "status": "draft",
+              "shape": "tall",
+              "src": "assets/views/3c564ae6e7b9ae50.webp",
+              "view": "assets/views/3c564ae6e7b9ae50.webp",
+              "thumb": "assets/previews/3c564ae6e7b9ae50.webp",
+              "sha256": "93ed94f411d7ef132cff425238a3ef0c8b7122a05233787675fe51d681783d80",
+              "w": 1715,
+              "h": 2400
+            },
+            {
+              "title": "Winter",
+              "status": "draft",
+              "shape": "tall",
+              "src": "assets/views/700c1d5a3a6b2680.webp",
+              "view": "assets/views/700c1d5a3a6b2680.webp",
+              "thumb": "assets/previews/700c1d5a3a6b2680.webp",
+              "sha256": "11a4f5d2f7e90f79cf25affe2fc6359608e4503b23049bcf3f482b423b77c25a",
+              "w": 786,
+              "h": 1100
+            },
+            {
+              "title": "Spring",
+              "status": "draft",
+              "shape": "tall",
+              "src": "assets/views/cad548c67350b11e.webp",
+              "view": "assets/views/cad548c67350b11e.webp",
+              "thumb": "assets/previews/cad548c67350b11e.webp",
+              "sha256": "451e2edd5f895fd1091c39d8687c64803989f7ec80e3543d88ffbcbb5acc66d8",
+              "w": 786,
+              "h": 1100
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "View study",
+          "path": "reviews/c13.html"
+        },
+        {
+          "label": "Download review PDF",
+          "path": "downloads/cookt-c13-review-v001.pdf"
         }
       ]
     },
@@ -17455,6 +18258,16 @@
     },
     {
       "date": "9 Oct",
+      "event": "Echo v011: 40 boards, 18 stickers and the Second Helping issue. Echo v010 and v005 superseded.",
+      "sources": [],
+      "groups": [
+        "c04",
+        "n40",
+        "n38"
+      ]
+    },
+    {
+      "date": "9 Oct",
       "event": "R04 v003: a 19-slide wordmark review of Revised Concept 3, Echo and Concept 6 on shared applications.",
       "sources": [],
       "groups": [
@@ -17472,7 +18285,7 @@
     }
   ],
   "counts": {
-    "groups": 74,
-    "items": 1190
+    "groups": 75,
+    "items": 1255
   }
 }
