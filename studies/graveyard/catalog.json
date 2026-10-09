@@ -1,0 +1,61 @@
+{
+  "schema": "cookt.public-studies/2",
+  "built": "2026-10-09",
+  "statusVocabulary": {
+    "draft": {
+      "label": "Draft",
+      "meaning": "Unfinished source study; not ready for review."
+    },
+    "current": {
+      "label": "In review",
+      "meaning": "Current creative study; no selection or production approval implied."
+    },
+    "selected": {
+      "label": "Selected direction",
+      "meaning": "Chosen in review or recorded as a decision."
+    },
+    "supplied": {
+      "label": "Supplied",
+      "meaning": "File from the client side, unchanged."
+    },
+    "proposed": {
+      "label": "Proposed",
+      "meaning": "Outside the brand record; not yet reviewed."
+    },
+    "superseded": {
+      "label": "Superseded",
+      "meaning": "Replaced by a later version."
+    },
+    "rejected": {
+      "label": "Rejected",
+      "meaning": "Turned down. Kept as evidence."
+    },
+    "record": {
+      "label": "Record",
+      "meaning": "Capture of a deck, page or proof."
+    }
+  },
+  "kinds": {
+    "pack": "Retail packs",
+    "dtc": "DTC sleeves",
+    "photo": "Photography",
+    "logo": "Logo & type",
+    "apps": "Web & email",
+    "programs": "Programs",
+    "illustration": "Illustration",
+    "color": "Color",
+    "decks": "Decks & sites"
+  },
+  "version": "1.5.0",
+  "record": {
+    "version": "0.51.0",
+    "updated": "9 October 2026"
+  },
+  "scope": "COOKT / Graveyard",
+  "groups": [],
+  "timeline": [],
+  "counts": {
+    "groups": 0,
+    "items": 0
+  }
+}

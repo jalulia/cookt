@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "record": "0.50.0",
+  "version": "1.5.0",
+  "record": "0.51.0",
   "date": "2026-10-09",
   "edition": "Rendered design review",
   "counts": {
@@ -12560,8 +12560,13 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "a741f6f9c820c60f6f816866eaebd7ce5f00b93272ccb95e6859f45acf5f0352",
-      "bytes": 682551
+      "sha256": "291bf3bfeef1d889133ef585acdda12767fb9ccdf2806230ff64b0e3411bed28",
+      "bytes": 682662
+    },
+    {
+      "path": "curation.json",
+      "sha256": "d4d3a99a6087b818a88aa2d1bf12222abf29ce67abdb0544fff30805ee6731c3",
+      "bytes": 60
     },
     {
       "path": "downloads/cookt-c01-review-v001.pdf",
@@ -12580,8 +12585,8 @@
     },
     {
       "path": "downloads/cookt-c04-review-v001.pdf",
-      "sha256": "8c1b1b0ccd72e4b66613ae0497f99e18364c8b89a47cab1606f6ec31ca42e255",
-      "bytes": 14346269
+      "sha256": "22c7f1a3a591a4a4aa2e2200ba1675af108967f034fa8750eaeb94bee2aa19ce",
+      "bytes": 14346035
     },
     {
       "path": "downloads/cookt-c05-review-v001.pdf",
@@ -12939,389 +12944,434 @@
       "bytes": 1451502
     },
     {
+      "path": "graveyard/catalog.json",
+      "sha256": "572ccd3b5979b0bae00fe811d765de57b6e8a50ccb0d70073b9f3a2a5c02ab32",
+      "bytes": 1486
+    },
+    {
+      "path": "graveyard/index.html",
+      "sha256": "2fb40c5ce5b0d5ace38cca6ca571a369bf31d6279e2d521e476602a98bf9173f",
+      "bytes": 19777
+    },
+    {
       "path": "index.html",
-      "sha256": "ea635ff7ab97fbe9ef4bb634eb429cb5b90519676cee04671a4302b2269660e0",
-      "bytes": 470973
+      "sha256": "0dc78dd63cfdc971a7215dc7d82b013e6b138157394920aca6852e6d4772e1e8",
+      "bytes": 471406
     },
     {
       "path": "reviews/c01.html",
-      "sha256": "dc47eee6d3b1f581494f5e17dc6d8857647a8bf9fc7278622d75a31f9d67e08a",
-      "bytes": 9729
+      "sha256": "0954676c1f7ff0585dbc22cdbc601ae078f4611b664e801a0ea0523f89ed1c44",
+      "bytes": 9784
     },
     {
       "path": "reviews/c02.html",
-      "sha256": "e57b5427e6b897de3347337734c826e24b84790344807aa6b6ec495c3a9684a0",
-      "bytes": 9501
+      "sha256": "f495f806b091157aad3f6adc8af23bd02be501450efb42c2e1fa17b86e229f15",
+      "bytes": 9556
     },
     {
       "path": "reviews/c03.html",
-      "sha256": "30bed9afdd8f826c62444b1589999ed69f6e42b1f60d5885265a2b5a1dee184e",
-      "bytes": 9620
+      "sha256": "6a51384611d356e0c9fdfae072d1f1aa389ec6bcb51ffb016431b4863dee278e",
+      "bytes": 9675
     },
     {
       "path": "reviews/c04.html",
-      "sha256": "dbdfe3bb4dce4dd7274b29c1fbcc72121503c39df613af3b60ada055202e5b6d",
-      "bytes": 23563
+      "sha256": "4d83af48ecabafa78cd9595afe670dfaf8ff59d1164f268348f3b28fdecf682f",
+      "bytes": 23734
     },
     {
       "path": "reviews/c05.html",
-      "sha256": "85e08afcf42e140d10dee2fd182aae7eca4e9ad23491bfdebe109ecf6d9b6cb6",
-      "bytes": 7364
+      "sha256": "ea5758bcec82f3be3277b048b4aaeb86740412c93cb918e81b12219820e905df",
+      "bytes": 7419
     },
     {
       "path": "reviews/c06.html",
-      "sha256": "74264991c0e3372d4c9756aa6f08f914f8368f9d318ce1c18904c1ba3483a027",
-      "bytes": 7759
+      "sha256": "a4e39f85e29f28a8356595c1f7246bec615bb462dd8d9674e1648d9706c2d78e",
+      "bytes": 7814
     },
     {
       "path": "reviews/c08.html",
-      "sha256": "39518bc28edf9218f49012d532d264cec1d5b18cbe9618a0e7635283b33d6613",
-      "bytes": 6156
+      "sha256": "cebf9bd1fd0803045075e76d86fbac01ec25914b08a4661d5058ed3ca34047e5",
+      "bytes": 6211
     },
     {
       "path": "reviews/c09.html",
-      "sha256": "ceac3d0d41665d3cb3d6fb8390e9386ee0293b67f668030aa27dabab3314ad2c",
-      "bytes": 5531
+      "sha256": "224e79b461d3e4fbc10e7becfacff6cd99fbe2d03a4d84ebc9317381b75f7d67",
+      "bytes": 5586
     },
     {
       "path": "reviews/c10.html",
-      "sha256": "316b238c860a0404083cad4e2ad72064da512cdf6252c8ba1828510aaa969bcc",
-      "bytes": 12592
+      "sha256": "7671cc9d6da8b67f50e641f2f1b8d0eb6e8ee29453c8b5305a91b32666176be5",
+      "bytes": 12647
     },
     {
       "path": "reviews/c11.html",
-      "sha256": "7aa36680d4df2a0781c28edacfd829a7b48ba0bcb348b513471f22771ddbb92f",
-      "bytes": 6099
+      "sha256": "75334d1f0bfec30dc788ab5eeb7fa50ca21bdcf585dac8eff3929192cd99aaeb",
+      "bytes": 6154
     },
     {
       "path": "reviews/c12.html",
-      "sha256": "b12e41c76f24946c70bae8e5698443df39fa3cfea54fa4d4adc5845fa95547df",
-      "bytes": 4639
+      "sha256": "76765b7702bc4f1a07d505bb8bbfb7972e852afd297b4bef6701ffe53f0c694a",
+      "bytes": 4694
     },
     {
       "path": "reviews/c13.html",
-      "sha256": "e57933c5bdedea7727b7ab4a8a4b4e72bd5cd13ec1ddf635b40e38d0502a0d13",
-      "bytes": 4931
+      "sha256": "80a2c4fa4d0d5b5e41e8a827f9a53d57933c44f022c56a730f601a4495fa66a2",
+      "bytes": 4986
     },
     {
       "path": "reviews/c14.html",
-      "sha256": "e765aa50d74c57eb0bec970bea57402c162e9c99eaa92bd81d4db7f01b1797f0",
-      "bytes": 9581
+      "sha256": "9e2c82efe256bd5fa4649130867f10790d6095ba27c83673cd2659ccf0bf2329",
+      "bytes": 9636
     },
     {
       "path": "reviews/h01.html",
-      "sha256": "50e0aa5f7be5daaf00e0edcbcb3f914241c2b11613d8b0484316de26ef9a2fe4",
-      "bytes": 16271
+      "sha256": "89d55edb241877f8eea400d354154b735bf993f3a8109e709f839c18b113fdbb",
+      "bytes": 16326
     },
     {
       "path": "reviews/h02.html",
-      "sha256": "d4012404b06de66676d7bc177e593242a178927ab2e1d51332dadb8ab1368061",
-      "bytes": 8257
+      "sha256": "3aab14f775b0e94de58d8b6d5dce8dbc9bf43538b9c7e5c53c7a39379c4274b2",
+      "bytes": 8312
     },
     {
       "path": "reviews/h03.html",
-      "sha256": "626b5759442557227cdcc18118c217235d92937d69e7fb9fd2a1db36dd23d14b",
-      "bytes": 6796
+      "sha256": "823f06c2a4583335b847570b30f7c1c55d4293deb385d3d7b1b8a7c7d5372a5a",
+      "bytes": 6851
     },
     {
       "path": "reviews/h04.html",
-      "sha256": "da3a51c7c82b30a2b4e48b1547908378b7f9dde9cedb1a5f8dcf5b8c4bce9095",
-      "bytes": 8038
+      "sha256": "f134605cd32d269236b7020173a378cd18fedb9b21b37c46f25cbe187aaaea51",
+      "bytes": 8093
     },
     {
       "path": "reviews/h05.html",
-      "sha256": "e90dc1785b29ae189b237f549df34e22ab994c1eb4a947054ee0ec6a5d53b443",
-      "bytes": 7334
+      "sha256": "c24bc439159d689ae05b9addbc9aefa84dddd8f13bf87f63fed730c4db37842d",
+      "bytes": 7389
     },
     {
       "path": "reviews/h06.html",
-      "sha256": "962da4e7dd0086dc00b1891ba5534481c3e2eb6c58f8039d4c4e31c4b25db360",
-      "bytes": 7935
+      "sha256": "da1c663b9415241ded685415c782dcb62d885bd49f4a339330cd4890e647145b",
+      "bytes": 7990
     },
     {
       "path": "reviews/h07.html",
-      "sha256": "a0fc1e71ec11e60b565f03a8c2de83092436550737906f19be4197ab7e63d507",
-      "bytes": 4868
+      "sha256": "c9053b2d6892e7522f03cdef1310782d7eef34bfaf8a01581ce1567698132749",
+      "bytes": 4923
     },
     {
       "path": "reviews/h08.html",
-      "sha256": "667a9c5d70a192ec8c5c8644e6f3b635db9df1888aa0c92f171e7b6843bad1ba",
-      "bytes": 6684
+      "sha256": "5c5b488f2fadee7c008c2c1a0340a0a8050ed841961216e4cfbef8427571fd47",
+      "bytes": 6739
     },
     {
       "path": "reviews/h09.html",
-      "sha256": "2912ecbb22b5d8d6ab5066ebe834b35b64b892ca39b16192a4d9e8d7f6cf9b7d",
-      "bytes": 4568
+      "sha256": "eaac55c5984848608a8512aa91f7f99908bd922fef2bff22fc2faf770b9ef2ae",
+      "bytes": 4623
     },
     {
       "path": "reviews/h10.html",
-      "sha256": "c4064d47d76d56596c38166e6975641df7677ddbebe54db5339d7473a6091bb8",
-      "bytes": 5417
+      "sha256": "098cfffbe10bab620abd2c7766ab3dd2be4d64d2fce64aba9a558a31b98cad49",
+      "bytes": 5472
     },
     {
       "path": "reviews/h11.html",
-      "sha256": "360e32fb648f0de8258ff774866888ac365f936c85da2d34aec1a03665006daf",
-      "bytes": 5903
+      "sha256": "62123f306e32ab443df6b8104677d83f4db45b4efcbb60210e2d0b26a72ead84",
+      "bytes": 5958
     },
     {
       "path": "reviews/h12.html",
-      "sha256": "1663c5277331e2203a98c3e32830b42c1d3b9c4475dfa4f1e9b978111e53d5a7",
-      "bytes": 7949
+      "sha256": "b48e2222590c839cd966cec2fa4f80aee3418b4585d5a918f0dd922feb899b07",
+      "bytes": 8004
     },
     {
       "path": "reviews/h14.html",
-      "sha256": "8cadadf32fcaa16fd82a6d436ef83714a8a4725d140685b67dbadbc3ed1fcfe8",
-      "bytes": 5556
+      "sha256": "81e1a87eee02cb264c2a9416ae4fe37a6e4d04fcbf3933027d6f7dadeeff1dd0",
+      "bytes": 5611
     },
     {
       "path": "reviews/h15.html",
-      "sha256": "7b06537bdef8a08c6affe496cf9d4f4c15ec3d0df14ef6ae0192d6ab33e10473",
-      "bytes": 5341
+      "sha256": "dcde32bf5943eb596d8b601c80566b5ef0fbde50db2bd73cb3449ab02a503d8e",
+      "bytes": 5396
     },
     {
       "path": "reviews/h16.html",
-      "sha256": "ed53e17b217606973b75ca1d627d4afaf782c53860ac9bea573b02e23219c78e",
-      "bytes": 6800
+      "sha256": "973b1ca26d436ba1c8fe1f76b55efcc77065dad78ede087846379335ee410fa7",
+      "bytes": 6855
     },
     {
       "path": "reviews/h17.html",
-      "sha256": "e1350c72a62eca05ea294578398ef99b011795946ad2c84d4f4cd12c3973df6b",
-      "bytes": 11441
+      "sha256": "f52040247c6f6fa477240cb85b2e623a481cddbbd9131e97f8a71ab3bc1d6ca1",
+      "bytes": 11496
     },
     {
       "path": "reviews/h18.html",
-      "sha256": "e140f0b158f39dd9179d0f22c0104ae877d8c4e445515f07803c3fa3b49741ad",
-      "bytes": 5808
+      "sha256": "d9c20718f12650333b0d807ef1377a0ae773c9b6f1274c50840af08a428e2143",
+      "bytes": 5863
     },
     {
       "path": "reviews/h19.html",
-      "sha256": "2532c58bb459f1769380c2bb25ebf212c449fb1a104382f5e925c01cf50b6fad",
-      "bytes": 6139
-    },
-    {
-      "path": "reviews/h20.html",
-      "sha256": "82e46cbf7e3975b07e63fc3b4273f69e44f368c7cee738f802c442b130d3e17d",
-      "bytes": 11011
-    },
-    {
-      "path": "reviews/h21.html",
-      "sha256": "4a221cd26bb62e68bdbb122a3f8c2acadc91158abbd047d31daacbfa983beec0",
-      "bytes": 11964
-    },
-    {
-      "path": "reviews/h22.html",
-      "sha256": "7a2176a6da6f66a5a8be0a1a35939fde4a9eb1b89d4687a180c050e4f1907ea6",
-      "bytes": 13328
-    },
-    {
-      "path": "reviews/h23.html",
-      "sha256": "dbf07127b9c3139b6035d323f7cb445017266fb06b6fed5d0c502d148a9d8d81",
-      "bytes": 5262
-    },
-    {
-      "path": "reviews/h24.html",
-      "sha256": "871686ead18f4be316fa4e03e0b610eedf70f17e7538fe70556ddc08649c520b",
-      "bytes": 11100
-    },
-    {
-      "path": "reviews/n01.html",
-      "sha256": "9e15265affa2d1a3a451bef30265416e6a581d38e2d07f04890d3b65a20f2aeb",
-      "bytes": 18906
-    },
-    {
-      "path": "reviews/n03.html",
-      "sha256": "82909e2940043c85f2ea79dc0e91dcd208650e3679ace35c0bb0e9f2ec089725",
-      "bytes": 7778
-    },
-    {
-      "path": "reviews/n04.html",
-      "sha256": "af3e26ab84251457125b35e93bb1dfab1a901071f9aae1b4b6f1e5988417c7d0",
-      "bytes": 7565
-    },
-    {
-      "path": "reviews/n05.html",
-      "sha256": "67dc84fa3e2d3c99b03998a00f8f9fedf9ab918f555d7bc870ac09c4da6cc25c",
-      "bytes": 5265
-    },
-    {
-      "path": "reviews/n06.html",
-      "sha256": "27d3618378dd802bc62c6318c4d6579bb34dcab4a6075e9d6cd58c66570c7f17",
-      "bytes": 4987
-    },
-    {
-      "path": "reviews/n07.html",
-      "sha256": "6d264c5e4a42e192be572112f8e06c419a5202f32f71a61032f8de25b3d4815c",
-      "bytes": 6214
-    },
-    {
-      "path": "reviews/n08.html",
-      "sha256": "ad92b9311ed3e83e53b834192600e5437ff35593723ccb43fc32a52a11e942b6",
-      "bytes": 4685
-    },
-    {
-      "path": "reviews/n09.html",
-      "sha256": "6ff6573f51ed8ab7bb95184a2680fabb2e86695fd527cb1f903d5c5c35c70f9e",
-      "bytes": 12102
-    },
-    {
-      "path": "reviews/n11.html",
-      "sha256": "29ced306d802eef1f361b1ece301413a92337759a0d91497cddd5da9a432b068",
-      "bytes": 10743
-    },
-    {
-      "path": "reviews/n13.html",
-      "sha256": "cfb64e1c4d9169b689ec0ae61b343e47be4cc0f7c2400e89ccb043bc856b2e2b",
-      "bytes": 18178
-    },
-    {
-      "path": "reviews/n15.html",
-      "sha256": "7429a899e9559e13e0a9c1e2d6b3f42788d803d420c25565e1bf38a661151ba5",
-      "bytes": 4668
-    },
-    {
-      "path": "reviews/n16.html",
-      "sha256": "430ca1a402fda40f824fe4fc19538a612bf82d774519c26d83c93715d0520ddb",
-      "bytes": 5618
-    },
-    {
-      "path": "reviews/n17.html",
-      "sha256": "656b1a0a5c151af96ab7e39f77fc58fb5872c5148a6b075bfdcdbba66607b0ed",
-      "bytes": 12751
-    },
-    {
-      "path": "reviews/n18.html",
-      "sha256": "8f877f6196b5de0e095a3ef868b9ed2ce9fdae32105a34051bd6bdc17903cfe5",
-      "bytes": 12593
-    },
-    {
-      "path": "reviews/n19.html",
-      "sha256": "3a24c53f7a716c181703388183df1aea2383415c1045f82c019f03cb2b311916",
-      "bytes": 10566
-    },
-    {
-      "path": "reviews/n20.html",
-      "sha256": "726e9c2e532ce0882500ce726763eda6c11fe904ba28f1e91acf505db96906a6",
-      "bytes": 6873
-    },
-    {
-      "path": "reviews/n21.html",
-      "sha256": "fd51eb78bf17a5cb82865afcdb93b2401f8dcafd5804802a1e823665df14973b",
-      "bytes": 12350
-    },
-    {
-      "path": "reviews/n22.html",
-      "sha256": "713ac0c2f242193b36a7ae2a015428b0b7f4c970e1b8bcd66f289bb5c0cbd5fe",
-      "bytes": 4665
-    },
-    {
-      "path": "reviews/n23.html",
-      "sha256": "63d0a492efb9f8c318db39ba353d00d0fee20ab5e802e91ac85b47ce23d93d48",
-      "bytes": 5558
-    },
-    {
-      "path": "reviews/n24.html",
-      "sha256": "431da80140c4ad75eb4b4b07fe750b489ce3d9d13ca3a6b8bcfff97ddfb61aa1",
+      "sha256": "2bf8d9f00746bf64b86b914e61dc67accc87223785f05728e765c81717b3843d",
       "bytes": 6194
     },
     {
+      "path": "reviews/h20.html",
+      "sha256": "f505d057be4c1438f8b9451e411b2c09d515fe7c76933b39842499102085350b",
+      "bytes": 11066
+    },
+    {
+      "path": "reviews/h21.html",
+      "sha256": "9e8f822362e40ea1496c90a29fe2d04a393bb9c75c6bb170f01c20429a63e8a9",
+      "bytes": 12019
+    },
+    {
+      "path": "reviews/h22.html",
+      "sha256": "40bb7043d07d8a8cc24c2af97ffa7661dd165fb7575c199f0a6207b62bc59649",
+      "bytes": 13383
+    },
+    {
+      "path": "reviews/h23.html",
+      "sha256": "4ab0ef7e94d4ee78c75cfe2e7421fc2405109474b76731975a6b7687df69a799",
+      "bytes": 5317
+    },
+    {
+      "path": "reviews/h24.html",
+      "sha256": "50260e23f6db978810a850986c0085f15b2439468818bd9f8d406cf48a9627ff",
+      "bytes": 11155
+    },
+    {
+      "path": "reviews/n01.html",
+      "sha256": "5e33f271f50d8591d3aadb675160e6a84419d7847721f330c87a97227cf091fb",
+      "bytes": 18961
+    },
+    {
+      "path": "reviews/n03.html",
+      "sha256": "29b3b8894a61ba0123216995a4949a9fa997b280499e8e534fdc33474001eaaf",
+      "bytes": 7833
+    },
+    {
+      "path": "reviews/n04.html",
+      "sha256": "197f11818ccef4a48e05a96a2a49215a801e7512b9e158aaebb21519ab4ec887",
+      "bytes": 7620
+    },
+    {
+      "path": "reviews/n05.html",
+      "sha256": "48ee0aa9b023035b67463d16f1469310da992a216af5c741cc8f6ba1ca532e2b",
+      "bytes": 5320
+    },
+    {
+      "path": "reviews/n06.html",
+      "sha256": "dda6d34292220889439f61eb522d9a6a0869db6e2d5fb0bd8db619b577e793ba",
+      "bytes": 5042
+    },
+    {
+      "path": "reviews/n07.html",
+      "sha256": "b208a23f08c33dbf0b23537aa977f4853eb9ab929ce343c9905bb526b400ce1b",
+      "bytes": 6269
+    },
+    {
+      "path": "reviews/n08.html",
+      "sha256": "23e00363c053e505335217de9aedd71779657f7900a1fd7b7067b57b3ee87310",
+      "bytes": 4740
+    },
+    {
+      "path": "reviews/n09.html",
+      "sha256": "615585ae42c997c9c3c34a4ecea7d81c28f60f5d4330438edc216adfdfbc0ccd",
+      "bytes": 12157
+    },
+    {
+      "path": "reviews/n11.html",
+      "sha256": "837a7f06f63a74d61db5eeb99e0d12dba14a99c3cc18c6864fca735f809e054e",
+      "bytes": 10798
+    },
+    {
+      "path": "reviews/n13.html",
+      "sha256": "39b0301dcb199c733247616c5fc45c313d54dd8e74c34e8cee44099d0278f58c",
+      "bytes": 18233
+    },
+    {
+      "path": "reviews/n15.html",
+      "sha256": "0a93d47b6345944d072619192cbf1f5155e8fe8b4390b0f2ebcc6905770bf50d",
+      "bytes": 4723
+    },
+    {
+      "path": "reviews/n16.html",
+      "sha256": "2cd9c6dfea4a2cfc64ff091c55a2d99b49ea1ef71b63dac3a8f405f87cc57522",
+      "bytes": 5673
+    },
+    {
+      "path": "reviews/n17.html",
+      "sha256": "31d73bf84b49f0cea0a8cfe14271081a5dc7de8488baeb1b6e8157c747a1c33f",
+      "bytes": 12806
+    },
+    {
+      "path": "reviews/n18.html",
+      "sha256": "9274c5c81060394780b08eaa4bb17bd0a0eba631aea0b6501dd21271d1c30365",
+      "bytes": 12648
+    },
+    {
+      "path": "reviews/n19.html",
+      "sha256": "8d5fe7ad60afbf8ee9e8fc7dc131f64526327b0a6d1113b3876f9094ef7a3ed1",
+      "bytes": 10621
+    },
+    {
+      "path": "reviews/n20.html",
+      "sha256": "be1ade00c691dc2c88bc9a23cd8a3cbc54e3919ddc4f8a9b66f8194cdb5406eb",
+      "bytes": 6928
+    },
+    {
+      "path": "reviews/n21.html",
+      "sha256": "52a4b02970b1c5a7f91d012d2f66dc691193fc59f36d08db7293b6155366a7c7",
+      "bytes": 12405
+    },
+    {
+      "path": "reviews/n22.html",
+      "sha256": "2cf88db1bbf36a8754a4e89fc05f1280bf952e453959d2ca5f87eac033b7452e",
+      "bytes": 4720
+    },
+    {
+      "path": "reviews/n23.html",
+      "sha256": "f15a279bc6d548a755eee01a8e888dd01f1686a7acdfa00a57b6c743bc3a0e99",
+      "bytes": 5613
+    },
+    {
+      "path": "reviews/n24.html",
+      "sha256": "d80de8ceeaa964be5feb1fb95adf225ad154d74d54da9f1f7f986c1e76373fe6",
+      "bytes": 6249
+    },
+    {
       "path": "reviews/n25.html",
-      "sha256": "5cc4cd4d183c6a4e2c88e99a8ea30ea25269bc7e73a7ab4263a5653d67c28cb3",
-      "bytes": 4995
+      "sha256": "3e575c15e847b9a516111397b4c9982a61b5664e555e2f66e68130204539bd8f",
+      "bytes": 5050
     },
     {
       "path": "reviews/n26.html",
-      "sha256": "e0f5570af5ae9f1cead4973853a3dbb18dafea01a5d5cc8146bc221e7a8bf067",
-      "bytes": 5016
+      "sha256": "1835e489f2ce3a5593edbd7bb880edace01051ca9d005bc743d91bd209ffd528",
+      "bytes": 5071
     },
     {
       "path": "reviews/n28.html",
-      "sha256": "0edd04c378081f7a57c9070e21a58edde7d82f293c943305c7218905ad9d3780",
-      "bytes": 15679
+      "sha256": "ffae432614ed9bf868c1dd0108f0d812a41d0ffaf2da4fab20341f3b6c7506a1",
+      "bytes": 15734
     },
     {
       "path": "reviews/n29.html",
-      "sha256": "e3671e3ac04bd40396060b2dd19e53b4d34842018e521942fe60fca769dd8000",
-      "bytes": 7524
+      "sha256": "806d2081d2144d8f3e5be599598f48f364ca3912e3e783d50e5c4d6468baa4f5",
+      "bytes": 7579
     },
     {
       "path": "reviews/n30.html",
-      "sha256": "0b1a9a7478e142b3994303012b496d5dfc727fcde6c5ec313e361d9b86f17397",
-      "bytes": 14808
+      "sha256": "3832c54e98afb995b28180f3fc1da9ec2de14ad879bb1732c7364c570c6a7d00",
+      "bytes": 14863
     },
     {
       "path": "reviews/n31.html",
-      "sha256": "030c0dea46d4545372b7187c4027d43ccdcf9eaa1446bda8c5aef18d5e0f27f4",
-      "bytes": 5468
+      "sha256": "476190f242bfbfe9dcd38f2fbee218e44b3d291892bdccd3732dec5adf172b65",
+      "bytes": 5523
     },
     {
       "path": "reviews/n32.html",
-      "sha256": "470e915c88acf5ae164d110023b3be7095eb8282a93bb4111cb74cf20eeb8ecc",
-      "bytes": 9969
+      "sha256": "b2858aed15c7024dac63ae78ec87d4cd1e9f927517b24c2ffa084b174491ded8",
+      "bytes": 10024
     },
     {
       "path": "reviews/n34.html",
-      "sha256": "821e65f5d81f18269da4746daa93c4939fb6a6407d5cbcf30f7f96bb8e66f94e",
-      "bytes": 15726
+      "sha256": "8c355078cf9922391c0666577a08ea4859066496cc147f4040fb6e7a1dfea08a",
+      "bytes": 15781
     },
     {
       "path": "reviews/n35.html",
-      "sha256": "ed5636672cd90491f13beb24cc2a0f857592d4f7f17170bece3b23d5a5cd75b7",
-      "bytes": 15862
+      "sha256": "b63a9d63e42c41e557ccbc55dca8f771005b16325c479e7c61f7d2f491ad7e28",
+      "bytes": 15917
     },
     {
       "path": "reviews/n36.html",
-      "sha256": "c418007a88b571d7848337a715d696c0b70bec5a4ea065f0237486b154523e98",
-      "bytes": 17275
+      "sha256": "0d5551279f48fd0e5a5c1fbd1f171632f3bc3066bca67f9aa06b8c0d01f539bd",
+      "bytes": 17330
     },
     {
       "path": "reviews/n37.html",
-      "sha256": "f685e8f6d8a1fef698299a8250c3b4144669ecf861a53bcc219da61816f17ef6",
-      "bytes": 9826
+      "sha256": "e97c80207c8fb2ae43899528efa4f11b27fc68a5af1836ffef2fdec83c437ab1",
+      "bytes": 9881
     },
     {
       "path": "reviews/n38.html",
-      "sha256": "8c950b2ed002161ecd2aa638c93bcfd1bf049813b0d3accb52dc1db45f1c4ada",
-      "bytes": 11934
+      "sha256": "3a82c2bbe9d9baf6fd3a302fc4ce1ee917c1a5d3dae4c8596a0b3e6acaeed782",
+      "bytes": 11989
     },
     {
       "path": "reviews/n39.html",
-      "sha256": "2431a2f25bbb6685d76f7dc787c4322679c82a4e301aee5cc783a0230402239e",
-      "bytes": 4990
+      "sha256": "6c32ac9cc28f8847c6232cdf99b27514c3610297adcabec24d77b5dad228e9da",
+      "bytes": 5045
     },
     {
       "path": "reviews/n40.html",
-      "sha256": "df70043d1c6c7bfae232eb9e074c8476c56ee7a873bc735da340e6ecd82da39a",
-      "bytes": 14172
+      "sha256": "6ff2dc847f102822f6dce4ce8ae4a1edc56d2b4c68a69c3f071e9c78d507b782",
+      "bytes": 14227
     },
     {
       "path": "reviews/p01.html",
-      "sha256": "cfcc8f5bffbb3f2c0fc727244c75362ae6bdbdc781fac7d7a26d88fd6ad1ece8",
-      "bytes": 8765
+      "sha256": "bdd8853ca2d0c653d8d64edb0308fd1326202372ba7dcaf674353788a9908661",
+      "bytes": 8820
     },
     {
       "path": "reviews/p02.html",
-      "sha256": "e7687ca864bda1bd17fa8a7186c026ce4993cbbdb7c9186d047e229e9ded5ded",
-      "bytes": 4361
+      "sha256": "5edbf9ff9641575f6fcc844d09d9d28b67c08dfac8f157df2172b41adb732c76",
+      "bytes": 4416
     },
     {
       "path": "reviews/p03.html",
-      "sha256": "5674bd0a8cc8a1c9ed4be86b3ce3a8c5f0419b575e9089d86d948fe3ea1912c5",
-      "bytes": 8043
+      "sha256": "529c1f86b198a942db7175606d249316c1f12b7c0fd431d1ea4feaa48764b6c8",
+      "bytes": 8098
     },
     {
       "path": "reviews/p07.html",
-      "sha256": "ef0b5eeee3ac02ad7bda5e45e0d14674c542d53f802d9825a593aa669cb106b2",
-      "bytes": 6217
+      "sha256": "05dc5a68cebabc3be74be15ef9b5a085bca7c1d46725b1434b8a9fcbccb37f94",
+      "bytes": 6272
     },
     {
       "path": "reviews/p10.html",
-      "sha256": "0e8ef5e0bfdb7dca689ed5c1d4d39ce19b9655bd32d55b72adf595c91427fa31",
-      "bytes": 6026
+      "sha256": "a3eb9b976462721f582b1b2eb162eeb282a7e8186c305e5c6c13871a9444cc54",
+      "bytes": 6081
     },
     {
       "path": "studies.html",
       "sha256": "3ab7780be8400e50daee47191826d21e1286f5f47f649e96f37fde45a5e79703",
       "bytes": 170
+    },
+    {
+      "path": "suite-core.js",
+      "sha256": "184335099ca918be5155e46036ed93fb817e02dfa4836c2337d8b344e00f8574",
+      "bytes": 5904
+    },
+    {
+      "path": "suite.css",
+      "sha256": "2b6039642b9ef66d47d3dce76cf43efe3f5dd72b618069c21bf1074770baea48",
+      "bytes": 2708
+    },
+    {
+      "path": "suite.js",
+      "sha256": "53f175102edaa3cbd21bebbe38e2d5a5bab8aac52cf6102ee7bf24633726468e",
+      "bytes": 21114
+    },
+    {
+      "path": "vendor/LICENSE-jszip.txt",
+      "sha256": "566c953c6090b1218ca6217dd7359d45dde46581968586dc607d59a78af6a9c4",
+      "bytes": 33753
+    },
+    {
+      "path": "vendor/LICENSE-pdf-lib.txt",
+      "sha256": "f2c9fc00fdb66eb99ac156ba52d734af66d8d309f65753ae809ad34ee2883bcb",
+      "bytes": 1070
+    },
+    {
+      "path": "vendor/jszip-3.10.1.min.js",
+      "sha256": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e",
+      "bytes": 97630
+    },
+    {
+      "path": "vendor/pdf-lib-1.17.1.min.js",
+      "sha256": "0f9a5cad07941f0826586c94e089d89b918c46e5c17cf2d5a3c6f666e3bc694f",
+      "bytes": 525099
     }
   ]
 }
